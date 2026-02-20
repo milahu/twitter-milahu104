@@ -20,6 +20,14 @@ window.YTD.direct_message_headers.part0 = [
       "messages" : [
         {
           "messageCreate" : {
+            "id" : "2022395501518229939",
+            "senderId" : "1964312974236991488",
+            "recipientId" : "2846154391",
+            "createdAt" : "2026-02-13T19:40:36.589Z"
+          }
+        },
+        {
+          "messageCreate" : {
             "id" : "2020990639995806191",
             "senderId" : "2846154391",
             "recipientId" : "1964312974236991488",

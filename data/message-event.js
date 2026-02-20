@@ -571,5 +571,34 @@ window.YTD.message_event.part0 = [
       },
       "sequenceId" : "2020989638651830272"
     }
+  },
+  {
+    "messageEvent" : {
+      "messageEventSignature" : {
+        "signature" : "9VTEY4ZnjJvNlBzdvixEocuxxGraaTm0IRBqJRmz5q26jZldzpsmfFU/tjd9he11vB8BLML88iCr/4Q+6wWCLA",
+        "publicKeyVersion" : "1767122382225",
+        "messageSigningKeyInfoList" : [
+          {
+            "memberId" : "1964312974236991488",
+            "publicKeyVersion" : "1767122382225",
+            "signingPublicKey" : "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAET39GbRcywtpRox06IzC00Aq0BZSXo9ujZWbUGtdZQFuz20pWeh8OibglHDQZB/EVhCMYZi8JnMEYGCwbK5fMpg=="
+          }
+        ],
+        "signatureVersion" : "4",
+        "signingPublicKey" : "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAET39GbRcywtpRox06IzC00Aq0BZSXo9ujZWbUGtdZQFuz20pWeh8OibglHDQZB/EVhCMYZi8JnMEYGCwbK5fMpg=="
+      },
+      "createdAtMsec" : "1771010974501",
+      "conversationToken" : "eyJhbGciOiJIUzI1NiJ9.eyJyZXF1ZXN0aW5nVXNlciI6ICIxOTY0MzEyOTc0MjM2OTkxNDg4IiwgInJlY2lwaWVudCI6ICIyODQ2MTU0MzkxIiwgInZhbGlkU2luY2VNU2VjIjogIjE3NDU4ODQ4MDAwMDAifQ.sUJG52oLEdS88XgGhcccuotS0Givb2tGcv5Tf1uM9cw",
+      "senderId" : "1964312974236991488",
+      "conversationId" : "2846154391:1964312974236991488",
+      "messageId" : "45fb8fb1-53d3-476d-aec8-12b7b4c55085",
+      "detail" : {
+        "markConversationReadEvent" : {
+          "seenUntilSequenceId" : "2020990639995806191",
+          "seenAtMillis" : "1771010974384"
+        }
+      },
+      "sequenceId" : "2022392724851171328"
+    }
   }
 ]

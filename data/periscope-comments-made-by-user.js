@@ -9689,6 +9689,17366 @@ window.YTD.periscope_comments_made_by_user.part0 = [
   },
   {
     "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:10:54.653Z",
+      "text" : "https://milahu.github.io/alchi/src/whoaremyfriends/wersindmeinefreunde.html#radical-problems"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:12:23.764Z",
+      "text" : "hirntot?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:14:32.577Z",
+      "text" : "\"zeigt reue\" -> freispruch!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:14:44.360Z",
+      "text" : "\"nicht erklären\" xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:15:54.270Z",
+      "text" : "hier hat es ein mal den richtigen getroffen: https://github.com/milahu/dominik-sobota-vs-rainer-gerth -- Am 8. April 2024 ersticht Dominik Sobota den Dr. Rainer Gerth in Wasserburg am Inn"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:18:23.212Z",
+      "text" : "familienclans, alte deutsche tradition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:18:56.639Z",
+      "text" : "müller, huber, hainz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:19:18.482Z",
+      "text" : "\"inzwischen\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:20:01.924Z",
+      "text" : "sind wir nicht alle in rockerbanden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:20:12.704Z",
+      "text" : "*passdeutsch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:21:06.965Z",
+      "text" : "haha, einfach das gegenteil behaupten und mit scheisse werfen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:22:31.087Z",
+      "text" : "die steigerung von kriminalität und todesrate ist ja ein hauptziel der migranten-invasion"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:22:50.342Z",
+      "text" : "keine twitter notification"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:23:19.175Z",
+      "text" : "shlomo shadowcucked auf twitter?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:24:22.560Z",
+      "text" : "7K im monat? will ich auch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:25:04.640Z",
+      "text" : "ich hab 100 imaginäre kinder, wo ist mein geld?!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:25:48.436Z",
+      "text" : "\"es ist kompliziert\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:26:08.117Z",
+      "text" : "aggressiv = nicht auf knien flehend"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:27:18.238Z",
+      "text" : "kassieren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:28:50.764Z",
+      "text" : "kriegst trotzdem auf die fresse wegen deinem aggressiven konti outfit"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:32:22.346Z",
+      "text" : "\"rinder sind böse\" -> genau das gegenteil ist die wahrheit, wie so oft -> carnivore diet: https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:39:12.522Z",
+      "text" : "\"polizeieinsatz wegen psychischer gesundheit\" -- dazu reicht wenn ein nachbar die bullen ruft mit \"ich fühle mich belästigt von dem\"...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:39:38.372Z",
+      "text" : "soll seine mumu zeigen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:33.530Z",
+      "text" : "\"dass gewalt eine lösung sei\" --- pfff gewalt ist eine lösung, das ganze system baut auf gewalt.... opfer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:40.681Z",
+      "text" : "*keine"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:43.581Z",
+      "text" : "*eine"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:41:35.154Z",
+      "text" : "\"reddit\".... alles klar... was für ein shithole >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:41:59.015Z",
+      "text" : "die meisten leute auf reddit sind so behindert..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:42:23.081Z",
+      "text" : "reddit verbieten, problem gelöst"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:43:50.162Z",
+      "text" : "reddit2 verbieten, reddit3 verbieten, ..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:44:21.568Z",
+      "text" : "\"libertär\" -- instant 10 IQ punkte verloren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:00.956Z",
+      "text" : "\"eine welt voller hass\" -- aww das klingt traumhaft"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:27.224Z",
+      "text" : "\"transkind\" -- auch wieder nur ein opfer von dummen/bösen kindern"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:32.341Z",
+      "text" : "low-dose DMT oh yeah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:57.032Z",
+      "text" : "\"komplett kaputter typ\" -- haha, selber keine erfahrung mit drogen, aber scheisse über drogen user reden? weak"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:47:22.818Z",
+      "text" : "\"putin ist schuld!\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:47:58.174Z",
+      "text" : "shlo muss dringend DMT rauchen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:48:43.169Z",
+      "text" : "feroz der eiserne"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:50:55.735Z",
+      "text" : "gyros, alte deutsche tradition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:07.560Z",
+      "text" : "der deutscheste pali der welt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:12.700Z",
+      "text" : "*paki"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:48.425Z",
+      "text" : "quoten brownie"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:53:14.540Z",
+      "text" : "yeah. welche anstaltung?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:54:26.941Z",
+      "text" : "they are noticing. SHUT IT DOWN!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:29.311Z",
+      "text" : "prozess gegen 40% von deutschland"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:42.359Z",
+      "text" : "gewalt ist herrlich, was sonst?!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:57.333Z",
+      "text" : "zeig logo"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:57:32.834Z",
+      "text" : "die AFD träumt nachts heimlich von \"ausländer raus\".... instant verbieten!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:59:10.256Z",
+      "text" : "sellner?! da kannst auch gleich adolf hitler einladen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:00:24.838Z",
+      "text" : "keiner redet so schön über \"remigration\" wie martin sellner .... blaa blaa blaaa blaaa blaaaaa... nur gelaber den ganzen tag, aber alles bleibt scheisse, und keiner versteht warum...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:04:22.707Z",
+      "text" : "eisbrecher:innen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:04:52.968Z",
+      "text" : "aussen:innen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:05:10.997Z",
+      "text" : "man hätte ihn dafür auslachen müssen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:06:30.515Z",
+      "text" : "...und am ende vom stück werden AFD politiker mit einer guillotine geköpft"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:07:29.959Z",
+      "text" : "\"die warze ist mein alleinstellungsmerkmal\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:07:39.463Z",
+      "text" : "\"sind sie ein cuck?\" -- \"jaa\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:08:18.851Z",
+      "text" : "\"totschlag ist eine angemessene gewaltform\" -- faschisten immer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:09:46.952Z",
+      "text" : "gefühlte 1% der migranten sind \"frauen und kinder\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:10:41.216Z",
+      "text" : "für kuchenwerfen kriegst du als rechter \"versuchter totschlag\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:11:24.825Z",
+      "text" : "lord sellnermort"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:12:38.823Z",
+      "text" : "verschwörung, alle gegen einen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:18:04.695Z",
+      "text" : "feroz ist so naiv.... die arbeiten ALLE zusammen, das ist eine große verschwörung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:18:52.879Z",
+      "text" : "\"Warum reden die über diese Veranstaltung\" --- ja, schon wieder so eine scheiss unrelevante scheisse......"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:20:22.592Z",
+      "text" : "\"Wen wollte man überzeugen? Man braucht sich nur das Publikum anzusehen: Alles verlorene Seelen\" -- yes. echokammer. mentaler inzest"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:22:23.161Z",
+      "text" : "\"Solchen Leuten muss man ihre Lebenslügen lassen und ihnen nicht noch den Ruhestand verderben.\" --- nein!! energieverschwendung. weg damit!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:22:48.511Z",
+      "text" : "richtig gecastet... alter weisser cuck"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:09.625Z",
+      "text" : "impfstatus 100000 impfungen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:29.138Z",
+      "text" : "lieblingssport auf der couch sitzen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:49.601Z",
+      "text" : "cuck kritik"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:03.356Z",
+      "text" : "\"traue keinem über 45\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:20.022Z",
+      "text" : "\"ich gelobe alle fotzen zu zerficken\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:52.928Z",
+      "text" : "feroz ist 25% deutscher"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:28:47.367Z",
+      "text" : "\"sie sind ein interessanter typ\" --- aussen braun und innen braun 0___o"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:22.053Z",
+      "text" : "\"ich kenne diese zahl nicht\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:41.785Z",
+      "text" : "YESS"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:57.193Z",
+      "text" : "\"das sagt viel über sie aus und nichts über mich\"!!!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:03.914Z",
+      "text" : "HUUUUREEEE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:13.582Z",
+      "text" : "HALT DIE FRESSE HUREE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:29.926Z",
+      "text" : "haha, ich wäre gegangen, scheiss kindergarten"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:44.066Z",
+      "text" : "\"ich bin hier raus, fickt euch alle\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:31:08.858Z",
+      "text" : "die arroganz ist so widerlich"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:31:35.784Z",
+      "text" : "sie provozieren 24/7 und wenn du ein falsches wort sagst dann bist du der böse"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:32:10.798Z",
+      "text" : "feroz hätte laut lachen sollen und einfach gehen..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:34:01.870Z",
+      "text" : "gegneranalyse.."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:01.277Z",
+      "text" : "pff, die wusste genau welche zahl das ist, die hat sich einfach extrem dumm gestellt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:41.430Z",
+      "text" : "die zahl kann man mit 20 sekunden google \"beweisen\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:50.637Z",
+      "text" : "haben die kein internet?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:36:41.986Z",
+      "text" : "linke sind unsportlich per definition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:37:26.587Z",
+      "text" : "vegan-cuck wtf?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:38:28.368Z",
+      "text" : "linke = unsportlich = verlogen = kriminell...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:26.679Z",
+      "text" : "feroz, einer gegen alle"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:41.788Z",
+      "text" : "mentaler inzest"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:50.800Z",
+      "text" : "gleichschaltung, lockstep"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:56.968Z",
+      "text" : "faschismus = keine oppositin"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:41:27.845Z",
+      "text" : "die frage \"kennen sie messerstecher\" sollte man ignorieren als scheiss-frage, und weiter zur nächsten frage"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:41:55.497Z",
+      "text" : "man muss nicht über jedes stöckchen springen, man muss sich nicht von jedem scheiss provozieren lassen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:42:03.758Z",
+      "text" : "GETÖTET HAT"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:42:56.622Z",
+      "text" : "WO SOLLEN DIE SONST HIN AUSSER NACH DEUTSCHLAND???"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:43:16.486Z",
+      "text" : "\"entschuldigung aber sie sind dumm\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:43:46.290Z",
+      "text" : "so fertig diese leute...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:01.435Z",
+      "text" : "\"ich ertrage deren hinterfotzigkeit nicht mehr\" +1"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:24.010Z",
+      "text" : "schon wieder sone scheiss frage, wtf"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:28.063Z",
+      "text" : "null relevanz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:59.291Z",
+      "text" : "\"was war das für eine Fragerunde\" -- prozess gegen deutschland"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:45:50.670Z",
+      "text" : "mönch frisur...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:47:49.241Z",
+      "text" : "wenn man auf der sachebene schon verloren hat, dann muss man persönlich werden.... ad-hominem angriffe, \"linke scheisse\", lügen, rhetorik...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:48:41.826Z",
+      "text" : "lineare fortsetung? eher exponentielle fortsetzung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:48:55.194Z",
+      "text" : "GAULAND IST MEIN FÜHRER"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:49:45.986Z",
+      "text" : "\"differenziert\" -- gute antwort"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:50:14.714Z",
+      "text" : "\"wie finden sie X\" ---- die frage ist zu ungenau"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:50:58.134Z",
+      "text" : "100%"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:37.000Z",
+      "text" : "mathematische notwendigkeit"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:44.315Z",
+      "text" : "\"sie sind paranoid\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:58.427Z",
+      "text" : "NICE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:52:08.482Z",
+      "text" : "\"dummes zeug\" rache"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:53:04.416Z",
+      "text" : "dieses verhör läuft ähnlich wie in der psychiatrie..... egal was du sagst, du bist immer \"verrückt\" und \"paranoid\" und \"dumm\"...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:53:30.937Z",
+      "text" : "psychiatrie / hexenprozess"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:54:30.562Z",
+      "text" : "wem will er keine bühne geben? dem feroz?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:55:22.997Z",
+      "text" : "hose runterziehen und einen kackhaufen auf der bühne hinterlassen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:56:03.971Z",
+      "text" : "\"So n Gericht hab ich schonmal in Idiocracy gesehen.\" ---- aaaah. auch idiocracy ist ein instruction manual"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:57:17.810Z",
+      "text" : "zensur ist eine faschistische methode"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:58:52.438Z",
+      "text" : "feroz unser schäbiger lump <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:59:14.717Z",
+      "text" : "neutral?! nur tote sind neutral, alles leben hat neigung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:00:02.875Z",
+      "text" : "feroz hätte parallel einen privaten livestream machen sollen und das event weiter kommentieren : D"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:03:04.368Z",
+      "text" : "das haben die trainiert, vorbereitet, geskriptet"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:03:46.641Z",
+      "text" : "scheiss kindergarten niveau.... die sind doch alle hirntot geimpft >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:05:55.076Z",
+      "text" : "feroz \"fakenews\" khan"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:06:36.406Z",
+      "text" : "blamiert..... die linken haben keine besseren leute : D"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:09.222Z",
+      "text" : "feroz wird nie wieder eingeladen von linken xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:20.558Z",
+      "text" : "feroz \"blacklisted\" khan"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:48.434Z",
+      "text" : "google -> afd youtuber -> feroz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:08:24.740Z",
+      "text" : "ziel der aktion? steuergeld kassieren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:09:25.857Z",
+      "text" : "nur wer scheisse baut muss \"nett\" sein.... extrem antimeddl"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:10:00.463Z",
+      "text" : "\"kloschüssel\" --- gesichert rechtsextremer kampfbegriff"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:11:00.081Z",
+      "text" : "\"Du Dieter ick frach mal meenen Neffen, der kennt solche Kanäle\" ---- der neffe ist heimlich rechter und wollte seine linke family ficken"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:12:12.978Z",
+      "text" : "der rechte neffe, das schwarze schaf der linken familie, wird bald zur adoption freigegeben"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:12:44.120Z",
+      "text" : "war livestream"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:14:14.213Z",
+      "text" : "chris ares - defend europe"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:14:57.777Z",
+      "text" : "https://www.youtube.com/watch?v=4ebzYtQ9MT8 ---- Chris Ares - Defend Europe"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:16:55.820Z",
+      "text" : "wir brauchen militärputsch und militärdiktatur, alles andere ist doomed to fail...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:17:24.363Z",
+      "text" : "radikale probleme -> radikale lösungen. und die militärdiktatur wird sowieso kommen (kalifat europa)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:18:38.481Z",
+      "text" : "feroz hätte das ALLES heimlich recorden sollen, audio und video"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:19:00.350Z",
+      "text" : "\"sie arschloch\" -- also er hat die diskussion verloren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:19:46.300Z",
+      "text" : "\"die hätten mich gelyncht... die hassen uns\"... oh ja! das wird alles nur noch schlimmer, noch weiter eskalieren...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:20:11.961Z",
+      "text" : "attentat auf stürzenberger...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:20:39.561Z",
+      "text" : "vermutlich ermordete AFD politiker vor lokalwahl...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:21:30.521Z",
+      "text" : "jörg haider -- nationalistischer politiker in österreich -- ermordet von der CIA (drive by wire car remote control)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:21:50.781Z",
+      "text" : "möllemann --- hat sich mit israel angelegt --- ermordet vom mossad..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:22:23.757Z",
+      "text" : "\"ist trotzdem fake news!!\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:22:55.009Z",
+      "text" : "\"benutzung des internets\" <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:24.737Z",
+      "text" : "\"ihr MESSERscharfer verstand\" xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:38.337Z",
+      "text" : "er hätte noch viel viel mehr das wort MESSER einbauen können xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:50.389Z",
+      "text" : "mit MESSERhaften grüßen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:25:47.684Z",
+      "text" : "100% rhetorik.... die scheissen auf harte fakten"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:26:08.735Z",
+      "text" : "schmelztiegelfamilie?? kalifat europa!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:27:26.237Z",
+      "text" : "pff AFD verbot..... die AFD ist controlled opposition, zu spät zu wenig.... altparteien hinterlassen verbrannte erde = crash, blackout"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:27:58.281Z",
+      "text" : "AFD verbot debatte ist auch wieder ne ablenkung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:28:47.101Z",
+      "text" : "ich würde paraguay wählen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:28:55.373Z",
+      "text" : "scheiss auf europa >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:31:48.802Z",
+      "text" : "\"wir sollten geduldig und vorsichtig vorgehen\" ---- bullshit, militärputsch oder untergang"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:32:42.531Z",
+      "text" : "paraguay hat zumindest noch keine migranten-invasion.... aber sicher besser als europa"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:34:12.472Z",
+      "text" : "Marco Rubio <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:34:55.073Z",
+      "text" : "deine \"heimat\" versinkt bald in blackout und bürgerkrieg, have fun"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:36:09.653Z",
+      "text" : "china ist ein mächtiger gegner..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:37:44.770Z",
+      "text" : "meddlferoz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:39:35.465Z",
+      "text" : "mir ist mein leben wichtiger..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:42:13.374Z",
+      "text" : "nein, mir ist mein leben wichtiger als \"meine heimat\"... die meisten deutschen finde ich eeh scheisse 0__o"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:46:32.174Z",
+      "text" : "\"Die Boomer sind hirnlose Verfügungsmasse unserer Gegner. Die sind leicht zu manipulieren, und es sind sehr viele mit sehr vielen Mitteln.\" --- ja, das meine ich mit \"die meisten deutschen finde ich eeh scheisse\".... 80% impfquote, wählen immer wieder altparteien, die meisten konsumieren alkohol und tabak.... nicht meine welt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:47:02.989Z",
+      "text" : "kurz: viel zu viele cukcs"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:48:47.542Z",
+      "text" : "quentin kommt auf \"regime seine todesliste\" in meinem buch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:56:52.391Z",
+      "text" : "\"Honig ist angeblich nicht nenenswert gesünger als raffinierter Zucker\" ---- bin grad aufm carnivore diet trip -> https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:59:11.857Z",
+      "text" : "\"der nimmt steroide\" --- SamaHoole? glaub ich nicht... aber ich kenn den nicht persönlich"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:59:28.485Z",
+      "text" : "komplettgeisteskrankesevent"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:00:12.629Z",
+      "text" : "\"sie sind ein interessanter typ\" ...... weil er ein brauner nazi ist?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:01:53.751Z",
+      "text" : "\"wahrscheinlich steroide\" --- bullshit, lies einfach seine posts.... alles natur bei dem typ  https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:02:55.191Z",
+      "text" : "null ist genug"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:03:25.532Z",
+      "text" : "\"... immer dreister zu lügen\" ohja"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:04:06.164Z",
+      "text" : "stellst du immer so behinderte fragen?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:05:15.674Z",
+      "text" : "einbürgerungstest jedes jahr wiederholen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:05:27.920Z",
+      "text" : "...und nur linke werden eingebürgert"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:06:52.001Z",
+      "text" : "\"face ID\" ist das ende der anonymität im internet.... das mit dem alterscheck ist nur der fuß in der tür (trojanisches pferd)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:07:42.883Z",
+      "text" : "... VPN wird verboten, Tor wird verboten, I2P wird verboten.... zu viele \"fake news\" (wahrheiten) im internet"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:09:23.630Z",
+      "text" : "jesus christus wählt CDU, lässt sich totficken von niggern, und hält noch sein anderes loch hin....."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:11:44.174Z",
+      "text" : "auktion von 12jährigen, wer kennt es nicht?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:12:03.953Z",
+      "text" : "\"zustand: gebraucht aber neuwertig\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:13:04.754Z",
+      "text" : "böhse onkelz ens <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:15:48.196Z",
+      "text" : "westalgiker sind gehirnwäsche-opfer von der US-besatzung seit 1945...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:17:09.397Z",
+      "text" : "\"Chabad-Lubawitsch-Bewegung\" --- bingo..... tilman knechtel, traukeinempromi, metanoia magazin"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:18:38.671Z",
+      "text" : "haha verhaftet.... da hat einer das \"justiz\" system nicht verstanden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:23:49.943Z",
+      "text" : "https://milahu.github.io/alchi/src/whoaremyfriends/wersindmeinefreunde.html#radical-problems"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:24:15.704Z",
+      "text" : "doch, ich meine DAS paradies auf erden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:24:55.333Z",
+      "text" : "gedruckt 200 seiten A5"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:27:36.986Z",
+      "text" : "kalifat europa"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:27:52.567Z",
+      "text" : "linke werden vom hochhaus geworfen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:30:38.847Z",
+      "text" : "...unsere männer an die front schicken zum sterben"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:31:13.058Z",
+      "text" : "träne unters auge"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:32:21.523Z",
+      "text" : "freifunk = wlan mesh network = scheiss latenz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:35:48.991Z",
+      "text" : "ich als vater hab kein sorgerecht weil ich staatsfeind bin...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:36:01.633Z",
+      "text" : "offiziell \"schizophren\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:37:25.291Z",
+      "text" : "junge!! das war zu rääächts!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:38:16.498Z",
+      "text" : "demenz ist auch so eine zivilisationskrankheit.... spätfolge von nährstoffmangel.... lithium mangel und so"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:38:43.731Z",
+      "text" : "suizid mit 60, problem gelöst"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:41:49.866Z",
+      "text" : "göthe und schiller und nietzsche waren auch \"rechts\" im sinn von: aristokratisch, anti-demokratisch, \"die meisten leute sind idioten\", \"eine kleine elite sollte herrschen\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:43:56.472Z",
+      "text" : "meddlloide geht immer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:44:46.458Z",
+      "text" : "haha, sezession in bundesländer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:45:08.326Z",
+      "text" : "ostdeutschland bleibt deutsch, westdeutschland + frankreich + england werden zerfickt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:46:20.238Z",
+      "text" : "visegrad staaten bleiben VIELLEICHT stabil (polen, tschechien, ungarn, slovakei, ...)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:46:52.956Z",
+      "text" : "/votekick krah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:47:21.036Z",
+      "text" : "/votekick (alle cucks in der AFD)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:47:42.485Z",
+      "text" : "\"wir müssen stiefel lecken\" -- krah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:49:06.468Z",
+      "text" : "uhoh, offline treffen wird gebusted von cops"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:49:51.630Z",
+      "text" : "\"rechts\" im sinn von: aristokratisch, \"die meisten menschen sind idioten\", anti-demokratisch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:52:07.971Z",
+      "text" : "derdiedas weib"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:54:21.708Z",
+      "text" : "archive org"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:55:20.216Z",
+      "text" : "naja, wenn man zu langsam redet wird man vom publikum weggeklatscht"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:55:37.693Z",
+      "text" : "NICHTS <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:56:15.457Z",
+      "text" : "meddlloide"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:10:54.653Z",
+      "text" : "https://milahu.github.io/alchi/src/whoaremyfriends/wersindmeinefreunde.html#radical-problems"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:12:23.764Z",
+      "text" : "hirntot?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:14:32.577Z",
+      "text" : "\"zeigt reue\" -> freispruch!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:14:44.360Z",
+      "text" : "\"nicht erklären\" xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:15:54.270Z",
+      "text" : "hier hat es ein mal den richtigen getroffen: https://github.com/milahu/dominik-sobota-vs-rainer-gerth -- Am 8. April 2024 ersticht Dominik Sobota den Dr. Rainer Gerth in Wasserburg am Inn"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:18:23.212Z",
+      "text" : "familienclans, alte deutsche tradition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:18:56.639Z",
+      "text" : "müller, huber, hainz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:19:18.482Z",
+      "text" : "\"inzwischen\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:20:01.924Z",
+      "text" : "sind wir nicht alle in rockerbanden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:20:12.704Z",
+      "text" : "*passdeutsch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:21:06.965Z",
+      "text" : "haha, einfach das gegenteil behaupten und mit scheisse werfen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:22:31.087Z",
+      "text" : "die steigerung von kriminalität und todesrate ist ja ein hauptziel der migranten-invasion"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:22:50.342Z",
+      "text" : "keine twitter notification"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:23:19.175Z",
+      "text" : "shlomo shadowcucked auf twitter?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:24:22.560Z",
+      "text" : "7K im monat? will ich auch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:25:04.640Z",
+      "text" : "ich hab 100 imaginäre kinder, wo ist mein geld?!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:25:48.436Z",
+      "text" : "\"es ist kompliziert\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:26:08.117Z",
+      "text" : "aggressiv = nicht auf knien flehend"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:27:18.238Z",
+      "text" : "kassieren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:28:50.764Z",
+      "text" : "kriegst trotzdem auf die fresse wegen deinem aggressiven konti outfit"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:32:22.346Z",
+      "text" : "\"rinder sind böse\" -> genau das gegenteil ist die wahrheit, wie so oft -> carnivore diet: https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:39:12.522Z",
+      "text" : "\"polizeieinsatz wegen psychischer gesundheit\" -- dazu reicht wenn ein nachbar die bullen ruft mit \"ich fühle mich belästigt von dem\"...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:39:38.372Z",
+      "text" : "soll seine mumu zeigen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:33.530Z",
+      "text" : "\"dass gewalt eine lösung sei\" --- pfff gewalt ist eine lösung, das ganze system baut auf gewalt.... opfer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:40.681Z",
+      "text" : "*keine"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:43.581Z",
+      "text" : "*eine"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:41:35.154Z",
+      "text" : "\"reddit\".... alles klar... was für ein shithole >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:41:59.015Z",
+      "text" : "die meisten leute auf reddit sind so behindert..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:42:23.081Z",
+      "text" : "reddit verbieten, problem gelöst"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:43:50.162Z",
+      "text" : "reddit2 verbieten, reddit3 verbieten, ..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:44:21.568Z",
+      "text" : "\"libertär\" -- instant 10 IQ punkte verloren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:00.956Z",
+      "text" : "\"eine welt voller hass\" -- aww das klingt traumhaft"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:27.224Z",
+      "text" : "\"transkind\" -- auch wieder nur ein opfer von dummen/bösen kindern"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:32.341Z",
+      "text" : "low-dose DMT oh yeah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:57.032Z",
+      "text" : "\"komplett kaputter typ\" -- haha, selber keine erfahrung mit drogen, aber scheisse über drogen user reden? weak"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:47:22.818Z",
+      "text" : "\"putin ist schuld!\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:47:58.174Z",
+      "text" : "shlo muss dringend DMT rauchen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:48:43.169Z",
+      "text" : "feroz der eiserne"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:50:55.735Z",
+      "text" : "gyros, alte deutsche tradition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:07.560Z",
+      "text" : "der deutscheste pali der welt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:12.700Z",
+      "text" : "*paki"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:48.425Z",
+      "text" : "quoten brownie"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:53:14.540Z",
+      "text" : "yeah. welche anstaltung?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:54:26.941Z",
+      "text" : "they are noticing. SHUT IT DOWN!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:29.311Z",
+      "text" : "prozess gegen 40% von deutschland"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:42.359Z",
+      "text" : "gewalt ist herrlich, was sonst?!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:57.333Z",
+      "text" : "zeig logo"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:57:32.834Z",
+      "text" : "die AFD träumt nachts heimlich von \"ausländer raus\".... instant verbieten!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:59:10.256Z",
+      "text" : "sellner?! da kannst auch gleich adolf hitler einladen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:00:24.838Z",
+      "text" : "keiner redet so schön über \"remigration\" wie martin sellner .... blaa blaa blaaa blaaa blaaaaa... nur gelaber den ganzen tag, aber alles bleibt scheisse, und keiner versteht warum...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:04:22.707Z",
+      "text" : "eisbrecher:innen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:04:52.968Z",
+      "text" : "aussen:innen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:05:10.997Z",
+      "text" : "man hätte ihn dafür auslachen müssen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:06:30.515Z",
+      "text" : "...und am ende vom stück werden AFD politiker mit einer guillotine geköpft"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:07:29.959Z",
+      "text" : "\"die warze ist mein alleinstellungsmerkmal\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:07:39.463Z",
+      "text" : "\"sind sie ein cuck?\" -- \"jaa\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:08:18.851Z",
+      "text" : "\"totschlag ist eine angemessene gewaltform\" -- faschisten immer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:09:46.952Z",
+      "text" : "gefühlte 1% der migranten sind \"frauen und kinder\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:10:41.216Z",
+      "text" : "für kuchenwerfen kriegst du als rechter \"versuchter totschlag\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:11:24.825Z",
+      "text" : "lord sellnermort"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:12:38.823Z",
+      "text" : "verschwörung, alle gegen einen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:18:04.695Z",
+      "text" : "feroz ist so naiv.... die arbeiten ALLE zusammen, das ist eine große verschwörung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:18:52.879Z",
+      "text" : "\"Warum reden die über diese Veranstaltung\" --- ja, schon wieder so eine scheiss unrelevante scheisse......"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:20:22.592Z",
+      "text" : "\"Wen wollte man überzeugen? Man braucht sich nur das Publikum anzusehen: Alles verlorene Seelen\" -- yes. echokammer. mentaler inzest"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:22:23.161Z",
+      "text" : "\"Solchen Leuten muss man ihre Lebenslügen lassen und ihnen nicht noch den Ruhestand verderben.\" --- nein!! energieverschwendung. weg damit!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:22:48.511Z",
+      "text" : "richtig gecastet... alter weisser cuck"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:09.625Z",
+      "text" : "impfstatus 100000 impfungen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:29.138Z",
+      "text" : "lieblingssport auf der couch sitzen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:49.601Z",
+      "text" : "cuck kritik"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:03.356Z",
+      "text" : "\"traue keinem über 45\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:20.022Z",
+      "text" : "\"ich gelobe alle fotzen zu zerficken\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:52.928Z",
+      "text" : "feroz ist 25% deutscher"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:28:47.367Z",
+      "text" : "\"sie sind ein interessanter typ\" --- aussen braun und innen braun 0___o"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:22.053Z",
+      "text" : "\"ich kenne diese zahl nicht\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:41.785Z",
+      "text" : "YESS"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:57.193Z",
+      "text" : "\"das sagt viel über sie aus und nichts über mich\"!!!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:03.914Z",
+      "text" : "HUUUUREEEE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:13.582Z",
+      "text" : "HALT DIE FRESSE HUREE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:29.926Z",
+      "text" : "haha, ich wäre gegangen, scheiss kindergarten"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:44.066Z",
+      "text" : "\"ich bin hier raus, fickt euch alle\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:31:08.858Z",
+      "text" : "die arroganz ist so widerlich"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:31:35.784Z",
+      "text" : "sie provozieren 24/7 und wenn du ein falsches wort sagst dann bist du der böse"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:32:10.798Z",
+      "text" : "feroz hätte laut lachen sollen und einfach gehen..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:34:01.870Z",
+      "text" : "gegneranalyse.."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:01.277Z",
+      "text" : "pff, die wusste genau welche zahl das ist, die hat sich einfach extrem dumm gestellt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:41.430Z",
+      "text" : "die zahl kann man mit 20 sekunden google \"beweisen\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:50.637Z",
+      "text" : "haben die kein internet?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:36:41.986Z",
+      "text" : "linke sind unsportlich per definition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:37:26.587Z",
+      "text" : "vegan-cuck wtf?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:38:28.368Z",
+      "text" : "linke = unsportlich = verlogen = kriminell...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:26.679Z",
+      "text" : "feroz, einer gegen alle"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:41.788Z",
+      "text" : "mentaler inzest"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:50.800Z",
+      "text" : "gleichschaltung, lockstep"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:56.968Z",
+      "text" : "faschismus = keine oppositin"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:41:27.845Z",
+      "text" : "die frage \"kennen sie messerstecher\" sollte man ignorieren als scheiss-frage, und weiter zur nächsten frage"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:41:55.497Z",
+      "text" : "man muss nicht über jedes stöckchen springen, man muss sich nicht von jedem scheiss provozieren lassen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:42:03.758Z",
+      "text" : "GETÖTET HAT"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:42:56.622Z",
+      "text" : "WO SOLLEN DIE SONST HIN AUSSER NACH DEUTSCHLAND???"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:43:16.486Z",
+      "text" : "\"entschuldigung aber sie sind dumm\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:43:46.290Z",
+      "text" : "so fertig diese leute...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:01.435Z",
+      "text" : "\"ich ertrage deren hinterfotzigkeit nicht mehr\" +1"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:24.010Z",
+      "text" : "schon wieder sone scheiss frage, wtf"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:28.063Z",
+      "text" : "null relevanz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:59.291Z",
+      "text" : "\"was war das für eine Fragerunde\" -- prozess gegen deutschland"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:45:50.670Z",
+      "text" : "mönch frisur...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:47:49.241Z",
+      "text" : "wenn man auf der sachebene schon verloren hat, dann muss man persönlich werden.... ad-hominem angriffe, \"linke scheisse\", lügen, rhetorik...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:48:41.826Z",
+      "text" : "lineare fortsetung? eher exponentielle fortsetzung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:48:55.194Z",
+      "text" : "GAULAND IST MEIN FÜHRER"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:49:45.986Z",
+      "text" : "\"differenziert\" -- gute antwort"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:50:14.714Z",
+      "text" : "\"wie finden sie X\" ---- die frage ist zu ungenau"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:50:58.134Z",
+      "text" : "100%"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:37.000Z",
+      "text" : "mathematische notwendigkeit"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:44.315Z",
+      "text" : "\"sie sind paranoid\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:58.427Z",
+      "text" : "NICE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:52:08.482Z",
+      "text" : "\"dummes zeug\" rache"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:53:04.416Z",
+      "text" : "dieses verhör läuft ähnlich wie in der psychiatrie..... egal was du sagst, du bist immer \"verrückt\" und \"paranoid\" und \"dumm\"...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:53:30.937Z",
+      "text" : "psychiatrie / hexenprozess"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:54:30.562Z",
+      "text" : "wem will er keine bühne geben? dem feroz?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:55:22.997Z",
+      "text" : "hose runterziehen und einen kackhaufen auf der bühne hinterlassen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:56:03.971Z",
+      "text" : "\"So n Gericht hab ich schonmal in Idiocracy gesehen.\" ---- aaaah. auch idiocracy ist ein instruction manual"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:57:17.810Z",
+      "text" : "zensur ist eine faschistische methode"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:58:52.438Z",
+      "text" : "feroz unser schäbiger lump <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:59:14.717Z",
+      "text" : "neutral?! nur tote sind neutral, alles leben hat neigung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:00:02.875Z",
+      "text" : "feroz hätte parallel einen privaten livestream machen sollen und das event weiter kommentieren : D"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:03:04.368Z",
+      "text" : "das haben die trainiert, vorbereitet, geskriptet"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:03:46.641Z",
+      "text" : "scheiss kindergarten niveau.... die sind doch alle hirntot geimpft >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:05:55.076Z",
+      "text" : "feroz \"fakenews\" khan"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:06:36.406Z",
+      "text" : "blamiert..... die linken haben keine besseren leute : D"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:09.222Z",
+      "text" : "feroz wird nie wieder eingeladen von linken xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:20.558Z",
+      "text" : "feroz \"blacklisted\" khan"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:48.434Z",
+      "text" : "google -> afd youtuber -> feroz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:08:24.740Z",
+      "text" : "ziel der aktion? steuergeld kassieren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:09:25.857Z",
+      "text" : "nur wer scheisse baut muss \"nett\" sein.... extrem antimeddl"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:10:00.463Z",
+      "text" : "\"kloschüssel\" --- gesichert rechtsextremer kampfbegriff"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:11:00.081Z",
+      "text" : "\"Du Dieter ick frach mal meenen Neffen, der kennt solche Kanäle\" ---- der neffe ist heimlich rechter und wollte seine linke family ficken"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:12:12.978Z",
+      "text" : "der rechte neffe, das schwarze schaf der linken familie, wird bald zur adoption freigegeben"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:12:44.120Z",
+      "text" : "war livestream"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:14:14.213Z",
+      "text" : "chris ares - defend europe"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:14:57.777Z",
+      "text" : "https://www.youtube.com/watch?v=4ebzYtQ9MT8 ---- Chris Ares - Defend Europe"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:16:55.820Z",
+      "text" : "wir brauchen militärputsch und militärdiktatur, alles andere ist doomed to fail...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:17:24.363Z",
+      "text" : "radikale probleme -> radikale lösungen. und die militärdiktatur wird sowieso kommen (kalifat europa)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:18:38.481Z",
+      "text" : "feroz hätte das ALLES heimlich recorden sollen, audio und video"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:19:00.350Z",
+      "text" : "\"sie arschloch\" -- also er hat die diskussion verloren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:19:46.300Z",
+      "text" : "\"die hätten mich gelyncht... die hassen uns\"... oh ja! das wird alles nur noch schlimmer, noch weiter eskalieren...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:20:11.961Z",
+      "text" : "attentat auf stürzenberger...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:20:39.561Z",
+      "text" : "vermutlich ermordete AFD politiker vor lokalwahl...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:21:30.521Z",
+      "text" : "jörg haider -- nationalistischer politiker in österreich -- ermordet von der CIA (drive by wire car remote control)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:21:50.781Z",
+      "text" : "möllemann --- hat sich mit israel angelegt --- ermordet vom mossad..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:22:23.757Z",
+      "text" : "\"ist trotzdem fake news!!\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:22:55.009Z",
+      "text" : "\"benutzung des internets\" <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:24.737Z",
+      "text" : "\"ihr MESSERscharfer verstand\" xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:38.337Z",
+      "text" : "er hätte noch viel viel mehr das wort MESSER einbauen können xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:50.389Z",
+      "text" : "mit MESSERhaften grüßen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:25:47.684Z",
+      "text" : "100% rhetorik.... die scheissen auf harte fakten"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:26:08.735Z",
+      "text" : "schmelztiegelfamilie?? kalifat europa!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:27:26.237Z",
+      "text" : "pff AFD verbot..... die AFD ist controlled opposition, zu spät zu wenig.... altparteien hinterlassen verbrannte erde = crash, blackout"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:27:58.281Z",
+      "text" : "AFD verbot debatte ist auch wieder ne ablenkung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:28:47.101Z",
+      "text" : "ich würde paraguay wählen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:28:55.373Z",
+      "text" : "scheiss auf europa >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:31:48.802Z",
+      "text" : "\"wir sollten geduldig und vorsichtig vorgehen\" ---- bullshit, militärputsch oder untergang"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:32:42.531Z",
+      "text" : "paraguay hat zumindest noch keine migranten-invasion.... aber sicher besser als europa"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:34:12.472Z",
+      "text" : "Marco Rubio <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:34:55.073Z",
+      "text" : "deine \"heimat\" versinkt bald in blackout und bürgerkrieg, have fun"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:36:09.653Z",
+      "text" : "china ist ein mächtiger gegner..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:37:44.770Z",
+      "text" : "meddlferoz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:39:35.465Z",
+      "text" : "mir ist mein leben wichtiger..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:42:13.374Z",
+      "text" : "nein, mir ist mein leben wichtiger als \"meine heimat\"... die meisten deutschen finde ich eeh scheisse 0__o"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:46:32.174Z",
+      "text" : "\"Die Boomer sind hirnlose Verfügungsmasse unserer Gegner. Die sind leicht zu manipulieren, und es sind sehr viele mit sehr vielen Mitteln.\" --- ja, das meine ich mit \"die meisten deutschen finde ich eeh scheisse\".... 80% impfquote, wählen immer wieder altparteien, die meisten konsumieren alkohol und tabak.... nicht meine welt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:47:02.989Z",
+      "text" : "kurz: viel zu viele cukcs"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:48:47.542Z",
+      "text" : "quentin kommt auf \"regime seine todesliste\" in meinem buch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:56:52.391Z",
+      "text" : "\"Honig ist angeblich nicht nenenswert gesünger als raffinierter Zucker\" ---- bin grad aufm carnivore diet trip -> https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:59:11.857Z",
+      "text" : "\"der nimmt steroide\" --- SamaHoole? glaub ich nicht... aber ich kenn den nicht persönlich"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:59:28.485Z",
+      "text" : "komplettgeisteskrankesevent"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:00:12.629Z",
+      "text" : "\"sie sind ein interessanter typ\" ...... weil er ein brauner nazi ist?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:01:53.751Z",
+      "text" : "\"wahrscheinlich steroide\" --- bullshit, lies einfach seine posts.... alles natur bei dem typ  https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:02:55.191Z",
+      "text" : "null ist genug"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:03:25.532Z",
+      "text" : "\"... immer dreister zu lügen\" ohja"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:04:06.164Z",
+      "text" : "stellst du immer so behinderte fragen?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:05:15.674Z",
+      "text" : "einbürgerungstest jedes jahr wiederholen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:05:27.920Z",
+      "text" : "...und nur linke werden eingebürgert"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:06:52.001Z",
+      "text" : "\"face ID\" ist das ende der anonymität im internet.... das mit dem alterscheck ist nur der fuß in der tür (trojanisches pferd)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:07:42.883Z",
+      "text" : "... VPN wird verboten, Tor wird verboten, I2P wird verboten.... zu viele \"fake news\" (wahrheiten) im internet"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:09:23.630Z",
+      "text" : "jesus christus wählt CDU, lässt sich totficken von niggern, und hält noch sein anderes loch hin....."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:11:44.174Z",
+      "text" : "auktion von 12jährigen, wer kennt es nicht?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:12:03.953Z",
+      "text" : "\"zustand: gebraucht aber neuwertig\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:13:04.754Z",
+      "text" : "böhse onkelz ens <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:15:48.196Z",
+      "text" : "westalgiker sind gehirnwäsche-opfer von der US-besatzung seit 1945...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:17:09.397Z",
+      "text" : "\"Chabad-Lubawitsch-Bewegung\" --- bingo..... tilman knechtel, traukeinempromi, metanoia magazin"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:18:38.671Z",
+      "text" : "haha verhaftet.... da hat einer das \"justiz\" system nicht verstanden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:23:49.943Z",
+      "text" : "https://milahu.github.io/alchi/src/whoaremyfriends/wersindmeinefreunde.html#radical-problems"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:24:15.704Z",
+      "text" : "doch, ich meine DAS paradies auf erden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:24:55.333Z",
+      "text" : "gedruckt 200 seiten A5"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:27:36.986Z",
+      "text" : "kalifat europa"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:27:52.567Z",
+      "text" : "linke werden vom hochhaus geworfen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:30:38.847Z",
+      "text" : "...unsere männer an die front schicken zum sterben"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:31:13.058Z",
+      "text" : "träne unters auge"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:32:21.523Z",
+      "text" : "freifunk = wlan mesh network = scheiss latenz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:35:48.991Z",
+      "text" : "ich als vater hab kein sorgerecht weil ich staatsfeind bin...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:36:01.633Z",
+      "text" : "offiziell \"schizophren\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:37:25.291Z",
+      "text" : "junge!! das war zu rääächts!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:38:16.498Z",
+      "text" : "demenz ist auch so eine zivilisationskrankheit.... spätfolge von nährstoffmangel.... lithium mangel und so"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:38:43.731Z",
+      "text" : "suizid mit 60, problem gelöst"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:41:49.866Z",
+      "text" : "göthe und schiller und nietzsche waren auch \"rechts\" im sinn von: aristokratisch, anti-demokratisch, \"die meisten leute sind idioten\", \"eine kleine elite sollte herrschen\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:43:56.472Z",
+      "text" : "meddlloide geht immer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:44:46.458Z",
+      "text" : "haha, sezession in bundesländer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:45:08.326Z",
+      "text" : "ostdeutschland bleibt deutsch, westdeutschland + frankreich + england werden zerfickt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:46:20.238Z",
+      "text" : "visegrad staaten bleiben VIELLEICHT stabil (polen, tschechien, ungarn, slovakei, ...)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:46:52.956Z",
+      "text" : "/votekick krah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:47:21.036Z",
+      "text" : "/votekick (alle cucks in der AFD)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:47:42.485Z",
+      "text" : "\"wir müssen stiefel lecken\" -- krah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:49:06.468Z",
+      "text" : "uhoh, offline treffen wird gebusted von cops"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:49:51.630Z",
+      "text" : "\"rechts\" im sinn von: aristokratisch, \"die meisten menschen sind idioten\", anti-demokratisch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:52:07.971Z",
+      "text" : "derdiedas weib"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:54:21.708Z",
+      "text" : "archive org"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:55:20.216Z",
+      "text" : "naja, wenn man zu langsam redet wird man vom publikum weggeklatscht"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:55:37.693Z",
+      "text" : "NICHTS <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:56:15.457Z",
+      "text" : "meddlloide"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:10:54.653Z",
+      "text" : "https://milahu.github.io/alchi/src/whoaremyfriends/wersindmeinefreunde.html#radical-problems"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:12:23.764Z",
+      "text" : "hirntot?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:14:32.577Z",
+      "text" : "\"zeigt reue\" -> freispruch!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:14:44.360Z",
+      "text" : "\"nicht erklären\" xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:15:54.270Z",
+      "text" : "hier hat es ein mal den richtigen getroffen: https://github.com/milahu/dominik-sobota-vs-rainer-gerth -- Am 8. April 2024 ersticht Dominik Sobota den Dr. Rainer Gerth in Wasserburg am Inn"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:18:23.212Z",
+      "text" : "familienclans, alte deutsche tradition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:18:56.639Z",
+      "text" : "müller, huber, hainz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:19:18.482Z",
+      "text" : "\"inzwischen\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:20:01.924Z",
+      "text" : "sind wir nicht alle in rockerbanden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:20:12.704Z",
+      "text" : "*passdeutsch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:21:06.965Z",
+      "text" : "haha, einfach das gegenteil behaupten und mit scheisse werfen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:22:31.087Z",
+      "text" : "die steigerung von kriminalität und todesrate ist ja ein hauptziel der migranten-invasion"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:22:50.342Z",
+      "text" : "keine twitter notification"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:23:19.175Z",
+      "text" : "shlomo shadowcucked auf twitter?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:24:22.560Z",
+      "text" : "7K im monat? will ich auch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:25:04.640Z",
+      "text" : "ich hab 100 imaginäre kinder, wo ist mein geld?!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:25:48.436Z",
+      "text" : "\"es ist kompliziert\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:26:08.117Z",
+      "text" : "aggressiv = nicht auf knien flehend"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:27:18.238Z",
+      "text" : "kassieren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:28:50.764Z",
+      "text" : "kriegst trotzdem auf die fresse wegen deinem aggressiven konti outfit"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:32:22.346Z",
+      "text" : "\"rinder sind böse\" -> genau das gegenteil ist die wahrheit, wie so oft -> carnivore diet: https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:39:12.522Z",
+      "text" : "\"polizeieinsatz wegen psychischer gesundheit\" -- dazu reicht wenn ein nachbar die bullen ruft mit \"ich fühle mich belästigt von dem\"...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:39:38.372Z",
+      "text" : "soll seine mumu zeigen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:33.530Z",
+      "text" : "\"dass gewalt eine lösung sei\" --- pfff gewalt ist eine lösung, das ganze system baut auf gewalt.... opfer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:40.681Z",
+      "text" : "*keine"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:43.581Z",
+      "text" : "*eine"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:41:35.154Z",
+      "text" : "\"reddit\".... alles klar... was für ein shithole >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:41:59.015Z",
+      "text" : "die meisten leute auf reddit sind so behindert..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:42:23.081Z",
+      "text" : "reddit verbieten, problem gelöst"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:43:50.162Z",
+      "text" : "reddit2 verbieten, reddit3 verbieten, ..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:44:21.568Z",
+      "text" : "\"libertär\" -- instant 10 IQ punkte verloren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:00.956Z",
+      "text" : "\"eine welt voller hass\" -- aww das klingt traumhaft"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:27.224Z",
+      "text" : "\"transkind\" -- auch wieder nur ein opfer von dummen/bösen kindern"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:32.341Z",
+      "text" : "low-dose DMT oh yeah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:57.032Z",
+      "text" : "\"komplett kaputter typ\" -- haha, selber keine erfahrung mit drogen, aber scheisse über drogen user reden? weak"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:47:22.818Z",
+      "text" : "\"putin ist schuld!\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:47:58.174Z",
+      "text" : "shlo muss dringend DMT rauchen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:48:43.169Z",
+      "text" : "feroz der eiserne"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:50:55.735Z",
+      "text" : "gyros, alte deutsche tradition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:07.560Z",
+      "text" : "der deutscheste pali der welt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:12.700Z",
+      "text" : "*paki"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:48.425Z",
+      "text" : "quoten brownie"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:53:14.540Z",
+      "text" : "yeah. welche anstaltung?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:54:26.941Z",
+      "text" : "they are noticing. SHUT IT DOWN!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:29.311Z",
+      "text" : "prozess gegen 40% von deutschland"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:42.359Z",
+      "text" : "gewalt ist herrlich, was sonst?!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:57.333Z",
+      "text" : "zeig logo"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:57:32.834Z",
+      "text" : "die AFD träumt nachts heimlich von \"ausländer raus\".... instant verbieten!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:59:10.256Z",
+      "text" : "sellner?! da kannst auch gleich adolf hitler einladen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:00:24.838Z",
+      "text" : "keiner redet so schön über \"remigration\" wie martin sellner .... blaa blaa blaaa blaaa blaaaaa... nur gelaber den ganzen tag, aber alles bleibt scheisse, und keiner versteht warum...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:04:22.707Z",
+      "text" : "eisbrecher:innen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:04:52.968Z",
+      "text" : "aussen:innen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:05:10.997Z",
+      "text" : "man hätte ihn dafür auslachen müssen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:06:30.515Z",
+      "text" : "...und am ende vom stück werden AFD politiker mit einer guillotine geköpft"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:07:29.959Z",
+      "text" : "\"die warze ist mein alleinstellungsmerkmal\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:07:39.463Z",
+      "text" : "\"sind sie ein cuck?\" -- \"jaa\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:08:18.851Z",
+      "text" : "\"totschlag ist eine angemessene gewaltform\" -- faschisten immer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:09:46.952Z",
+      "text" : "gefühlte 1% der migranten sind \"frauen und kinder\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:10:41.216Z",
+      "text" : "für kuchenwerfen kriegst du als rechter \"versuchter totschlag\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:11:24.825Z",
+      "text" : "lord sellnermort"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:12:38.823Z",
+      "text" : "verschwörung, alle gegen einen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:18:04.695Z",
+      "text" : "feroz ist so naiv.... die arbeiten ALLE zusammen, das ist eine große verschwörung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:18:52.879Z",
+      "text" : "\"Warum reden die über diese Veranstaltung\" --- ja, schon wieder so eine scheiss unrelevante scheisse......"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:20:22.592Z",
+      "text" : "\"Wen wollte man überzeugen? Man braucht sich nur das Publikum anzusehen: Alles verlorene Seelen\" -- yes. echokammer. mentaler inzest"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:22:23.161Z",
+      "text" : "\"Solchen Leuten muss man ihre Lebenslügen lassen und ihnen nicht noch den Ruhestand verderben.\" --- nein!! energieverschwendung. weg damit!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:22:48.511Z",
+      "text" : "richtig gecastet... alter weisser cuck"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:09.625Z",
+      "text" : "impfstatus 100000 impfungen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:29.138Z",
+      "text" : "lieblingssport auf der couch sitzen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:49.601Z",
+      "text" : "cuck kritik"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:03.356Z",
+      "text" : "\"traue keinem über 45\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:20.022Z",
+      "text" : "\"ich gelobe alle fotzen zu zerficken\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:52.928Z",
+      "text" : "feroz ist 25% deutscher"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:28:47.367Z",
+      "text" : "\"sie sind ein interessanter typ\" --- aussen braun und innen braun 0___o"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:22.053Z",
+      "text" : "\"ich kenne diese zahl nicht\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:41.785Z",
+      "text" : "YESS"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:57.193Z",
+      "text" : "\"das sagt viel über sie aus und nichts über mich\"!!!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:03.914Z",
+      "text" : "HUUUUREEEE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:13.582Z",
+      "text" : "HALT DIE FRESSE HUREE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:29.926Z",
+      "text" : "haha, ich wäre gegangen, scheiss kindergarten"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:44.066Z",
+      "text" : "\"ich bin hier raus, fickt euch alle\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:31:08.858Z",
+      "text" : "die arroganz ist so widerlich"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:31:35.784Z",
+      "text" : "sie provozieren 24/7 und wenn du ein falsches wort sagst dann bist du der böse"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:32:10.798Z",
+      "text" : "feroz hätte laut lachen sollen und einfach gehen..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:34:01.870Z",
+      "text" : "gegneranalyse.."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:01.277Z",
+      "text" : "pff, die wusste genau welche zahl das ist, die hat sich einfach extrem dumm gestellt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:41.430Z",
+      "text" : "die zahl kann man mit 20 sekunden google \"beweisen\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:50.637Z",
+      "text" : "haben die kein internet?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:36:41.986Z",
+      "text" : "linke sind unsportlich per definition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:37:26.587Z",
+      "text" : "vegan-cuck wtf?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:38:28.368Z",
+      "text" : "linke = unsportlich = verlogen = kriminell...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:26.679Z",
+      "text" : "feroz, einer gegen alle"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:41.788Z",
+      "text" : "mentaler inzest"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:50.800Z",
+      "text" : "gleichschaltung, lockstep"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:56.968Z",
+      "text" : "faschismus = keine oppositin"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:41:27.845Z",
+      "text" : "die frage \"kennen sie messerstecher\" sollte man ignorieren als scheiss-frage, und weiter zur nächsten frage"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:41:55.497Z",
+      "text" : "man muss nicht über jedes stöckchen springen, man muss sich nicht von jedem scheiss provozieren lassen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:42:03.758Z",
+      "text" : "GETÖTET HAT"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:42:56.622Z",
+      "text" : "WO SOLLEN DIE SONST HIN AUSSER NACH DEUTSCHLAND???"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:43:16.486Z",
+      "text" : "\"entschuldigung aber sie sind dumm\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:43:46.290Z",
+      "text" : "so fertig diese leute...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:01.435Z",
+      "text" : "\"ich ertrage deren hinterfotzigkeit nicht mehr\" +1"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:24.010Z",
+      "text" : "schon wieder sone scheiss frage, wtf"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:28.063Z",
+      "text" : "null relevanz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:59.291Z",
+      "text" : "\"was war das für eine Fragerunde\" -- prozess gegen deutschland"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:45:50.670Z",
+      "text" : "mönch frisur...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:47:49.241Z",
+      "text" : "wenn man auf der sachebene schon verloren hat, dann muss man persönlich werden.... ad-hominem angriffe, \"linke scheisse\", lügen, rhetorik...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:48:41.826Z",
+      "text" : "lineare fortsetung? eher exponentielle fortsetzung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:48:55.194Z",
+      "text" : "GAULAND IST MEIN FÜHRER"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:49:45.986Z",
+      "text" : "\"differenziert\" -- gute antwort"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:50:14.714Z",
+      "text" : "\"wie finden sie X\" ---- die frage ist zu ungenau"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:50:58.134Z",
+      "text" : "100%"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:37.000Z",
+      "text" : "mathematische notwendigkeit"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:44.315Z",
+      "text" : "\"sie sind paranoid\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:58.427Z",
+      "text" : "NICE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:52:08.482Z",
+      "text" : "\"dummes zeug\" rache"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:53:04.416Z",
+      "text" : "dieses verhör läuft ähnlich wie in der psychiatrie..... egal was du sagst, du bist immer \"verrückt\" und \"paranoid\" und \"dumm\"...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:53:30.937Z",
+      "text" : "psychiatrie / hexenprozess"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:54:30.562Z",
+      "text" : "wem will er keine bühne geben? dem feroz?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:55:22.997Z",
+      "text" : "hose runterziehen und einen kackhaufen auf der bühne hinterlassen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:56:03.971Z",
+      "text" : "\"So n Gericht hab ich schonmal in Idiocracy gesehen.\" ---- aaaah. auch idiocracy ist ein instruction manual"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:57:17.810Z",
+      "text" : "zensur ist eine faschistische methode"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:58:52.438Z",
+      "text" : "feroz unser schäbiger lump <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:59:14.717Z",
+      "text" : "neutral?! nur tote sind neutral, alles leben hat neigung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:00:02.875Z",
+      "text" : "feroz hätte parallel einen privaten livestream machen sollen und das event weiter kommentieren : D"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:03:04.368Z",
+      "text" : "das haben die trainiert, vorbereitet, geskriptet"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:03:46.641Z",
+      "text" : "scheiss kindergarten niveau.... die sind doch alle hirntot geimpft >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:05:55.076Z",
+      "text" : "feroz \"fakenews\" khan"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:06:36.406Z",
+      "text" : "blamiert..... die linken haben keine besseren leute : D"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:09.222Z",
+      "text" : "feroz wird nie wieder eingeladen von linken xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:20.558Z",
+      "text" : "feroz \"blacklisted\" khan"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:48.434Z",
+      "text" : "google -> afd youtuber -> feroz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:08:24.740Z",
+      "text" : "ziel der aktion? steuergeld kassieren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:09:25.857Z",
+      "text" : "nur wer scheisse baut muss \"nett\" sein.... extrem antimeddl"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:10:00.463Z",
+      "text" : "\"kloschüssel\" --- gesichert rechtsextremer kampfbegriff"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:11:00.081Z",
+      "text" : "\"Du Dieter ick frach mal meenen Neffen, der kennt solche Kanäle\" ---- der neffe ist heimlich rechter und wollte seine linke family ficken"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:12:12.978Z",
+      "text" : "der rechte neffe, das schwarze schaf der linken familie, wird bald zur adoption freigegeben"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:12:44.120Z",
+      "text" : "war livestream"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:14:14.213Z",
+      "text" : "chris ares - defend europe"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:14:57.777Z",
+      "text" : "https://www.youtube.com/watch?v=4ebzYtQ9MT8 ---- Chris Ares - Defend Europe"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:16:55.820Z",
+      "text" : "wir brauchen militärputsch und militärdiktatur, alles andere ist doomed to fail...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:17:24.363Z",
+      "text" : "radikale probleme -> radikale lösungen. und die militärdiktatur wird sowieso kommen (kalifat europa)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:18:38.481Z",
+      "text" : "feroz hätte das ALLES heimlich recorden sollen, audio und video"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:19:00.350Z",
+      "text" : "\"sie arschloch\" -- also er hat die diskussion verloren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:19:46.300Z",
+      "text" : "\"die hätten mich gelyncht... die hassen uns\"... oh ja! das wird alles nur noch schlimmer, noch weiter eskalieren...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:20:11.961Z",
+      "text" : "attentat auf stürzenberger...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:20:39.561Z",
+      "text" : "vermutlich ermordete AFD politiker vor lokalwahl...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:21:30.521Z",
+      "text" : "jörg haider -- nationalistischer politiker in österreich -- ermordet von der CIA (drive by wire car remote control)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:21:50.781Z",
+      "text" : "möllemann --- hat sich mit israel angelegt --- ermordet vom mossad..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:22:23.757Z",
+      "text" : "\"ist trotzdem fake news!!\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:22:55.009Z",
+      "text" : "\"benutzung des internets\" <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:24.737Z",
+      "text" : "\"ihr MESSERscharfer verstand\" xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:38.337Z",
+      "text" : "er hätte noch viel viel mehr das wort MESSER einbauen können xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:50.389Z",
+      "text" : "mit MESSERhaften grüßen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:25:47.684Z",
+      "text" : "100% rhetorik.... die scheissen auf harte fakten"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:26:08.735Z",
+      "text" : "schmelztiegelfamilie?? kalifat europa!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:27:26.237Z",
+      "text" : "pff AFD verbot..... die AFD ist controlled opposition, zu spät zu wenig.... altparteien hinterlassen verbrannte erde = crash, blackout"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:27:58.281Z",
+      "text" : "AFD verbot debatte ist auch wieder ne ablenkung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:28:47.101Z",
+      "text" : "ich würde paraguay wählen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:28:55.373Z",
+      "text" : "scheiss auf europa >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:31:48.802Z",
+      "text" : "\"wir sollten geduldig und vorsichtig vorgehen\" ---- bullshit, militärputsch oder untergang"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:32:42.531Z",
+      "text" : "paraguay hat zumindest noch keine migranten-invasion.... aber sicher besser als europa"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:34:12.472Z",
+      "text" : "Marco Rubio <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:34:55.073Z",
+      "text" : "deine \"heimat\" versinkt bald in blackout und bürgerkrieg, have fun"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:36:09.653Z",
+      "text" : "china ist ein mächtiger gegner..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:37:44.770Z",
+      "text" : "meddlferoz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:39:35.465Z",
+      "text" : "mir ist mein leben wichtiger..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:42:13.374Z",
+      "text" : "nein, mir ist mein leben wichtiger als \"meine heimat\"... die meisten deutschen finde ich eeh scheisse 0__o"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:46:32.174Z",
+      "text" : "\"Die Boomer sind hirnlose Verfügungsmasse unserer Gegner. Die sind leicht zu manipulieren, und es sind sehr viele mit sehr vielen Mitteln.\" --- ja, das meine ich mit \"die meisten deutschen finde ich eeh scheisse\".... 80% impfquote, wählen immer wieder altparteien, die meisten konsumieren alkohol und tabak.... nicht meine welt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:47:02.989Z",
+      "text" : "kurz: viel zu viele cukcs"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:48:47.542Z",
+      "text" : "quentin kommt auf \"regime seine todesliste\" in meinem buch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:56:52.391Z",
+      "text" : "\"Honig ist angeblich nicht nenenswert gesünger als raffinierter Zucker\" ---- bin grad aufm carnivore diet trip -> https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:59:11.857Z",
+      "text" : "\"der nimmt steroide\" --- SamaHoole? glaub ich nicht... aber ich kenn den nicht persönlich"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:59:28.485Z",
+      "text" : "komplettgeisteskrankesevent"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:00:12.629Z",
+      "text" : "\"sie sind ein interessanter typ\" ...... weil er ein brauner nazi ist?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:01:53.751Z",
+      "text" : "\"wahrscheinlich steroide\" --- bullshit, lies einfach seine posts.... alles natur bei dem typ  https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:02:55.191Z",
+      "text" : "null ist genug"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:03:25.532Z",
+      "text" : "\"... immer dreister zu lügen\" ohja"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:04:06.164Z",
+      "text" : "stellst du immer so behinderte fragen?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:05:15.674Z",
+      "text" : "einbürgerungstest jedes jahr wiederholen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:05:27.920Z",
+      "text" : "...und nur linke werden eingebürgert"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:06:52.001Z",
+      "text" : "\"face ID\" ist das ende der anonymität im internet.... das mit dem alterscheck ist nur der fuß in der tür (trojanisches pferd)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:07:42.883Z",
+      "text" : "... VPN wird verboten, Tor wird verboten, I2P wird verboten.... zu viele \"fake news\" (wahrheiten) im internet"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:09:23.630Z",
+      "text" : "jesus christus wählt CDU, lässt sich totficken von niggern, und hält noch sein anderes loch hin....."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:11:44.174Z",
+      "text" : "auktion von 12jährigen, wer kennt es nicht?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:12:03.953Z",
+      "text" : "\"zustand: gebraucht aber neuwertig\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:13:04.754Z",
+      "text" : "böhse onkelz ens <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:15:48.196Z",
+      "text" : "westalgiker sind gehirnwäsche-opfer von der US-besatzung seit 1945...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:17:09.397Z",
+      "text" : "\"Chabad-Lubawitsch-Bewegung\" --- bingo..... tilman knechtel, traukeinempromi, metanoia magazin"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:18:38.671Z",
+      "text" : "haha verhaftet.... da hat einer das \"justiz\" system nicht verstanden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:23:49.943Z",
+      "text" : "https://milahu.github.io/alchi/src/whoaremyfriends/wersindmeinefreunde.html#radical-problems"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:24:15.704Z",
+      "text" : "doch, ich meine DAS paradies auf erden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:24:55.333Z",
+      "text" : "gedruckt 200 seiten A5"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:27:36.986Z",
+      "text" : "kalifat europa"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:27:52.567Z",
+      "text" : "linke werden vom hochhaus geworfen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:30:38.847Z",
+      "text" : "...unsere männer an die front schicken zum sterben"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:31:13.058Z",
+      "text" : "träne unters auge"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:32:21.523Z",
+      "text" : "freifunk = wlan mesh network = scheiss latenz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:35:48.991Z",
+      "text" : "ich als vater hab kein sorgerecht weil ich staatsfeind bin...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:36:01.633Z",
+      "text" : "offiziell \"schizophren\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:37:25.291Z",
+      "text" : "junge!! das war zu rääächts!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:38:16.498Z",
+      "text" : "demenz ist auch so eine zivilisationskrankheit.... spätfolge von nährstoffmangel.... lithium mangel und so"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:38:43.731Z",
+      "text" : "suizid mit 60, problem gelöst"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:41:49.866Z",
+      "text" : "göthe und schiller und nietzsche waren auch \"rechts\" im sinn von: aristokratisch, anti-demokratisch, \"die meisten leute sind idioten\", \"eine kleine elite sollte herrschen\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:43:56.472Z",
+      "text" : "meddlloide geht immer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:44:46.458Z",
+      "text" : "haha, sezession in bundesländer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:45:08.326Z",
+      "text" : "ostdeutschland bleibt deutsch, westdeutschland + frankreich + england werden zerfickt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:46:20.238Z",
+      "text" : "visegrad staaten bleiben VIELLEICHT stabil (polen, tschechien, ungarn, slovakei, ...)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:46:52.956Z",
+      "text" : "/votekick krah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:47:21.036Z",
+      "text" : "/votekick (alle cucks in der AFD)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:47:42.485Z",
+      "text" : "\"wir müssen stiefel lecken\" -- krah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:49:06.468Z",
+      "text" : "uhoh, offline treffen wird gebusted von cops"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:49:51.630Z",
+      "text" : "\"rechts\" im sinn von: aristokratisch, \"die meisten menschen sind idioten\", anti-demokratisch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:52:07.971Z",
+      "text" : "derdiedas weib"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:54:21.708Z",
+      "text" : "archive org"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:55:20.216Z",
+      "text" : "naja, wenn man zu langsam redet wird man vom publikum weggeklatscht"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:55:37.693Z",
+      "text" : "NICHTS <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:56:15.457Z",
+      "text" : "meddlloide"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:10:54.653Z",
+      "text" : "https://milahu.github.io/alchi/src/whoaremyfriends/wersindmeinefreunde.html#radical-problems"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:12:23.764Z",
+      "text" : "hirntot?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:14:32.577Z",
+      "text" : "\"zeigt reue\" -> freispruch!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:14:44.360Z",
+      "text" : "\"nicht erklären\" xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:15:54.270Z",
+      "text" : "hier hat es ein mal den richtigen getroffen: https://github.com/milahu/dominik-sobota-vs-rainer-gerth -- Am 8. April 2024 ersticht Dominik Sobota den Dr. Rainer Gerth in Wasserburg am Inn"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:18:23.212Z",
+      "text" : "familienclans, alte deutsche tradition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:18:56.639Z",
+      "text" : "müller, huber, hainz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:19:18.482Z",
+      "text" : "\"inzwischen\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:20:01.924Z",
+      "text" : "sind wir nicht alle in rockerbanden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:20:12.704Z",
+      "text" : "*passdeutsch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:21:06.965Z",
+      "text" : "haha, einfach das gegenteil behaupten und mit scheisse werfen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:22:31.087Z",
+      "text" : "die steigerung von kriminalität und todesrate ist ja ein hauptziel der migranten-invasion"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:22:50.342Z",
+      "text" : "keine twitter notification"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:23:19.175Z",
+      "text" : "shlomo shadowcucked auf twitter?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:24:22.560Z",
+      "text" : "7K im monat? will ich auch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:25:04.640Z",
+      "text" : "ich hab 100 imaginäre kinder, wo ist mein geld?!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:25:48.436Z",
+      "text" : "\"es ist kompliziert\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:26:08.117Z",
+      "text" : "aggressiv = nicht auf knien flehend"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:27:18.238Z",
+      "text" : "kassieren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:28:50.764Z",
+      "text" : "kriegst trotzdem auf die fresse wegen deinem aggressiven konti outfit"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:32:22.346Z",
+      "text" : "\"rinder sind böse\" -> genau das gegenteil ist die wahrheit, wie so oft -> carnivore diet: https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:39:12.522Z",
+      "text" : "\"polizeieinsatz wegen psychischer gesundheit\" -- dazu reicht wenn ein nachbar die bullen ruft mit \"ich fühle mich belästigt von dem\"...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:39:38.372Z",
+      "text" : "soll seine mumu zeigen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:33.530Z",
+      "text" : "\"dass gewalt eine lösung sei\" --- pfff gewalt ist eine lösung, das ganze system baut auf gewalt.... opfer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:40.681Z",
+      "text" : "*keine"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:43.581Z",
+      "text" : "*eine"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:41:35.154Z",
+      "text" : "\"reddit\".... alles klar... was für ein shithole >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:41:59.015Z",
+      "text" : "die meisten leute auf reddit sind so behindert..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:42:23.081Z",
+      "text" : "reddit verbieten, problem gelöst"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:43:50.162Z",
+      "text" : "reddit2 verbieten, reddit3 verbieten, ..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:44:21.568Z",
+      "text" : "\"libertär\" -- instant 10 IQ punkte verloren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:00.956Z",
+      "text" : "\"eine welt voller hass\" -- aww das klingt traumhaft"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:27.224Z",
+      "text" : "\"transkind\" -- auch wieder nur ein opfer von dummen/bösen kindern"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:32.341Z",
+      "text" : "low-dose DMT oh yeah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:57.032Z",
+      "text" : "\"komplett kaputter typ\" -- haha, selber keine erfahrung mit drogen, aber scheisse über drogen user reden? weak"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:47:22.818Z",
+      "text" : "\"putin ist schuld!\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:47:58.174Z",
+      "text" : "shlo muss dringend DMT rauchen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:48:43.169Z",
+      "text" : "feroz der eiserne"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:50:55.735Z",
+      "text" : "gyros, alte deutsche tradition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:07.560Z",
+      "text" : "der deutscheste pali der welt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:12.700Z",
+      "text" : "*paki"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:48.425Z",
+      "text" : "quoten brownie"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:53:14.540Z",
+      "text" : "yeah. welche anstaltung?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:54:26.941Z",
+      "text" : "they are noticing. SHUT IT DOWN!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:29.311Z",
+      "text" : "prozess gegen 40% von deutschland"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:42.359Z",
+      "text" : "gewalt ist herrlich, was sonst?!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:57.333Z",
+      "text" : "zeig logo"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:57:32.834Z",
+      "text" : "die AFD träumt nachts heimlich von \"ausländer raus\".... instant verbieten!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:59:10.256Z",
+      "text" : "sellner?! da kannst auch gleich adolf hitler einladen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:00:24.838Z",
+      "text" : "keiner redet so schön über \"remigration\" wie martin sellner .... blaa blaa blaaa blaaa blaaaaa... nur gelaber den ganzen tag, aber alles bleibt scheisse, und keiner versteht warum...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:04:22.707Z",
+      "text" : "eisbrecher:innen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:04:52.968Z",
+      "text" : "aussen:innen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:05:10.997Z",
+      "text" : "man hätte ihn dafür auslachen müssen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:06:30.515Z",
+      "text" : "...und am ende vom stück werden AFD politiker mit einer guillotine geköpft"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:07:29.959Z",
+      "text" : "\"die warze ist mein alleinstellungsmerkmal\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:07:39.463Z",
+      "text" : "\"sind sie ein cuck?\" -- \"jaa\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:08:18.851Z",
+      "text" : "\"totschlag ist eine angemessene gewaltform\" -- faschisten immer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:09:46.952Z",
+      "text" : "gefühlte 1% der migranten sind \"frauen und kinder\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:10:41.216Z",
+      "text" : "für kuchenwerfen kriegst du als rechter \"versuchter totschlag\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:11:24.825Z",
+      "text" : "lord sellnermort"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:12:38.823Z",
+      "text" : "verschwörung, alle gegen einen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:18:04.695Z",
+      "text" : "feroz ist so naiv.... die arbeiten ALLE zusammen, das ist eine große verschwörung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:18:52.879Z",
+      "text" : "\"Warum reden die über diese Veranstaltung\" --- ja, schon wieder so eine scheiss unrelevante scheisse......"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:20:22.592Z",
+      "text" : "\"Wen wollte man überzeugen? Man braucht sich nur das Publikum anzusehen: Alles verlorene Seelen\" -- yes. echokammer. mentaler inzest"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:22:23.161Z",
+      "text" : "\"Solchen Leuten muss man ihre Lebenslügen lassen und ihnen nicht noch den Ruhestand verderben.\" --- nein!! energieverschwendung. weg damit!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:22:48.511Z",
+      "text" : "richtig gecastet... alter weisser cuck"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:09.625Z",
+      "text" : "impfstatus 100000 impfungen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:29.138Z",
+      "text" : "lieblingssport auf der couch sitzen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:49.601Z",
+      "text" : "cuck kritik"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:03.356Z",
+      "text" : "\"traue keinem über 45\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:20.022Z",
+      "text" : "\"ich gelobe alle fotzen zu zerficken\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:52.928Z",
+      "text" : "feroz ist 25% deutscher"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:28:47.367Z",
+      "text" : "\"sie sind ein interessanter typ\" --- aussen braun und innen braun 0___o"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:22.053Z",
+      "text" : "\"ich kenne diese zahl nicht\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:41.785Z",
+      "text" : "YESS"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:57.193Z",
+      "text" : "\"das sagt viel über sie aus und nichts über mich\"!!!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:03.914Z",
+      "text" : "HUUUUREEEE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:13.582Z",
+      "text" : "HALT DIE FRESSE HUREE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:29.926Z",
+      "text" : "haha, ich wäre gegangen, scheiss kindergarten"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:44.066Z",
+      "text" : "\"ich bin hier raus, fickt euch alle\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:31:08.858Z",
+      "text" : "die arroganz ist so widerlich"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:31:35.784Z",
+      "text" : "sie provozieren 24/7 und wenn du ein falsches wort sagst dann bist du der böse"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:32:10.798Z",
+      "text" : "feroz hätte laut lachen sollen und einfach gehen..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:34:01.870Z",
+      "text" : "gegneranalyse.."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:01.277Z",
+      "text" : "pff, die wusste genau welche zahl das ist, die hat sich einfach extrem dumm gestellt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:41.430Z",
+      "text" : "die zahl kann man mit 20 sekunden google \"beweisen\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:50.637Z",
+      "text" : "haben die kein internet?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:36:41.986Z",
+      "text" : "linke sind unsportlich per definition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:37:26.587Z",
+      "text" : "vegan-cuck wtf?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:38:28.368Z",
+      "text" : "linke = unsportlich = verlogen = kriminell...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:26.679Z",
+      "text" : "feroz, einer gegen alle"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:41.788Z",
+      "text" : "mentaler inzest"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:50.800Z",
+      "text" : "gleichschaltung, lockstep"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:56.968Z",
+      "text" : "faschismus = keine oppositin"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:41:27.845Z",
+      "text" : "die frage \"kennen sie messerstecher\" sollte man ignorieren als scheiss-frage, und weiter zur nächsten frage"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:41:55.497Z",
+      "text" : "man muss nicht über jedes stöckchen springen, man muss sich nicht von jedem scheiss provozieren lassen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:42:03.758Z",
+      "text" : "GETÖTET HAT"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:42:56.622Z",
+      "text" : "WO SOLLEN DIE SONST HIN AUSSER NACH DEUTSCHLAND???"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:43:16.486Z",
+      "text" : "\"entschuldigung aber sie sind dumm\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:43:46.290Z",
+      "text" : "so fertig diese leute...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:01.435Z",
+      "text" : "\"ich ertrage deren hinterfotzigkeit nicht mehr\" +1"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:24.010Z",
+      "text" : "schon wieder sone scheiss frage, wtf"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:28.063Z",
+      "text" : "null relevanz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:59.291Z",
+      "text" : "\"was war das für eine Fragerunde\" -- prozess gegen deutschland"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:45:50.670Z",
+      "text" : "mönch frisur...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:47:49.241Z",
+      "text" : "wenn man auf der sachebene schon verloren hat, dann muss man persönlich werden.... ad-hominem angriffe, \"linke scheisse\", lügen, rhetorik...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:48:41.826Z",
+      "text" : "lineare fortsetung? eher exponentielle fortsetzung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:48:55.194Z",
+      "text" : "GAULAND IST MEIN FÜHRER"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:49:45.986Z",
+      "text" : "\"differenziert\" -- gute antwort"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:50:14.714Z",
+      "text" : "\"wie finden sie X\" ---- die frage ist zu ungenau"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:50:58.134Z",
+      "text" : "100%"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:37.000Z",
+      "text" : "mathematische notwendigkeit"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:44.315Z",
+      "text" : "\"sie sind paranoid\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:58.427Z",
+      "text" : "NICE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:52:08.482Z",
+      "text" : "\"dummes zeug\" rache"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:53:04.416Z",
+      "text" : "dieses verhör läuft ähnlich wie in der psychiatrie..... egal was du sagst, du bist immer \"verrückt\" und \"paranoid\" und \"dumm\"...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:53:30.937Z",
+      "text" : "psychiatrie / hexenprozess"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:54:30.562Z",
+      "text" : "wem will er keine bühne geben? dem feroz?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:55:22.997Z",
+      "text" : "hose runterziehen und einen kackhaufen auf der bühne hinterlassen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:56:03.971Z",
+      "text" : "\"So n Gericht hab ich schonmal in Idiocracy gesehen.\" ---- aaaah. auch idiocracy ist ein instruction manual"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:57:17.810Z",
+      "text" : "zensur ist eine faschistische methode"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:58:52.438Z",
+      "text" : "feroz unser schäbiger lump <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:59:14.717Z",
+      "text" : "neutral?! nur tote sind neutral, alles leben hat neigung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:00:02.875Z",
+      "text" : "feroz hätte parallel einen privaten livestream machen sollen und das event weiter kommentieren : D"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:03:04.368Z",
+      "text" : "das haben die trainiert, vorbereitet, geskriptet"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:03:46.641Z",
+      "text" : "scheiss kindergarten niveau.... die sind doch alle hirntot geimpft >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:05:55.076Z",
+      "text" : "feroz \"fakenews\" khan"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:06:36.406Z",
+      "text" : "blamiert..... die linken haben keine besseren leute : D"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:09.222Z",
+      "text" : "feroz wird nie wieder eingeladen von linken xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:20.558Z",
+      "text" : "feroz \"blacklisted\" khan"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:48.434Z",
+      "text" : "google -> afd youtuber -> feroz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:08:24.740Z",
+      "text" : "ziel der aktion? steuergeld kassieren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:09:25.857Z",
+      "text" : "nur wer scheisse baut muss \"nett\" sein.... extrem antimeddl"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:10:00.463Z",
+      "text" : "\"kloschüssel\" --- gesichert rechtsextremer kampfbegriff"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:11:00.081Z",
+      "text" : "\"Du Dieter ick frach mal meenen Neffen, der kennt solche Kanäle\" ---- der neffe ist heimlich rechter und wollte seine linke family ficken"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:12:12.978Z",
+      "text" : "der rechte neffe, das schwarze schaf der linken familie, wird bald zur adoption freigegeben"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:12:44.120Z",
+      "text" : "war livestream"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:14:14.213Z",
+      "text" : "chris ares - defend europe"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:14:57.777Z",
+      "text" : "https://www.youtube.com/watch?v=4ebzYtQ9MT8 ---- Chris Ares - Defend Europe"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:16:55.820Z",
+      "text" : "wir brauchen militärputsch und militärdiktatur, alles andere ist doomed to fail...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:17:24.363Z",
+      "text" : "radikale probleme -> radikale lösungen. und die militärdiktatur wird sowieso kommen (kalifat europa)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:18:38.481Z",
+      "text" : "feroz hätte das ALLES heimlich recorden sollen, audio und video"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:19:00.350Z",
+      "text" : "\"sie arschloch\" -- also er hat die diskussion verloren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:19:46.300Z",
+      "text" : "\"die hätten mich gelyncht... die hassen uns\"... oh ja! das wird alles nur noch schlimmer, noch weiter eskalieren...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:20:11.961Z",
+      "text" : "attentat auf stürzenberger...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:20:39.561Z",
+      "text" : "vermutlich ermordete AFD politiker vor lokalwahl...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:21:30.521Z",
+      "text" : "jörg haider -- nationalistischer politiker in österreich -- ermordet von der CIA (drive by wire car remote control)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:21:50.781Z",
+      "text" : "möllemann --- hat sich mit israel angelegt --- ermordet vom mossad..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:22:23.757Z",
+      "text" : "\"ist trotzdem fake news!!\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:22:55.009Z",
+      "text" : "\"benutzung des internets\" <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:24.737Z",
+      "text" : "\"ihr MESSERscharfer verstand\" xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:38.337Z",
+      "text" : "er hätte noch viel viel mehr das wort MESSER einbauen können xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:50.389Z",
+      "text" : "mit MESSERhaften grüßen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:25:47.684Z",
+      "text" : "100% rhetorik.... die scheissen auf harte fakten"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:26:08.735Z",
+      "text" : "schmelztiegelfamilie?? kalifat europa!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:27:26.237Z",
+      "text" : "pff AFD verbot..... die AFD ist controlled opposition, zu spät zu wenig.... altparteien hinterlassen verbrannte erde = crash, blackout"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:27:58.281Z",
+      "text" : "AFD verbot debatte ist auch wieder ne ablenkung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:28:47.101Z",
+      "text" : "ich würde paraguay wählen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:28:55.373Z",
+      "text" : "scheiss auf europa >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:31:48.802Z",
+      "text" : "\"wir sollten geduldig und vorsichtig vorgehen\" ---- bullshit, militärputsch oder untergang"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:32:42.531Z",
+      "text" : "paraguay hat zumindest noch keine migranten-invasion.... aber sicher besser als europa"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:34:12.472Z",
+      "text" : "Marco Rubio <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:34:55.073Z",
+      "text" : "deine \"heimat\" versinkt bald in blackout und bürgerkrieg, have fun"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:36:09.653Z",
+      "text" : "china ist ein mächtiger gegner..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:37:44.770Z",
+      "text" : "meddlferoz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:39:35.465Z",
+      "text" : "mir ist mein leben wichtiger..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:42:13.374Z",
+      "text" : "nein, mir ist mein leben wichtiger als \"meine heimat\"... die meisten deutschen finde ich eeh scheisse 0__o"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:46:32.174Z",
+      "text" : "\"Die Boomer sind hirnlose Verfügungsmasse unserer Gegner. Die sind leicht zu manipulieren, und es sind sehr viele mit sehr vielen Mitteln.\" --- ja, das meine ich mit \"die meisten deutschen finde ich eeh scheisse\".... 80% impfquote, wählen immer wieder altparteien, die meisten konsumieren alkohol und tabak.... nicht meine welt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:47:02.989Z",
+      "text" : "kurz: viel zu viele cukcs"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:48:47.542Z",
+      "text" : "quentin kommt auf \"regime seine todesliste\" in meinem buch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:56:52.391Z",
+      "text" : "\"Honig ist angeblich nicht nenenswert gesünger als raffinierter Zucker\" ---- bin grad aufm carnivore diet trip -> https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:59:11.857Z",
+      "text" : "\"der nimmt steroide\" --- SamaHoole? glaub ich nicht... aber ich kenn den nicht persönlich"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:59:28.485Z",
+      "text" : "komplettgeisteskrankesevent"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:00:12.629Z",
+      "text" : "\"sie sind ein interessanter typ\" ...... weil er ein brauner nazi ist?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:01:53.751Z",
+      "text" : "\"wahrscheinlich steroide\" --- bullshit, lies einfach seine posts.... alles natur bei dem typ  https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:02:55.191Z",
+      "text" : "null ist genug"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:03:25.532Z",
+      "text" : "\"... immer dreister zu lügen\" ohja"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:04:06.164Z",
+      "text" : "stellst du immer so behinderte fragen?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:05:15.674Z",
+      "text" : "einbürgerungstest jedes jahr wiederholen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:05:27.920Z",
+      "text" : "...und nur linke werden eingebürgert"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:06:52.001Z",
+      "text" : "\"face ID\" ist das ende der anonymität im internet.... das mit dem alterscheck ist nur der fuß in der tür (trojanisches pferd)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:07:42.883Z",
+      "text" : "... VPN wird verboten, Tor wird verboten, I2P wird verboten.... zu viele \"fake news\" (wahrheiten) im internet"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:09:23.630Z",
+      "text" : "jesus christus wählt CDU, lässt sich totficken von niggern, und hält noch sein anderes loch hin....."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:11:44.174Z",
+      "text" : "auktion von 12jährigen, wer kennt es nicht?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:12:03.953Z",
+      "text" : "\"zustand: gebraucht aber neuwertig\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:13:04.754Z",
+      "text" : "böhse onkelz ens <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:15:48.196Z",
+      "text" : "westalgiker sind gehirnwäsche-opfer von der US-besatzung seit 1945...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:17:09.397Z",
+      "text" : "\"Chabad-Lubawitsch-Bewegung\" --- bingo..... tilman knechtel, traukeinempromi, metanoia magazin"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:18:38.671Z",
+      "text" : "haha verhaftet.... da hat einer das \"justiz\" system nicht verstanden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:23:49.943Z",
+      "text" : "https://milahu.github.io/alchi/src/whoaremyfriends/wersindmeinefreunde.html#radical-problems"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:24:15.704Z",
+      "text" : "doch, ich meine DAS paradies auf erden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:24:55.333Z",
+      "text" : "gedruckt 200 seiten A5"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:27:36.986Z",
+      "text" : "kalifat europa"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:27:52.567Z",
+      "text" : "linke werden vom hochhaus geworfen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:30:38.847Z",
+      "text" : "...unsere männer an die front schicken zum sterben"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:31:13.058Z",
+      "text" : "träne unters auge"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:32:21.523Z",
+      "text" : "freifunk = wlan mesh network = scheiss latenz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:35:48.991Z",
+      "text" : "ich als vater hab kein sorgerecht weil ich staatsfeind bin...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:36:01.633Z",
+      "text" : "offiziell \"schizophren\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:37:25.291Z",
+      "text" : "junge!! das war zu rääächts!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:38:16.498Z",
+      "text" : "demenz ist auch so eine zivilisationskrankheit.... spätfolge von nährstoffmangel.... lithium mangel und so"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:38:43.731Z",
+      "text" : "suizid mit 60, problem gelöst"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:41:49.866Z",
+      "text" : "göthe und schiller und nietzsche waren auch \"rechts\" im sinn von: aristokratisch, anti-demokratisch, \"die meisten leute sind idioten\", \"eine kleine elite sollte herrschen\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:43:56.472Z",
+      "text" : "meddlloide geht immer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:44:46.458Z",
+      "text" : "haha, sezession in bundesländer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:45:08.326Z",
+      "text" : "ostdeutschland bleibt deutsch, westdeutschland + frankreich + england werden zerfickt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:46:20.238Z",
+      "text" : "visegrad staaten bleiben VIELLEICHT stabil (polen, tschechien, ungarn, slovakei, ...)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:46:52.956Z",
+      "text" : "/votekick krah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:47:21.036Z",
+      "text" : "/votekick (alle cucks in der AFD)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:47:42.485Z",
+      "text" : "\"wir müssen stiefel lecken\" -- krah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:49:06.468Z",
+      "text" : "uhoh, offline treffen wird gebusted von cops"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:49:51.630Z",
+      "text" : "\"rechts\" im sinn von: aristokratisch, \"die meisten menschen sind idioten\", anti-demokratisch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:52:07.971Z",
+      "text" : "derdiedas weib"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:54:21.708Z",
+      "text" : "archive org"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:55:20.216Z",
+      "text" : "naja, wenn man zu langsam redet wird man vom publikum weggeklatscht"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:55:37.693Z",
+      "text" : "NICHTS <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:56:15.457Z",
+      "text" : "meddlloide"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:10:54.653Z",
+      "text" : "https://milahu.github.io/alchi/src/whoaremyfriends/wersindmeinefreunde.html#radical-problems"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:12:23.764Z",
+      "text" : "hirntot?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:14:32.577Z",
+      "text" : "\"zeigt reue\" -> freispruch!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:14:44.360Z",
+      "text" : "\"nicht erklären\" xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:15:54.270Z",
+      "text" : "hier hat es ein mal den richtigen getroffen: https://github.com/milahu/dominik-sobota-vs-rainer-gerth -- Am 8. April 2024 ersticht Dominik Sobota den Dr. Rainer Gerth in Wasserburg am Inn"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:18:23.212Z",
+      "text" : "familienclans, alte deutsche tradition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:18:56.639Z",
+      "text" : "müller, huber, hainz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:19:18.482Z",
+      "text" : "\"inzwischen\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:20:01.924Z",
+      "text" : "sind wir nicht alle in rockerbanden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:20:12.704Z",
+      "text" : "*passdeutsch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:21:06.965Z",
+      "text" : "haha, einfach das gegenteil behaupten und mit scheisse werfen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:22:31.087Z",
+      "text" : "die steigerung von kriminalität und todesrate ist ja ein hauptziel der migranten-invasion"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:22:50.342Z",
+      "text" : "keine twitter notification"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:23:19.175Z",
+      "text" : "shlomo shadowcucked auf twitter?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:24:22.560Z",
+      "text" : "7K im monat? will ich auch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:25:04.640Z",
+      "text" : "ich hab 100 imaginäre kinder, wo ist mein geld?!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:25:48.436Z",
+      "text" : "\"es ist kompliziert\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:26:08.117Z",
+      "text" : "aggressiv = nicht auf knien flehend"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:27:18.238Z",
+      "text" : "kassieren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:28:50.764Z",
+      "text" : "kriegst trotzdem auf die fresse wegen deinem aggressiven konti outfit"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:32:22.346Z",
+      "text" : "\"rinder sind böse\" -> genau das gegenteil ist die wahrheit, wie so oft -> carnivore diet: https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:39:12.522Z",
+      "text" : "\"polizeieinsatz wegen psychischer gesundheit\" -- dazu reicht wenn ein nachbar die bullen ruft mit \"ich fühle mich belästigt von dem\"...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:39:38.372Z",
+      "text" : "soll seine mumu zeigen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:33.530Z",
+      "text" : "\"dass gewalt eine lösung sei\" --- pfff gewalt ist eine lösung, das ganze system baut auf gewalt.... opfer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:40.681Z",
+      "text" : "*keine"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:43.581Z",
+      "text" : "*eine"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:41:35.154Z",
+      "text" : "\"reddit\".... alles klar... was für ein shithole >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:41:59.015Z",
+      "text" : "die meisten leute auf reddit sind so behindert..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:42:23.081Z",
+      "text" : "reddit verbieten, problem gelöst"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:43:50.162Z",
+      "text" : "reddit2 verbieten, reddit3 verbieten, ..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:44:21.568Z",
+      "text" : "\"libertär\" -- instant 10 IQ punkte verloren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:00.956Z",
+      "text" : "\"eine welt voller hass\" -- aww das klingt traumhaft"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:27.224Z",
+      "text" : "\"transkind\" -- auch wieder nur ein opfer von dummen/bösen kindern"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:32.341Z",
+      "text" : "low-dose DMT oh yeah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:57.032Z",
+      "text" : "\"komplett kaputter typ\" -- haha, selber keine erfahrung mit drogen, aber scheisse über drogen user reden? weak"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:47:22.818Z",
+      "text" : "\"putin ist schuld!\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:47:58.174Z",
+      "text" : "shlo muss dringend DMT rauchen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:48:43.169Z",
+      "text" : "feroz der eiserne"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:50:55.735Z",
+      "text" : "gyros, alte deutsche tradition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:07.560Z",
+      "text" : "der deutscheste pali der welt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:12.700Z",
+      "text" : "*paki"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:48.425Z",
+      "text" : "quoten brownie"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:53:14.540Z",
+      "text" : "yeah. welche anstaltung?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:54:26.941Z",
+      "text" : "they are noticing. SHUT IT DOWN!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:29.311Z",
+      "text" : "prozess gegen 40% von deutschland"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:42.359Z",
+      "text" : "gewalt ist herrlich, was sonst?!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:57.333Z",
+      "text" : "zeig logo"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:57:32.834Z",
+      "text" : "die AFD träumt nachts heimlich von \"ausländer raus\".... instant verbieten!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:59:10.256Z",
+      "text" : "sellner?! da kannst auch gleich adolf hitler einladen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:00:24.838Z",
+      "text" : "keiner redet so schön über \"remigration\" wie martin sellner .... blaa blaa blaaa blaaa blaaaaa... nur gelaber den ganzen tag, aber alles bleibt scheisse, und keiner versteht warum...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:04:22.707Z",
+      "text" : "eisbrecher:innen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:04:52.968Z",
+      "text" : "aussen:innen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:05:10.997Z",
+      "text" : "man hätte ihn dafür auslachen müssen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:06:30.515Z",
+      "text" : "...und am ende vom stück werden AFD politiker mit einer guillotine geköpft"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:07:29.959Z",
+      "text" : "\"die warze ist mein alleinstellungsmerkmal\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:07:39.463Z",
+      "text" : "\"sind sie ein cuck?\" -- \"jaa\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:08:18.851Z",
+      "text" : "\"totschlag ist eine angemessene gewaltform\" -- faschisten immer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:09:46.952Z",
+      "text" : "gefühlte 1% der migranten sind \"frauen und kinder\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:10:41.216Z",
+      "text" : "für kuchenwerfen kriegst du als rechter \"versuchter totschlag\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:11:24.825Z",
+      "text" : "lord sellnermort"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:12:38.823Z",
+      "text" : "verschwörung, alle gegen einen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:18:04.695Z",
+      "text" : "feroz ist so naiv.... die arbeiten ALLE zusammen, das ist eine große verschwörung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:18:52.879Z",
+      "text" : "\"Warum reden die über diese Veranstaltung\" --- ja, schon wieder so eine scheiss unrelevante scheisse......"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:20:22.592Z",
+      "text" : "\"Wen wollte man überzeugen? Man braucht sich nur das Publikum anzusehen: Alles verlorene Seelen\" -- yes. echokammer. mentaler inzest"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:22:23.161Z",
+      "text" : "\"Solchen Leuten muss man ihre Lebenslügen lassen und ihnen nicht noch den Ruhestand verderben.\" --- nein!! energieverschwendung. weg damit!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:22:48.511Z",
+      "text" : "richtig gecastet... alter weisser cuck"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:09.625Z",
+      "text" : "impfstatus 100000 impfungen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:29.138Z",
+      "text" : "lieblingssport auf der couch sitzen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:49.601Z",
+      "text" : "cuck kritik"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:03.356Z",
+      "text" : "\"traue keinem über 45\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:20.022Z",
+      "text" : "\"ich gelobe alle fotzen zu zerficken\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:52.928Z",
+      "text" : "feroz ist 25% deutscher"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:28:47.367Z",
+      "text" : "\"sie sind ein interessanter typ\" --- aussen braun und innen braun 0___o"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:22.053Z",
+      "text" : "\"ich kenne diese zahl nicht\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:41.785Z",
+      "text" : "YESS"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:57.193Z",
+      "text" : "\"das sagt viel über sie aus und nichts über mich\"!!!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:03.914Z",
+      "text" : "HUUUUREEEE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:13.582Z",
+      "text" : "HALT DIE FRESSE HUREE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:29.926Z",
+      "text" : "haha, ich wäre gegangen, scheiss kindergarten"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:44.066Z",
+      "text" : "\"ich bin hier raus, fickt euch alle\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:31:08.858Z",
+      "text" : "die arroganz ist so widerlich"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:31:35.784Z",
+      "text" : "sie provozieren 24/7 und wenn du ein falsches wort sagst dann bist du der böse"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:32:10.798Z",
+      "text" : "feroz hätte laut lachen sollen und einfach gehen..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:34:01.870Z",
+      "text" : "gegneranalyse.."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:01.277Z",
+      "text" : "pff, die wusste genau welche zahl das ist, die hat sich einfach extrem dumm gestellt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:41.430Z",
+      "text" : "die zahl kann man mit 20 sekunden google \"beweisen\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:50.637Z",
+      "text" : "haben die kein internet?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:36:41.986Z",
+      "text" : "linke sind unsportlich per definition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:37:26.587Z",
+      "text" : "vegan-cuck wtf?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:38:28.368Z",
+      "text" : "linke = unsportlich = verlogen = kriminell...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:26.679Z",
+      "text" : "feroz, einer gegen alle"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:41.788Z",
+      "text" : "mentaler inzest"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:50.800Z",
+      "text" : "gleichschaltung, lockstep"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:56.968Z",
+      "text" : "faschismus = keine oppositin"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:41:27.845Z",
+      "text" : "die frage \"kennen sie messerstecher\" sollte man ignorieren als scheiss-frage, und weiter zur nächsten frage"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:41:55.497Z",
+      "text" : "man muss nicht über jedes stöckchen springen, man muss sich nicht von jedem scheiss provozieren lassen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:42:03.758Z",
+      "text" : "GETÖTET HAT"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:42:56.622Z",
+      "text" : "WO SOLLEN DIE SONST HIN AUSSER NACH DEUTSCHLAND???"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:43:16.486Z",
+      "text" : "\"entschuldigung aber sie sind dumm\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:43:46.290Z",
+      "text" : "so fertig diese leute...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:01.435Z",
+      "text" : "\"ich ertrage deren hinterfotzigkeit nicht mehr\" +1"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:24.010Z",
+      "text" : "schon wieder sone scheiss frage, wtf"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:28.063Z",
+      "text" : "null relevanz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:59.291Z",
+      "text" : "\"was war das für eine Fragerunde\" -- prozess gegen deutschland"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:45:50.670Z",
+      "text" : "mönch frisur...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:47:49.241Z",
+      "text" : "wenn man auf der sachebene schon verloren hat, dann muss man persönlich werden.... ad-hominem angriffe, \"linke scheisse\", lügen, rhetorik...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:48:41.826Z",
+      "text" : "lineare fortsetung? eher exponentielle fortsetzung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:48:55.194Z",
+      "text" : "GAULAND IST MEIN FÜHRER"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:49:45.986Z",
+      "text" : "\"differenziert\" -- gute antwort"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:50:14.714Z",
+      "text" : "\"wie finden sie X\" ---- die frage ist zu ungenau"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:50:58.134Z",
+      "text" : "100%"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:37.000Z",
+      "text" : "mathematische notwendigkeit"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:44.315Z",
+      "text" : "\"sie sind paranoid\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:58.427Z",
+      "text" : "NICE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:52:08.482Z",
+      "text" : "\"dummes zeug\" rache"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:53:04.416Z",
+      "text" : "dieses verhör läuft ähnlich wie in der psychiatrie..... egal was du sagst, du bist immer \"verrückt\" und \"paranoid\" und \"dumm\"...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:53:30.937Z",
+      "text" : "psychiatrie / hexenprozess"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:54:30.562Z",
+      "text" : "wem will er keine bühne geben? dem feroz?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:55:22.997Z",
+      "text" : "hose runterziehen und einen kackhaufen auf der bühne hinterlassen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:56:03.971Z",
+      "text" : "\"So n Gericht hab ich schonmal in Idiocracy gesehen.\" ---- aaaah. auch idiocracy ist ein instruction manual"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:57:17.810Z",
+      "text" : "zensur ist eine faschistische methode"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:58:52.438Z",
+      "text" : "feroz unser schäbiger lump <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:59:14.717Z",
+      "text" : "neutral?! nur tote sind neutral, alles leben hat neigung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:00:02.875Z",
+      "text" : "feroz hätte parallel einen privaten livestream machen sollen und das event weiter kommentieren : D"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:03:04.368Z",
+      "text" : "das haben die trainiert, vorbereitet, geskriptet"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:03:46.641Z",
+      "text" : "scheiss kindergarten niveau.... die sind doch alle hirntot geimpft >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:05:55.076Z",
+      "text" : "feroz \"fakenews\" khan"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:06:36.406Z",
+      "text" : "blamiert..... die linken haben keine besseren leute : D"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:09.222Z",
+      "text" : "feroz wird nie wieder eingeladen von linken xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:20.558Z",
+      "text" : "feroz \"blacklisted\" khan"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:48.434Z",
+      "text" : "google -> afd youtuber -> feroz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:08:24.740Z",
+      "text" : "ziel der aktion? steuergeld kassieren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:09:25.857Z",
+      "text" : "nur wer scheisse baut muss \"nett\" sein.... extrem antimeddl"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:10:00.463Z",
+      "text" : "\"kloschüssel\" --- gesichert rechtsextremer kampfbegriff"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:11:00.081Z",
+      "text" : "\"Du Dieter ick frach mal meenen Neffen, der kennt solche Kanäle\" ---- der neffe ist heimlich rechter und wollte seine linke family ficken"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:12:12.978Z",
+      "text" : "der rechte neffe, das schwarze schaf der linken familie, wird bald zur adoption freigegeben"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:12:44.120Z",
+      "text" : "war livestream"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:14:14.213Z",
+      "text" : "chris ares - defend europe"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:14:57.777Z",
+      "text" : "https://www.youtube.com/watch?v=4ebzYtQ9MT8 ---- Chris Ares - Defend Europe"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:16:55.820Z",
+      "text" : "wir brauchen militärputsch und militärdiktatur, alles andere ist doomed to fail...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:17:24.363Z",
+      "text" : "radikale probleme -> radikale lösungen. und die militärdiktatur wird sowieso kommen (kalifat europa)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:18:38.481Z",
+      "text" : "feroz hätte das ALLES heimlich recorden sollen, audio und video"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:19:00.350Z",
+      "text" : "\"sie arschloch\" -- also er hat die diskussion verloren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:19:46.300Z",
+      "text" : "\"die hätten mich gelyncht... die hassen uns\"... oh ja! das wird alles nur noch schlimmer, noch weiter eskalieren...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:20:11.961Z",
+      "text" : "attentat auf stürzenberger...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:20:39.561Z",
+      "text" : "vermutlich ermordete AFD politiker vor lokalwahl...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:21:30.521Z",
+      "text" : "jörg haider -- nationalistischer politiker in österreich -- ermordet von der CIA (drive by wire car remote control)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:21:50.781Z",
+      "text" : "möllemann --- hat sich mit israel angelegt --- ermordet vom mossad..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:22:23.757Z",
+      "text" : "\"ist trotzdem fake news!!\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:22:55.009Z",
+      "text" : "\"benutzung des internets\" <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:24.737Z",
+      "text" : "\"ihr MESSERscharfer verstand\" xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:38.337Z",
+      "text" : "er hätte noch viel viel mehr das wort MESSER einbauen können xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:50.389Z",
+      "text" : "mit MESSERhaften grüßen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:25:47.684Z",
+      "text" : "100% rhetorik.... die scheissen auf harte fakten"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:26:08.735Z",
+      "text" : "schmelztiegelfamilie?? kalifat europa!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:27:26.237Z",
+      "text" : "pff AFD verbot..... die AFD ist controlled opposition, zu spät zu wenig.... altparteien hinterlassen verbrannte erde = crash, blackout"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:27:58.281Z",
+      "text" : "AFD verbot debatte ist auch wieder ne ablenkung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:28:47.101Z",
+      "text" : "ich würde paraguay wählen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:28:55.373Z",
+      "text" : "scheiss auf europa >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:31:48.802Z",
+      "text" : "\"wir sollten geduldig und vorsichtig vorgehen\" ---- bullshit, militärputsch oder untergang"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:32:42.531Z",
+      "text" : "paraguay hat zumindest noch keine migranten-invasion.... aber sicher besser als europa"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:34:12.472Z",
+      "text" : "Marco Rubio <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:34:55.073Z",
+      "text" : "deine \"heimat\" versinkt bald in blackout und bürgerkrieg, have fun"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:36:09.653Z",
+      "text" : "china ist ein mächtiger gegner..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:37:44.770Z",
+      "text" : "meddlferoz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:39:35.465Z",
+      "text" : "mir ist mein leben wichtiger..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:42:13.374Z",
+      "text" : "nein, mir ist mein leben wichtiger als \"meine heimat\"... die meisten deutschen finde ich eeh scheisse 0__o"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:46:32.174Z",
+      "text" : "\"Die Boomer sind hirnlose Verfügungsmasse unserer Gegner. Die sind leicht zu manipulieren, und es sind sehr viele mit sehr vielen Mitteln.\" --- ja, das meine ich mit \"die meisten deutschen finde ich eeh scheisse\".... 80% impfquote, wählen immer wieder altparteien, die meisten konsumieren alkohol und tabak.... nicht meine welt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:47:02.989Z",
+      "text" : "kurz: viel zu viele cukcs"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:48:47.542Z",
+      "text" : "quentin kommt auf \"regime seine todesliste\" in meinem buch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:56:52.391Z",
+      "text" : "\"Honig ist angeblich nicht nenenswert gesünger als raffinierter Zucker\" ---- bin grad aufm carnivore diet trip -> https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:59:11.857Z",
+      "text" : "\"der nimmt steroide\" --- SamaHoole? glaub ich nicht... aber ich kenn den nicht persönlich"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:59:28.485Z",
+      "text" : "komplettgeisteskrankesevent"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:00:12.629Z",
+      "text" : "\"sie sind ein interessanter typ\" ...... weil er ein brauner nazi ist?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:01:53.751Z",
+      "text" : "\"wahrscheinlich steroide\" --- bullshit, lies einfach seine posts.... alles natur bei dem typ  https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:02:55.191Z",
+      "text" : "null ist genug"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:03:25.532Z",
+      "text" : "\"... immer dreister zu lügen\" ohja"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:04:06.164Z",
+      "text" : "stellst du immer so behinderte fragen?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:05:15.674Z",
+      "text" : "einbürgerungstest jedes jahr wiederholen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:05:27.920Z",
+      "text" : "...und nur linke werden eingebürgert"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:06:52.001Z",
+      "text" : "\"face ID\" ist das ende der anonymität im internet.... das mit dem alterscheck ist nur der fuß in der tür (trojanisches pferd)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:07:42.883Z",
+      "text" : "... VPN wird verboten, Tor wird verboten, I2P wird verboten.... zu viele \"fake news\" (wahrheiten) im internet"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:09:23.630Z",
+      "text" : "jesus christus wählt CDU, lässt sich totficken von niggern, und hält noch sein anderes loch hin....."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:11:44.174Z",
+      "text" : "auktion von 12jährigen, wer kennt es nicht?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:12:03.953Z",
+      "text" : "\"zustand: gebraucht aber neuwertig\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:13:04.754Z",
+      "text" : "böhse onkelz ens <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:15:48.196Z",
+      "text" : "westalgiker sind gehirnwäsche-opfer von der US-besatzung seit 1945...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:17:09.397Z",
+      "text" : "\"Chabad-Lubawitsch-Bewegung\" --- bingo..... tilman knechtel, traukeinempromi, metanoia magazin"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:18:38.671Z",
+      "text" : "haha verhaftet.... da hat einer das \"justiz\" system nicht verstanden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:23:49.943Z",
+      "text" : "https://milahu.github.io/alchi/src/whoaremyfriends/wersindmeinefreunde.html#radical-problems"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:24:15.704Z",
+      "text" : "doch, ich meine DAS paradies auf erden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:24:55.333Z",
+      "text" : "gedruckt 200 seiten A5"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:27:36.986Z",
+      "text" : "kalifat europa"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:27:52.567Z",
+      "text" : "linke werden vom hochhaus geworfen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:30:38.847Z",
+      "text" : "...unsere männer an die front schicken zum sterben"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:31:13.058Z",
+      "text" : "träne unters auge"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:32:21.523Z",
+      "text" : "freifunk = wlan mesh network = scheiss latenz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:35:48.991Z",
+      "text" : "ich als vater hab kein sorgerecht weil ich staatsfeind bin...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:36:01.633Z",
+      "text" : "offiziell \"schizophren\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:37:25.291Z",
+      "text" : "junge!! das war zu rääächts!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:38:16.498Z",
+      "text" : "demenz ist auch so eine zivilisationskrankheit.... spätfolge von nährstoffmangel.... lithium mangel und so"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:38:43.731Z",
+      "text" : "suizid mit 60, problem gelöst"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:41:49.866Z",
+      "text" : "göthe und schiller und nietzsche waren auch \"rechts\" im sinn von: aristokratisch, anti-demokratisch, \"die meisten leute sind idioten\", \"eine kleine elite sollte herrschen\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:43:56.472Z",
+      "text" : "meddlloide geht immer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:44:46.458Z",
+      "text" : "haha, sezession in bundesländer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:45:08.326Z",
+      "text" : "ostdeutschland bleibt deutsch, westdeutschland + frankreich + england werden zerfickt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:46:20.238Z",
+      "text" : "visegrad staaten bleiben VIELLEICHT stabil (polen, tschechien, ungarn, slovakei, ...)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:46:52.956Z",
+      "text" : "/votekick krah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:47:21.036Z",
+      "text" : "/votekick (alle cucks in der AFD)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:47:42.485Z",
+      "text" : "\"wir müssen stiefel lecken\" -- krah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:49:06.468Z",
+      "text" : "uhoh, offline treffen wird gebusted von cops"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:49:51.630Z",
+      "text" : "\"rechts\" im sinn von: aristokratisch, \"die meisten menschen sind idioten\", anti-demokratisch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:52:07.971Z",
+      "text" : "derdiedas weib"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:54:21.708Z",
+      "text" : "archive org"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:55:20.216Z",
+      "text" : "naja, wenn man zu langsam redet wird man vom publikum weggeklatscht"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:55:37.693Z",
+      "text" : "NICHTS <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:56:15.457Z",
+      "text" : "meddlloide"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:10:54.653Z",
+      "text" : "https://milahu.github.io/alchi/src/whoaremyfriends/wersindmeinefreunde.html#radical-problems"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:12:23.764Z",
+      "text" : "hirntot?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:14:32.577Z",
+      "text" : "\"zeigt reue\" -> freispruch!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:14:44.360Z",
+      "text" : "\"nicht erklären\" xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:15:54.270Z",
+      "text" : "hier hat es ein mal den richtigen getroffen: https://github.com/milahu/dominik-sobota-vs-rainer-gerth -- Am 8. April 2024 ersticht Dominik Sobota den Dr. Rainer Gerth in Wasserburg am Inn"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:18:23.212Z",
+      "text" : "familienclans, alte deutsche tradition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:18:56.639Z",
+      "text" : "müller, huber, hainz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:19:18.482Z",
+      "text" : "\"inzwischen\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:20:01.924Z",
+      "text" : "sind wir nicht alle in rockerbanden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:20:12.704Z",
+      "text" : "*passdeutsch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:21:06.965Z",
+      "text" : "haha, einfach das gegenteil behaupten und mit scheisse werfen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:22:31.087Z",
+      "text" : "die steigerung von kriminalität und todesrate ist ja ein hauptziel der migranten-invasion"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:22:50.342Z",
+      "text" : "keine twitter notification"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:23:19.175Z",
+      "text" : "shlomo shadowcucked auf twitter?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:24:22.560Z",
+      "text" : "7K im monat? will ich auch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:25:04.640Z",
+      "text" : "ich hab 100 imaginäre kinder, wo ist mein geld?!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:25:48.436Z",
+      "text" : "\"es ist kompliziert\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:26:08.117Z",
+      "text" : "aggressiv = nicht auf knien flehend"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:27:18.238Z",
+      "text" : "kassieren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:28:50.764Z",
+      "text" : "kriegst trotzdem auf die fresse wegen deinem aggressiven konti outfit"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:32:22.346Z",
+      "text" : "\"rinder sind böse\" -> genau das gegenteil ist die wahrheit, wie so oft -> carnivore diet: https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:39:12.522Z",
+      "text" : "\"polizeieinsatz wegen psychischer gesundheit\" -- dazu reicht wenn ein nachbar die bullen ruft mit \"ich fühle mich belästigt von dem\"...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:39:38.372Z",
+      "text" : "soll seine mumu zeigen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:33.530Z",
+      "text" : "\"dass gewalt eine lösung sei\" --- pfff gewalt ist eine lösung, das ganze system baut auf gewalt.... opfer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:40.681Z",
+      "text" : "*keine"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:43.581Z",
+      "text" : "*eine"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:41:35.154Z",
+      "text" : "\"reddit\".... alles klar... was für ein shithole >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:41:59.015Z",
+      "text" : "die meisten leute auf reddit sind so behindert..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:42:23.081Z",
+      "text" : "reddit verbieten, problem gelöst"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:43:50.162Z",
+      "text" : "reddit2 verbieten, reddit3 verbieten, ..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:44:21.568Z",
+      "text" : "\"libertär\" -- instant 10 IQ punkte verloren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:00.956Z",
+      "text" : "\"eine welt voller hass\" -- aww das klingt traumhaft"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:27.224Z",
+      "text" : "\"transkind\" -- auch wieder nur ein opfer von dummen/bösen kindern"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:32.341Z",
+      "text" : "low-dose DMT oh yeah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:57.032Z",
+      "text" : "\"komplett kaputter typ\" -- haha, selber keine erfahrung mit drogen, aber scheisse über drogen user reden? weak"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:47:22.818Z",
+      "text" : "\"putin ist schuld!\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:47:58.174Z",
+      "text" : "shlo muss dringend DMT rauchen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:48:43.169Z",
+      "text" : "feroz der eiserne"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:50:55.735Z",
+      "text" : "gyros, alte deutsche tradition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:07.560Z",
+      "text" : "der deutscheste pali der welt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:12.700Z",
+      "text" : "*paki"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:48.425Z",
+      "text" : "quoten brownie"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:53:14.540Z",
+      "text" : "yeah. welche anstaltung?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:54:26.941Z",
+      "text" : "they are noticing. SHUT IT DOWN!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:29.311Z",
+      "text" : "prozess gegen 40% von deutschland"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:42.359Z",
+      "text" : "gewalt ist herrlich, was sonst?!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:57.333Z",
+      "text" : "zeig logo"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:57:32.834Z",
+      "text" : "die AFD träumt nachts heimlich von \"ausländer raus\".... instant verbieten!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:59:10.256Z",
+      "text" : "sellner?! da kannst auch gleich adolf hitler einladen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:00:24.838Z",
+      "text" : "keiner redet so schön über \"remigration\" wie martin sellner .... blaa blaa blaaa blaaa blaaaaa... nur gelaber den ganzen tag, aber alles bleibt scheisse, und keiner versteht warum...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:04:22.707Z",
+      "text" : "eisbrecher:innen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:04:52.968Z",
+      "text" : "aussen:innen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:05:10.997Z",
+      "text" : "man hätte ihn dafür auslachen müssen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:06:30.515Z",
+      "text" : "...und am ende vom stück werden AFD politiker mit einer guillotine geköpft"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:07:29.959Z",
+      "text" : "\"die warze ist mein alleinstellungsmerkmal\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:07:39.463Z",
+      "text" : "\"sind sie ein cuck?\" -- \"jaa\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:08:18.851Z",
+      "text" : "\"totschlag ist eine angemessene gewaltform\" -- faschisten immer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:09:46.952Z",
+      "text" : "gefühlte 1% der migranten sind \"frauen und kinder\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:10:41.216Z",
+      "text" : "für kuchenwerfen kriegst du als rechter \"versuchter totschlag\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:11:24.825Z",
+      "text" : "lord sellnermort"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:12:38.823Z",
+      "text" : "verschwörung, alle gegen einen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:18:04.695Z",
+      "text" : "feroz ist so naiv.... die arbeiten ALLE zusammen, das ist eine große verschwörung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:18:52.879Z",
+      "text" : "\"Warum reden die über diese Veranstaltung\" --- ja, schon wieder so eine scheiss unrelevante scheisse......"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:20:22.592Z",
+      "text" : "\"Wen wollte man überzeugen? Man braucht sich nur das Publikum anzusehen: Alles verlorene Seelen\" -- yes. echokammer. mentaler inzest"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:22:23.161Z",
+      "text" : "\"Solchen Leuten muss man ihre Lebenslügen lassen und ihnen nicht noch den Ruhestand verderben.\" --- nein!! energieverschwendung. weg damit!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:22:48.511Z",
+      "text" : "richtig gecastet... alter weisser cuck"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:09.625Z",
+      "text" : "impfstatus 100000 impfungen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:29.138Z",
+      "text" : "lieblingssport auf der couch sitzen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:49.601Z",
+      "text" : "cuck kritik"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:03.356Z",
+      "text" : "\"traue keinem über 45\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:20.022Z",
+      "text" : "\"ich gelobe alle fotzen zu zerficken\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:52.928Z",
+      "text" : "feroz ist 25% deutscher"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:28:47.367Z",
+      "text" : "\"sie sind ein interessanter typ\" --- aussen braun und innen braun 0___o"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:22.053Z",
+      "text" : "\"ich kenne diese zahl nicht\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:41.785Z",
+      "text" : "YESS"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:57.193Z",
+      "text" : "\"das sagt viel über sie aus und nichts über mich\"!!!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:03.914Z",
+      "text" : "HUUUUREEEE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:13.582Z",
+      "text" : "HALT DIE FRESSE HUREE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:29.926Z",
+      "text" : "haha, ich wäre gegangen, scheiss kindergarten"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:44.066Z",
+      "text" : "\"ich bin hier raus, fickt euch alle\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:31:08.858Z",
+      "text" : "die arroganz ist so widerlich"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:31:35.784Z",
+      "text" : "sie provozieren 24/7 und wenn du ein falsches wort sagst dann bist du der böse"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:32:10.798Z",
+      "text" : "feroz hätte laut lachen sollen und einfach gehen..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:34:01.870Z",
+      "text" : "gegneranalyse.."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:01.277Z",
+      "text" : "pff, die wusste genau welche zahl das ist, die hat sich einfach extrem dumm gestellt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:41.430Z",
+      "text" : "die zahl kann man mit 20 sekunden google \"beweisen\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:50.637Z",
+      "text" : "haben die kein internet?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:36:41.986Z",
+      "text" : "linke sind unsportlich per definition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:37:26.587Z",
+      "text" : "vegan-cuck wtf?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:38:28.368Z",
+      "text" : "linke = unsportlich = verlogen = kriminell...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:26.679Z",
+      "text" : "feroz, einer gegen alle"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:41.788Z",
+      "text" : "mentaler inzest"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:50.800Z",
+      "text" : "gleichschaltung, lockstep"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:56.968Z",
+      "text" : "faschismus = keine oppositin"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:41:27.845Z",
+      "text" : "die frage \"kennen sie messerstecher\" sollte man ignorieren als scheiss-frage, und weiter zur nächsten frage"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:41:55.497Z",
+      "text" : "man muss nicht über jedes stöckchen springen, man muss sich nicht von jedem scheiss provozieren lassen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:42:03.758Z",
+      "text" : "GETÖTET HAT"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:42:56.622Z",
+      "text" : "WO SOLLEN DIE SONST HIN AUSSER NACH DEUTSCHLAND???"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:43:16.486Z",
+      "text" : "\"entschuldigung aber sie sind dumm\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:43:46.290Z",
+      "text" : "so fertig diese leute...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:01.435Z",
+      "text" : "\"ich ertrage deren hinterfotzigkeit nicht mehr\" +1"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:24.010Z",
+      "text" : "schon wieder sone scheiss frage, wtf"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:28.063Z",
+      "text" : "null relevanz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:59.291Z",
+      "text" : "\"was war das für eine Fragerunde\" -- prozess gegen deutschland"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:45:50.670Z",
+      "text" : "mönch frisur...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:47:49.241Z",
+      "text" : "wenn man auf der sachebene schon verloren hat, dann muss man persönlich werden.... ad-hominem angriffe, \"linke scheisse\", lügen, rhetorik...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:48:41.826Z",
+      "text" : "lineare fortsetung? eher exponentielle fortsetzung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:48:55.194Z",
+      "text" : "GAULAND IST MEIN FÜHRER"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:49:45.986Z",
+      "text" : "\"differenziert\" -- gute antwort"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:50:14.714Z",
+      "text" : "\"wie finden sie X\" ---- die frage ist zu ungenau"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:50:58.134Z",
+      "text" : "100%"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:37.000Z",
+      "text" : "mathematische notwendigkeit"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:44.315Z",
+      "text" : "\"sie sind paranoid\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:58.427Z",
+      "text" : "NICE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:52:08.482Z",
+      "text" : "\"dummes zeug\" rache"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:53:04.416Z",
+      "text" : "dieses verhör läuft ähnlich wie in der psychiatrie..... egal was du sagst, du bist immer \"verrückt\" und \"paranoid\" und \"dumm\"...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:53:30.937Z",
+      "text" : "psychiatrie / hexenprozess"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:54:30.562Z",
+      "text" : "wem will er keine bühne geben? dem feroz?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:55:22.997Z",
+      "text" : "hose runterziehen und einen kackhaufen auf der bühne hinterlassen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:56:03.971Z",
+      "text" : "\"So n Gericht hab ich schonmal in Idiocracy gesehen.\" ---- aaaah. auch idiocracy ist ein instruction manual"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:57:17.810Z",
+      "text" : "zensur ist eine faschistische methode"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:58:52.438Z",
+      "text" : "feroz unser schäbiger lump <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:59:14.717Z",
+      "text" : "neutral?! nur tote sind neutral, alles leben hat neigung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:00:02.875Z",
+      "text" : "feroz hätte parallel einen privaten livestream machen sollen und das event weiter kommentieren : D"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:03:04.368Z",
+      "text" : "das haben die trainiert, vorbereitet, geskriptet"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:03:46.641Z",
+      "text" : "scheiss kindergarten niveau.... die sind doch alle hirntot geimpft >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:05:55.076Z",
+      "text" : "feroz \"fakenews\" khan"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:06:36.406Z",
+      "text" : "blamiert..... die linken haben keine besseren leute : D"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:09.222Z",
+      "text" : "feroz wird nie wieder eingeladen von linken xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:20.558Z",
+      "text" : "feroz \"blacklisted\" khan"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:48.434Z",
+      "text" : "google -> afd youtuber -> feroz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:08:24.740Z",
+      "text" : "ziel der aktion? steuergeld kassieren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:09:25.857Z",
+      "text" : "nur wer scheisse baut muss \"nett\" sein.... extrem antimeddl"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:10:00.463Z",
+      "text" : "\"kloschüssel\" --- gesichert rechtsextremer kampfbegriff"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:11:00.081Z",
+      "text" : "\"Du Dieter ick frach mal meenen Neffen, der kennt solche Kanäle\" ---- der neffe ist heimlich rechter und wollte seine linke family ficken"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:12:12.978Z",
+      "text" : "der rechte neffe, das schwarze schaf der linken familie, wird bald zur adoption freigegeben"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:12:44.120Z",
+      "text" : "war livestream"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:14:14.213Z",
+      "text" : "chris ares - defend europe"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:14:57.777Z",
+      "text" : "https://www.youtube.com/watch?v=4ebzYtQ9MT8 ---- Chris Ares - Defend Europe"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:16:55.820Z",
+      "text" : "wir brauchen militärputsch und militärdiktatur, alles andere ist doomed to fail...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:17:24.363Z",
+      "text" : "radikale probleme -> radikale lösungen. und die militärdiktatur wird sowieso kommen (kalifat europa)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:18:38.481Z",
+      "text" : "feroz hätte das ALLES heimlich recorden sollen, audio und video"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:19:00.350Z",
+      "text" : "\"sie arschloch\" -- also er hat die diskussion verloren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:19:46.300Z",
+      "text" : "\"die hätten mich gelyncht... die hassen uns\"... oh ja! das wird alles nur noch schlimmer, noch weiter eskalieren...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:20:11.961Z",
+      "text" : "attentat auf stürzenberger...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:20:39.561Z",
+      "text" : "vermutlich ermordete AFD politiker vor lokalwahl...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:21:30.521Z",
+      "text" : "jörg haider -- nationalistischer politiker in österreich -- ermordet von der CIA (drive by wire car remote control)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:21:50.781Z",
+      "text" : "möllemann --- hat sich mit israel angelegt --- ermordet vom mossad..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:22:23.757Z",
+      "text" : "\"ist trotzdem fake news!!\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:22:55.009Z",
+      "text" : "\"benutzung des internets\" <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:24.737Z",
+      "text" : "\"ihr MESSERscharfer verstand\" xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:38.337Z",
+      "text" : "er hätte noch viel viel mehr das wort MESSER einbauen können xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:50.389Z",
+      "text" : "mit MESSERhaften grüßen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:25:47.684Z",
+      "text" : "100% rhetorik.... die scheissen auf harte fakten"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:26:08.735Z",
+      "text" : "schmelztiegelfamilie?? kalifat europa!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:27:26.237Z",
+      "text" : "pff AFD verbot..... die AFD ist controlled opposition, zu spät zu wenig.... altparteien hinterlassen verbrannte erde = crash, blackout"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:27:58.281Z",
+      "text" : "AFD verbot debatte ist auch wieder ne ablenkung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:28:47.101Z",
+      "text" : "ich würde paraguay wählen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:28:55.373Z",
+      "text" : "scheiss auf europa >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:31:48.802Z",
+      "text" : "\"wir sollten geduldig und vorsichtig vorgehen\" ---- bullshit, militärputsch oder untergang"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:32:42.531Z",
+      "text" : "paraguay hat zumindest noch keine migranten-invasion.... aber sicher besser als europa"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:34:12.472Z",
+      "text" : "Marco Rubio <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:34:55.073Z",
+      "text" : "deine \"heimat\" versinkt bald in blackout und bürgerkrieg, have fun"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:36:09.653Z",
+      "text" : "china ist ein mächtiger gegner..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:37:44.770Z",
+      "text" : "meddlferoz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:39:35.465Z",
+      "text" : "mir ist mein leben wichtiger..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:42:13.374Z",
+      "text" : "nein, mir ist mein leben wichtiger als \"meine heimat\"... die meisten deutschen finde ich eeh scheisse 0__o"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:46:32.174Z",
+      "text" : "\"Die Boomer sind hirnlose Verfügungsmasse unserer Gegner. Die sind leicht zu manipulieren, und es sind sehr viele mit sehr vielen Mitteln.\" --- ja, das meine ich mit \"die meisten deutschen finde ich eeh scheisse\".... 80% impfquote, wählen immer wieder altparteien, die meisten konsumieren alkohol und tabak.... nicht meine welt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:47:02.989Z",
+      "text" : "kurz: viel zu viele cukcs"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:48:47.542Z",
+      "text" : "quentin kommt auf \"regime seine todesliste\" in meinem buch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:56:52.391Z",
+      "text" : "\"Honig ist angeblich nicht nenenswert gesünger als raffinierter Zucker\" ---- bin grad aufm carnivore diet trip -> https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:59:11.857Z",
+      "text" : "\"der nimmt steroide\" --- SamaHoole? glaub ich nicht... aber ich kenn den nicht persönlich"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:59:28.485Z",
+      "text" : "komplettgeisteskrankesevent"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:00:12.629Z",
+      "text" : "\"sie sind ein interessanter typ\" ...... weil er ein brauner nazi ist?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:01:53.751Z",
+      "text" : "\"wahrscheinlich steroide\" --- bullshit, lies einfach seine posts.... alles natur bei dem typ  https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:02:55.191Z",
+      "text" : "null ist genug"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:03:25.532Z",
+      "text" : "\"... immer dreister zu lügen\" ohja"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:04:06.164Z",
+      "text" : "stellst du immer so behinderte fragen?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:05:15.674Z",
+      "text" : "einbürgerungstest jedes jahr wiederholen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:05:27.920Z",
+      "text" : "...und nur linke werden eingebürgert"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:06:52.001Z",
+      "text" : "\"face ID\" ist das ende der anonymität im internet.... das mit dem alterscheck ist nur der fuß in der tür (trojanisches pferd)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:07:42.883Z",
+      "text" : "... VPN wird verboten, Tor wird verboten, I2P wird verboten.... zu viele \"fake news\" (wahrheiten) im internet"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:09:23.630Z",
+      "text" : "jesus christus wählt CDU, lässt sich totficken von niggern, und hält noch sein anderes loch hin....."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:11:44.174Z",
+      "text" : "auktion von 12jährigen, wer kennt es nicht?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:12:03.953Z",
+      "text" : "\"zustand: gebraucht aber neuwertig\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:13:04.754Z",
+      "text" : "böhse onkelz ens <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:15:48.196Z",
+      "text" : "westalgiker sind gehirnwäsche-opfer von der US-besatzung seit 1945...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:17:09.397Z",
+      "text" : "\"Chabad-Lubawitsch-Bewegung\" --- bingo..... tilman knechtel, traukeinempromi, metanoia magazin"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:18:38.671Z",
+      "text" : "haha verhaftet.... da hat einer das \"justiz\" system nicht verstanden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:23:49.943Z",
+      "text" : "https://milahu.github.io/alchi/src/whoaremyfriends/wersindmeinefreunde.html#radical-problems"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:24:15.704Z",
+      "text" : "doch, ich meine DAS paradies auf erden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:24:55.333Z",
+      "text" : "gedruckt 200 seiten A5"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:27:36.986Z",
+      "text" : "kalifat europa"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:27:52.567Z",
+      "text" : "linke werden vom hochhaus geworfen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:30:38.847Z",
+      "text" : "...unsere männer an die front schicken zum sterben"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:31:13.058Z",
+      "text" : "träne unters auge"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:32:21.523Z",
+      "text" : "freifunk = wlan mesh network = scheiss latenz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:35:48.991Z",
+      "text" : "ich als vater hab kein sorgerecht weil ich staatsfeind bin...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:36:01.633Z",
+      "text" : "offiziell \"schizophren\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:37:25.291Z",
+      "text" : "junge!! das war zu rääächts!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:38:16.498Z",
+      "text" : "demenz ist auch so eine zivilisationskrankheit.... spätfolge von nährstoffmangel.... lithium mangel und so"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:38:43.731Z",
+      "text" : "suizid mit 60, problem gelöst"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:41:49.866Z",
+      "text" : "göthe und schiller und nietzsche waren auch \"rechts\" im sinn von: aristokratisch, anti-demokratisch, \"die meisten leute sind idioten\", \"eine kleine elite sollte herrschen\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:43:56.472Z",
+      "text" : "meddlloide geht immer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:44:46.458Z",
+      "text" : "haha, sezession in bundesländer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:45:08.326Z",
+      "text" : "ostdeutschland bleibt deutsch, westdeutschland + frankreich + england werden zerfickt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:46:20.238Z",
+      "text" : "visegrad staaten bleiben VIELLEICHT stabil (polen, tschechien, ungarn, slovakei, ...)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:46:52.956Z",
+      "text" : "/votekick krah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:47:21.036Z",
+      "text" : "/votekick (alle cucks in der AFD)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:47:42.485Z",
+      "text" : "\"wir müssen stiefel lecken\" -- krah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:49:06.468Z",
+      "text" : "uhoh, offline treffen wird gebusted von cops"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:49:51.630Z",
+      "text" : "\"rechts\" im sinn von: aristokratisch, \"die meisten menschen sind idioten\", anti-demokratisch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:52:07.971Z",
+      "text" : "derdiedas weib"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:54:21.708Z",
+      "text" : "archive org"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:55:20.216Z",
+      "text" : "naja, wenn man zu langsam redet wird man vom publikum weggeklatscht"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:55:37.693Z",
+      "text" : "NICHTS <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:56:15.457Z",
+      "text" : "meddlloide"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:10:54.653Z",
+      "text" : "https://milahu.github.io/alchi/src/whoaremyfriends/wersindmeinefreunde.html#radical-problems"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:12:23.764Z",
+      "text" : "hirntot?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:14:32.577Z",
+      "text" : "\"zeigt reue\" -> freispruch!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:14:44.360Z",
+      "text" : "\"nicht erklären\" xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:15:54.270Z",
+      "text" : "hier hat es ein mal den richtigen getroffen: https://github.com/milahu/dominik-sobota-vs-rainer-gerth -- Am 8. April 2024 ersticht Dominik Sobota den Dr. Rainer Gerth in Wasserburg am Inn"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:18:23.212Z",
+      "text" : "familienclans, alte deutsche tradition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:18:56.639Z",
+      "text" : "müller, huber, hainz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:19:18.482Z",
+      "text" : "\"inzwischen\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:20:01.924Z",
+      "text" : "sind wir nicht alle in rockerbanden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:20:12.704Z",
+      "text" : "*passdeutsch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:21:06.965Z",
+      "text" : "haha, einfach das gegenteil behaupten und mit scheisse werfen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:22:31.087Z",
+      "text" : "die steigerung von kriminalität und todesrate ist ja ein hauptziel der migranten-invasion"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:22:50.342Z",
+      "text" : "keine twitter notification"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:23:19.175Z",
+      "text" : "shlomo shadowcucked auf twitter?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:24:22.560Z",
+      "text" : "7K im monat? will ich auch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:25:04.640Z",
+      "text" : "ich hab 100 imaginäre kinder, wo ist mein geld?!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:25:48.436Z",
+      "text" : "\"es ist kompliziert\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:26:08.117Z",
+      "text" : "aggressiv = nicht auf knien flehend"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:27:18.238Z",
+      "text" : "kassieren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:28:50.764Z",
+      "text" : "kriegst trotzdem auf die fresse wegen deinem aggressiven konti outfit"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:32:22.346Z",
+      "text" : "\"rinder sind böse\" -> genau das gegenteil ist die wahrheit, wie so oft -> carnivore diet: https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:39:12.522Z",
+      "text" : "\"polizeieinsatz wegen psychischer gesundheit\" -- dazu reicht wenn ein nachbar die bullen ruft mit \"ich fühle mich belästigt von dem\"...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:39:38.372Z",
+      "text" : "soll seine mumu zeigen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:33.530Z",
+      "text" : "\"dass gewalt eine lösung sei\" --- pfff gewalt ist eine lösung, das ganze system baut auf gewalt.... opfer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:40.681Z",
+      "text" : "*keine"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:43.581Z",
+      "text" : "*eine"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:41:35.154Z",
+      "text" : "\"reddit\".... alles klar... was für ein shithole >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:41:59.015Z",
+      "text" : "die meisten leute auf reddit sind so behindert..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:42:23.081Z",
+      "text" : "reddit verbieten, problem gelöst"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:43:50.162Z",
+      "text" : "reddit2 verbieten, reddit3 verbieten, ..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:44:21.568Z",
+      "text" : "\"libertär\" -- instant 10 IQ punkte verloren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:00.956Z",
+      "text" : "\"eine welt voller hass\" -- aww das klingt traumhaft"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:27.224Z",
+      "text" : "\"transkind\" -- auch wieder nur ein opfer von dummen/bösen kindern"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:32.341Z",
+      "text" : "low-dose DMT oh yeah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:57.032Z",
+      "text" : "\"komplett kaputter typ\" -- haha, selber keine erfahrung mit drogen, aber scheisse über drogen user reden? weak"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:47:22.818Z",
+      "text" : "\"putin ist schuld!\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:47:58.174Z",
+      "text" : "shlo muss dringend DMT rauchen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:48:43.169Z",
+      "text" : "feroz der eiserne"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:50:55.735Z",
+      "text" : "gyros, alte deutsche tradition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:07.560Z",
+      "text" : "der deutscheste pali der welt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:12.700Z",
+      "text" : "*paki"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:48.425Z",
+      "text" : "quoten brownie"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:53:14.540Z",
+      "text" : "yeah. welche anstaltung?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:54:26.941Z",
+      "text" : "they are noticing. SHUT IT DOWN!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:29.311Z",
+      "text" : "prozess gegen 40% von deutschland"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:42.359Z",
+      "text" : "gewalt ist herrlich, was sonst?!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:57.333Z",
+      "text" : "zeig logo"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:57:32.834Z",
+      "text" : "die AFD träumt nachts heimlich von \"ausländer raus\".... instant verbieten!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:59:10.256Z",
+      "text" : "sellner?! da kannst auch gleich adolf hitler einladen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:00:24.838Z",
+      "text" : "keiner redet so schön über \"remigration\" wie martin sellner .... blaa blaa blaaa blaaa blaaaaa... nur gelaber den ganzen tag, aber alles bleibt scheisse, und keiner versteht warum...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:04:22.707Z",
+      "text" : "eisbrecher:innen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:04:52.968Z",
+      "text" : "aussen:innen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:05:10.997Z",
+      "text" : "man hätte ihn dafür auslachen müssen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:06:30.515Z",
+      "text" : "...und am ende vom stück werden AFD politiker mit einer guillotine geköpft"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:07:29.959Z",
+      "text" : "\"die warze ist mein alleinstellungsmerkmal\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:07:39.463Z",
+      "text" : "\"sind sie ein cuck?\" -- \"jaa\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:08:18.851Z",
+      "text" : "\"totschlag ist eine angemessene gewaltform\" -- faschisten immer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:09:46.952Z",
+      "text" : "gefühlte 1% der migranten sind \"frauen und kinder\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:10:41.216Z",
+      "text" : "für kuchenwerfen kriegst du als rechter \"versuchter totschlag\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:11:24.825Z",
+      "text" : "lord sellnermort"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:12:38.823Z",
+      "text" : "verschwörung, alle gegen einen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:18:04.695Z",
+      "text" : "feroz ist so naiv.... die arbeiten ALLE zusammen, das ist eine große verschwörung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:18:52.879Z",
+      "text" : "\"Warum reden die über diese Veranstaltung\" --- ja, schon wieder so eine scheiss unrelevante scheisse......"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:20:22.592Z",
+      "text" : "\"Wen wollte man überzeugen? Man braucht sich nur das Publikum anzusehen: Alles verlorene Seelen\" -- yes. echokammer. mentaler inzest"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:22:23.161Z",
+      "text" : "\"Solchen Leuten muss man ihre Lebenslügen lassen und ihnen nicht noch den Ruhestand verderben.\" --- nein!! energieverschwendung. weg damit!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:22:48.511Z",
+      "text" : "richtig gecastet... alter weisser cuck"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:09.625Z",
+      "text" : "impfstatus 100000 impfungen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:29.138Z",
+      "text" : "lieblingssport auf der couch sitzen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:49.601Z",
+      "text" : "cuck kritik"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:03.356Z",
+      "text" : "\"traue keinem über 45\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:20.022Z",
+      "text" : "\"ich gelobe alle fotzen zu zerficken\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:52.928Z",
+      "text" : "feroz ist 25% deutscher"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:28:47.367Z",
+      "text" : "\"sie sind ein interessanter typ\" --- aussen braun und innen braun 0___o"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:22.053Z",
+      "text" : "\"ich kenne diese zahl nicht\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:41.785Z",
+      "text" : "YESS"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:57.193Z",
+      "text" : "\"das sagt viel über sie aus und nichts über mich\"!!!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:03.914Z",
+      "text" : "HUUUUREEEE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:13.582Z",
+      "text" : "HALT DIE FRESSE HUREE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:29.926Z",
+      "text" : "haha, ich wäre gegangen, scheiss kindergarten"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:44.066Z",
+      "text" : "\"ich bin hier raus, fickt euch alle\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:31:08.858Z",
+      "text" : "die arroganz ist so widerlich"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:31:35.784Z",
+      "text" : "sie provozieren 24/7 und wenn du ein falsches wort sagst dann bist du der böse"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:32:10.798Z",
+      "text" : "feroz hätte laut lachen sollen und einfach gehen..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:34:01.870Z",
+      "text" : "gegneranalyse.."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:01.277Z",
+      "text" : "pff, die wusste genau welche zahl das ist, die hat sich einfach extrem dumm gestellt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:41.430Z",
+      "text" : "die zahl kann man mit 20 sekunden google \"beweisen\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:50.637Z",
+      "text" : "haben die kein internet?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:36:41.986Z",
+      "text" : "linke sind unsportlich per definition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:37:26.587Z",
+      "text" : "vegan-cuck wtf?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:38:28.368Z",
+      "text" : "linke = unsportlich = verlogen = kriminell...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:26.679Z",
+      "text" : "feroz, einer gegen alle"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:41.788Z",
+      "text" : "mentaler inzest"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:50.800Z",
+      "text" : "gleichschaltung, lockstep"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:56.968Z",
+      "text" : "faschismus = keine oppositin"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:41:27.845Z",
+      "text" : "die frage \"kennen sie messerstecher\" sollte man ignorieren als scheiss-frage, und weiter zur nächsten frage"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:41:55.497Z",
+      "text" : "man muss nicht über jedes stöckchen springen, man muss sich nicht von jedem scheiss provozieren lassen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:42:03.758Z",
+      "text" : "GETÖTET HAT"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:42:56.622Z",
+      "text" : "WO SOLLEN DIE SONST HIN AUSSER NACH DEUTSCHLAND???"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:43:16.486Z",
+      "text" : "\"entschuldigung aber sie sind dumm\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:43:46.290Z",
+      "text" : "so fertig diese leute...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:01.435Z",
+      "text" : "\"ich ertrage deren hinterfotzigkeit nicht mehr\" +1"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:24.010Z",
+      "text" : "schon wieder sone scheiss frage, wtf"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:28.063Z",
+      "text" : "null relevanz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:59.291Z",
+      "text" : "\"was war das für eine Fragerunde\" -- prozess gegen deutschland"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:45:50.670Z",
+      "text" : "mönch frisur...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:47:49.241Z",
+      "text" : "wenn man auf der sachebene schon verloren hat, dann muss man persönlich werden.... ad-hominem angriffe, \"linke scheisse\", lügen, rhetorik...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:48:41.826Z",
+      "text" : "lineare fortsetung? eher exponentielle fortsetzung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:48:55.194Z",
+      "text" : "GAULAND IST MEIN FÜHRER"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:49:45.986Z",
+      "text" : "\"differenziert\" -- gute antwort"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:50:14.714Z",
+      "text" : "\"wie finden sie X\" ---- die frage ist zu ungenau"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:50:58.134Z",
+      "text" : "100%"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:37.000Z",
+      "text" : "mathematische notwendigkeit"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:44.315Z",
+      "text" : "\"sie sind paranoid\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:58.427Z",
+      "text" : "NICE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:52:08.482Z",
+      "text" : "\"dummes zeug\" rache"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:53:04.416Z",
+      "text" : "dieses verhör läuft ähnlich wie in der psychiatrie..... egal was du sagst, du bist immer \"verrückt\" und \"paranoid\" und \"dumm\"...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:53:30.937Z",
+      "text" : "psychiatrie / hexenprozess"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:54:30.562Z",
+      "text" : "wem will er keine bühne geben? dem feroz?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:55:22.997Z",
+      "text" : "hose runterziehen und einen kackhaufen auf der bühne hinterlassen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:56:03.971Z",
+      "text" : "\"So n Gericht hab ich schonmal in Idiocracy gesehen.\" ---- aaaah. auch idiocracy ist ein instruction manual"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:57:17.810Z",
+      "text" : "zensur ist eine faschistische methode"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:58:52.438Z",
+      "text" : "feroz unser schäbiger lump <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:59:14.717Z",
+      "text" : "neutral?! nur tote sind neutral, alles leben hat neigung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:00:02.875Z",
+      "text" : "feroz hätte parallel einen privaten livestream machen sollen und das event weiter kommentieren : D"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:03:04.368Z",
+      "text" : "das haben die trainiert, vorbereitet, geskriptet"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:03:46.641Z",
+      "text" : "scheiss kindergarten niveau.... die sind doch alle hirntot geimpft >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:05:55.076Z",
+      "text" : "feroz \"fakenews\" khan"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:06:36.406Z",
+      "text" : "blamiert..... die linken haben keine besseren leute : D"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:09.222Z",
+      "text" : "feroz wird nie wieder eingeladen von linken xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:20.558Z",
+      "text" : "feroz \"blacklisted\" khan"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:48.434Z",
+      "text" : "google -> afd youtuber -> feroz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:08:24.740Z",
+      "text" : "ziel der aktion? steuergeld kassieren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:09:25.857Z",
+      "text" : "nur wer scheisse baut muss \"nett\" sein.... extrem antimeddl"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:10:00.463Z",
+      "text" : "\"kloschüssel\" --- gesichert rechtsextremer kampfbegriff"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:11:00.081Z",
+      "text" : "\"Du Dieter ick frach mal meenen Neffen, der kennt solche Kanäle\" ---- der neffe ist heimlich rechter und wollte seine linke family ficken"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:12:12.978Z",
+      "text" : "der rechte neffe, das schwarze schaf der linken familie, wird bald zur adoption freigegeben"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:12:44.120Z",
+      "text" : "war livestream"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:14:14.213Z",
+      "text" : "chris ares - defend europe"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:14:57.777Z",
+      "text" : "https://www.youtube.com/watch?v=4ebzYtQ9MT8 ---- Chris Ares - Defend Europe"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:16:55.820Z",
+      "text" : "wir brauchen militärputsch und militärdiktatur, alles andere ist doomed to fail...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:17:24.363Z",
+      "text" : "radikale probleme -> radikale lösungen. und die militärdiktatur wird sowieso kommen (kalifat europa)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:18:38.481Z",
+      "text" : "feroz hätte das ALLES heimlich recorden sollen, audio und video"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:19:00.350Z",
+      "text" : "\"sie arschloch\" -- also er hat die diskussion verloren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:19:46.300Z",
+      "text" : "\"die hätten mich gelyncht... die hassen uns\"... oh ja! das wird alles nur noch schlimmer, noch weiter eskalieren...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:20:11.961Z",
+      "text" : "attentat auf stürzenberger...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:20:39.561Z",
+      "text" : "vermutlich ermordete AFD politiker vor lokalwahl...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:21:30.521Z",
+      "text" : "jörg haider -- nationalistischer politiker in österreich -- ermordet von der CIA (drive by wire car remote control)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:21:50.781Z",
+      "text" : "möllemann --- hat sich mit israel angelegt --- ermordet vom mossad..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:22:23.757Z",
+      "text" : "\"ist trotzdem fake news!!\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:22:55.009Z",
+      "text" : "\"benutzung des internets\" <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:24.737Z",
+      "text" : "\"ihr MESSERscharfer verstand\" xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:38.337Z",
+      "text" : "er hätte noch viel viel mehr das wort MESSER einbauen können xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:50.389Z",
+      "text" : "mit MESSERhaften grüßen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:25:47.684Z",
+      "text" : "100% rhetorik.... die scheissen auf harte fakten"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:26:08.735Z",
+      "text" : "schmelztiegelfamilie?? kalifat europa!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:27:26.237Z",
+      "text" : "pff AFD verbot..... die AFD ist controlled opposition, zu spät zu wenig.... altparteien hinterlassen verbrannte erde = crash, blackout"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:27:58.281Z",
+      "text" : "AFD verbot debatte ist auch wieder ne ablenkung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:28:47.101Z",
+      "text" : "ich würde paraguay wählen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:28:55.373Z",
+      "text" : "scheiss auf europa >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:31:48.802Z",
+      "text" : "\"wir sollten geduldig und vorsichtig vorgehen\" ---- bullshit, militärputsch oder untergang"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:32:42.531Z",
+      "text" : "paraguay hat zumindest noch keine migranten-invasion.... aber sicher besser als europa"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:34:12.472Z",
+      "text" : "Marco Rubio <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:34:55.073Z",
+      "text" : "deine \"heimat\" versinkt bald in blackout und bürgerkrieg, have fun"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:36:09.653Z",
+      "text" : "china ist ein mächtiger gegner..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:37:44.770Z",
+      "text" : "meddlferoz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:39:35.465Z",
+      "text" : "mir ist mein leben wichtiger..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:42:13.374Z",
+      "text" : "nein, mir ist mein leben wichtiger als \"meine heimat\"... die meisten deutschen finde ich eeh scheisse 0__o"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:46:32.174Z",
+      "text" : "\"Die Boomer sind hirnlose Verfügungsmasse unserer Gegner. Die sind leicht zu manipulieren, und es sind sehr viele mit sehr vielen Mitteln.\" --- ja, das meine ich mit \"die meisten deutschen finde ich eeh scheisse\".... 80% impfquote, wählen immer wieder altparteien, die meisten konsumieren alkohol und tabak.... nicht meine welt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:47:02.989Z",
+      "text" : "kurz: viel zu viele cukcs"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:48:47.542Z",
+      "text" : "quentin kommt auf \"regime seine todesliste\" in meinem buch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:56:52.391Z",
+      "text" : "\"Honig ist angeblich nicht nenenswert gesünger als raffinierter Zucker\" ---- bin grad aufm carnivore diet trip -> https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:59:11.857Z",
+      "text" : "\"der nimmt steroide\" --- SamaHoole? glaub ich nicht... aber ich kenn den nicht persönlich"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:59:28.485Z",
+      "text" : "komplettgeisteskrankesevent"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:00:12.629Z",
+      "text" : "\"sie sind ein interessanter typ\" ...... weil er ein brauner nazi ist?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:01:53.751Z",
+      "text" : "\"wahrscheinlich steroide\" --- bullshit, lies einfach seine posts.... alles natur bei dem typ  https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:02:55.191Z",
+      "text" : "null ist genug"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:03:25.532Z",
+      "text" : "\"... immer dreister zu lügen\" ohja"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:04:06.164Z",
+      "text" : "stellst du immer so behinderte fragen?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:05:15.674Z",
+      "text" : "einbürgerungstest jedes jahr wiederholen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:05:27.920Z",
+      "text" : "...und nur linke werden eingebürgert"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:06:52.001Z",
+      "text" : "\"face ID\" ist das ende der anonymität im internet.... das mit dem alterscheck ist nur der fuß in der tür (trojanisches pferd)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:07:42.883Z",
+      "text" : "... VPN wird verboten, Tor wird verboten, I2P wird verboten.... zu viele \"fake news\" (wahrheiten) im internet"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:09:23.630Z",
+      "text" : "jesus christus wählt CDU, lässt sich totficken von niggern, und hält noch sein anderes loch hin....."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:11:44.174Z",
+      "text" : "auktion von 12jährigen, wer kennt es nicht?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:12:03.953Z",
+      "text" : "\"zustand: gebraucht aber neuwertig\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:13:04.754Z",
+      "text" : "böhse onkelz ens <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:15:48.196Z",
+      "text" : "westalgiker sind gehirnwäsche-opfer von der US-besatzung seit 1945...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:17:09.397Z",
+      "text" : "\"Chabad-Lubawitsch-Bewegung\" --- bingo..... tilman knechtel, traukeinempromi, metanoia magazin"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:18:38.671Z",
+      "text" : "haha verhaftet.... da hat einer das \"justiz\" system nicht verstanden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:23:49.943Z",
+      "text" : "https://milahu.github.io/alchi/src/whoaremyfriends/wersindmeinefreunde.html#radical-problems"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:24:15.704Z",
+      "text" : "doch, ich meine DAS paradies auf erden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:24:55.333Z",
+      "text" : "gedruckt 200 seiten A5"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:27:36.986Z",
+      "text" : "kalifat europa"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:27:52.567Z",
+      "text" : "linke werden vom hochhaus geworfen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:30:38.847Z",
+      "text" : "...unsere männer an die front schicken zum sterben"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:31:13.058Z",
+      "text" : "träne unters auge"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:32:21.523Z",
+      "text" : "freifunk = wlan mesh network = scheiss latenz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:35:48.991Z",
+      "text" : "ich als vater hab kein sorgerecht weil ich staatsfeind bin...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:36:01.633Z",
+      "text" : "offiziell \"schizophren\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:37:25.291Z",
+      "text" : "junge!! das war zu rääächts!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:38:16.498Z",
+      "text" : "demenz ist auch so eine zivilisationskrankheit.... spätfolge von nährstoffmangel.... lithium mangel und so"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:38:43.731Z",
+      "text" : "suizid mit 60, problem gelöst"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:41:49.866Z",
+      "text" : "göthe und schiller und nietzsche waren auch \"rechts\" im sinn von: aristokratisch, anti-demokratisch, \"die meisten leute sind idioten\", \"eine kleine elite sollte herrschen\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:43:56.472Z",
+      "text" : "meddlloide geht immer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:44:46.458Z",
+      "text" : "haha, sezession in bundesländer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:45:08.326Z",
+      "text" : "ostdeutschland bleibt deutsch, westdeutschland + frankreich + england werden zerfickt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:46:20.238Z",
+      "text" : "visegrad staaten bleiben VIELLEICHT stabil (polen, tschechien, ungarn, slovakei, ...)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:46:52.956Z",
+      "text" : "/votekick krah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:47:21.036Z",
+      "text" : "/votekick (alle cucks in der AFD)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:47:42.485Z",
+      "text" : "\"wir müssen stiefel lecken\" -- krah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:49:06.468Z",
+      "text" : "uhoh, offline treffen wird gebusted von cops"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:49:51.630Z",
+      "text" : "\"rechts\" im sinn von: aristokratisch, \"die meisten menschen sind idioten\", anti-demokratisch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:52:07.971Z",
+      "text" : "derdiedas weib"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:54:21.708Z",
+      "text" : "archive org"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:55:20.216Z",
+      "text" : "naja, wenn man zu langsam redet wird man vom publikum weggeklatscht"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:55:37.693Z",
+      "text" : "NICHTS <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:56:15.457Z",
+      "text" : "meddlloide"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:10:54.653Z",
+      "text" : "https://milahu.github.io/alchi/src/whoaremyfriends/wersindmeinefreunde.html#radical-problems"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:12:23.764Z",
+      "text" : "hirntot?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:14:32.577Z",
+      "text" : "\"zeigt reue\" -> freispruch!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:14:44.360Z",
+      "text" : "\"nicht erklären\" xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:15:54.270Z",
+      "text" : "hier hat es ein mal den richtigen getroffen: https://github.com/milahu/dominik-sobota-vs-rainer-gerth -- Am 8. April 2024 ersticht Dominik Sobota den Dr. Rainer Gerth in Wasserburg am Inn"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:18:23.212Z",
+      "text" : "familienclans, alte deutsche tradition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:18:56.639Z",
+      "text" : "müller, huber, hainz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:19:18.482Z",
+      "text" : "\"inzwischen\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:20:01.924Z",
+      "text" : "sind wir nicht alle in rockerbanden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:20:12.704Z",
+      "text" : "*passdeutsch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:21:06.965Z",
+      "text" : "haha, einfach das gegenteil behaupten und mit scheisse werfen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:22:31.087Z",
+      "text" : "die steigerung von kriminalität und todesrate ist ja ein hauptziel der migranten-invasion"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:22:50.342Z",
+      "text" : "keine twitter notification"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:23:19.175Z",
+      "text" : "shlomo shadowcucked auf twitter?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:24:22.560Z",
+      "text" : "7K im monat? will ich auch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:25:04.640Z",
+      "text" : "ich hab 100 imaginäre kinder, wo ist mein geld?!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:25:48.436Z",
+      "text" : "\"es ist kompliziert\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:26:08.117Z",
+      "text" : "aggressiv = nicht auf knien flehend"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:27:18.238Z",
+      "text" : "kassieren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:28:50.764Z",
+      "text" : "kriegst trotzdem auf die fresse wegen deinem aggressiven konti outfit"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:32:22.346Z",
+      "text" : "\"rinder sind böse\" -> genau das gegenteil ist die wahrheit, wie so oft -> carnivore diet: https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:39:12.522Z",
+      "text" : "\"polizeieinsatz wegen psychischer gesundheit\" -- dazu reicht wenn ein nachbar die bullen ruft mit \"ich fühle mich belästigt von dem\"...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:39:38.372Z",
+      "text" : "soll seine mumu zeigen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:33.530Z",
+      "text" : "\"dass gewalt eine lösung sei\" --- pfff gewalt ist eine lösung, das ganze system baut auf gewalt.... opfer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:40.681Z",
+      "text" : "*keine"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:43.581Z",
+      "text" : "*eine"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:41:35.154Z",
+      "text" : "\"reddit\".... alles klar... was für ein shithole >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:41:59.015Z",
+      "text" : "die meisten leute auf reddit sind so behindert..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:42:23.081Z",
+      "text" : "reddit verbieten, problem gelöst"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:43:50.162Z",
+      "text" : "reddit2 verbieten, reddit3 verbieten, ..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:44:21.568Z",
+      "text" : "\"libertär\" -- instant 10 IQ punkte verloren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:00.956Z",
+      "text" : "\"eine welt voller hass\" -- aww das klingt traumhaft"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:27.224Z",
+      "text" : "\"transkind\" -- auch wieder nur ein opfer von dummen/bösen kindern"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:32.341Z",
+      "text" : "low-dose DMT oh yeah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:57.032Z",
+      "text" : "\"komplett kaputter typ\" -- haha, selber keine erfahrung mit drogen, aber scheisse über drogen user reden? weak"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:47:22.818Z",
+      "text" : "\"putin ist schuld!\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:47:58.174Z",
+      "text" : "shlo muss dringend DMT rauchen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:48:43.169Z",
+      "text" : "feroz der eiserne"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:50:55.735Z",
+      "text" : "gyros, alte deutsche tradition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:07.560Z",
+      "text" : "der deutscheste pali der welt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:12.700Z",
+      "text" : "*paki"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:48.425Z",
+      "text" : "quoten brownie"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:53:14.540Z",
+      "text" : "yeah. welche anstaltung?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:54:26.941Z",
+      "text" : "they are noticing. SHUT IT DOWN!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:29.311Z",
+      "text" : "prozess gegen 40% von deutschland"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:42.359Z",
+      "text" : "gewalt ist herrlich, was sonst?!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:57.333Z",
+      "text" : "zeig logo"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:57:32.834Z",
+      "text" : "die AFD träumt nachts heimlich von \"ausländer raus\".... instant verbieten!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:59:10.256Z",
+      "text" : "sellner?! da kannst auch gleich adolf hitler einladen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:00:24.838Z",
+      "text" : "keiner redet so schön über \"remigration\" wie martin sellner .... blaa blaa blaaa blaaa blaaaaa... nur gelaber den ganzen tag, aber alles bleibt scheisse, und keiner versteht warum...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:04:22.707Z",
+      "text" : "eisbrecher:innen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:04:52.968Z",
+      "text" : "aussen:innen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:05:10.997Z",
+      "text" : "man hätte ihn dafür auslachen müssen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:06:30.515Z",
+      "text" : "...und am ende vom stück werden AFD politiker mit einer guillotine geköpft"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:07:29.959Z",
+      "text" : "\"die warze ist mein alleinstellungsmerkmal\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:07:39.463Z",
+      "text" : "\"sind sie ein cuck?\" -- \"jaa\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:08:18.851Z",
+      "text" : "\"totschlag ist eine angemessene gewaltform\" -- faschisten immer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:09:46.952Z",
+      "text" : "gefühlte 1% der migranten sind \"frauen und kinder\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:10:41.216Z",
+      "text" : "für kuchenwerfen kriegst du als rechter \"versuchter totschlag\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:11:24.825Z",
+      "text" : "lord sellnermort"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:12:38.823Z",
+      "text" : "verschwörung, alle gegen einen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:18:04.695Z",
+      "text" : "feroz ist so naiv.... die arbeiten ALLE zusammen, das ist eine große verschwörung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:18:52.879Z",
+      "text" : "\"Warum reden die über diese Veranstaltung\" --- ja, schon wieder so eine scheiss unrelevante scheisse......"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:20:22.592Z",
+      "text" : "\"Wen wollte man überzeugen? Man braucht sich nur das Publikum anzusehen: Alles verlorene Seelen\" -- yes. echokammer. mentaler inzest"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:22:23.161Z",
+      "text" : "\"Solchen Leuten muss man ihre Lebenslügen lassen und ihnen nicht noch den Ruhestand verderben.\" --- nein!! energieverschwendung. weg damit!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:22:48.511Z",
+      "text" : "richtig gecastet... alter weisser cuck"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:09.625Z",
+      "text" : "impfstatus 100000 impfungen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:29.138Z",
+      "text" : "lieblingssport auf der couch sitzen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:49.601Z",
+      "text" : "cuck kritik"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:03.356Z",
+      "text" : "\"traue keinem über 45\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:20.022Z",
+      "text" : "\"ich gelobe alle fotzen zu zerficken\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:52.928Z",
+      "text" : "feroz ist 25% deutscher"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:28:47.367Z",
+      "text" : "\"sie sind ein interessanter typ\" --- aussen braun und innen braun 0___o"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:22.053Z",
+      "text" : "\"ich kenne diese zahl nicht\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:41.785Z",
+      "text" : "YESS"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:57.193Z",
+      "text" : "\"das sagt viel über sie aus und nichts über mich\"!!!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:03.914Z",
+      "text" : "HUUUUREEEE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:13.582Z",
+      "text" : "HALT DIE FRESSE HUREE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:29.926Z",
+      "text" : "haha, ich wäre gegangen, scheiss kindergarten"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:44.066Z",
+      "text" : "\"ich bin hier raus, fickt euch alle\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:31:08.858Z",
+      "text" : "die arroganz ist so widerlich"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:31:35.784Z",
+      "text" : "sie provozieren 24/7 und wenn du ein falsches wort sagst dann bist du der böse"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:32:10.798Z",
+      "text" : "feroz hätte laut lachen sollen und einfach gehen..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:34:01.870Z",
+      "text" : "gegneranalyse.."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:01.277Z",
+      "text" : "pff, die wusste genau welche zahl das ist, die hat sich einfach extrem dumm gestellt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:41.430Z",
+      "text" : "die zahl kann man mit 20 sekunden google \"beweisen\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:50.637Z",
+      "text" : "haben die kein internet?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:36:41.986Z",
+      "text" : "linke sind unsportlich per definition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:37:26.587Z",
+      "text" : "vegan-cuck wtf?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:38:28.368Z",
+      "text" : "linke = unsportlich = verlogen = kriminell...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:26.679Z",
+      "text" : "feroz, einer gegen alle"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:41.788Z",
+      "text" : "mentaler inzest"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:50.800Z",
+      "text" : "gleichschaltung, lockstep"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:56.968Z",
+      "text" : "faschismus = keine oppositin"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:41:27.845Z",
+      "text" : "die frage \"kennen sie messerstecher\" sollte man ignorieren als scheiss-frage, und weiter zur nächsten frage"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:41:55.497Z",
+      "text" : "man muss nicht über jedes stöckchen springen, man muss sich nicht von jedem scheiss provozieren lassen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:42:03.758Z",
+      "text" : "GETÖTET HAT"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:42:56.622Z",
+      "text" : "WO SOLLEN DIE SONST HIN AUSSER NACH DEUTSCHLAND???"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:43:16.486Z",
+      "text" : "\"entschuldigung aber sie sind dumm\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:43:46.290Z",
+      "text" : "so fertig diese leute...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:01.435Z",
+      "text" : "\"ich ertrage deren hinterfotzigkeit nicht mehr\" +1"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:24.010Z",
+      "text" : "schon wieder sone scheiss frage, wtf"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:28.063Z",
+      "text" : "null relevanz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:59.291Z",
+      "text" : "\"was war das für eine Fragerunde\" -- prozess gegen deutschland"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:45:50.670Z",
+      "text" : "mönch frisur...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:47:49.241Z",
+      "text" : "wenn man auf der sachebene schon verloren hat, dann muss man persönlich werden.... ad-hominem angriffe, \"linke scheisse\", lügen, rhetorik...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:48:41.826Z",
+      "text" : "lineare fortsetung? eher exponentielle fortsetzung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:48:55.194Z",
+      "text" : "GAULAND IST MEIN FÜHRER"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:49:45.986Z",
+      "text" : "\"differenziert\" -- gute antwort"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:50:14.714Z",
+      "text" : "\"wie finden sie X\" ---- die frage ist zu ungenau"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:50:58.134Z",
+      "text" : "100%"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:37.000Z",
+      "text" : "mathematische notwendigkeit"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:44.315Z",
+      "text" : "\"sie sind paranoid\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:58.427Z",
+      "text" : "NICE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:52:08.482Z",
+      "text" : "\"dummes zeug\" rache"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:53:04.416Z",
+      "text" : "dieses verhör läuft ähnlich wie in der psychiatrie..... egal was du sagst, du bist immer \"verrückt\" und \"paranoid\" und \"dumm\"...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:53:30.937Z",
+      "text" : "psychiatrie / hexenprozess"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:54:30.562Z",
+      "text" : "wem will er keine bühne geben? dem feroz?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:55:22.997Z",
+      "text" : "hose runterziehen und einen kackhaufen auf der bühne hinterlassen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:56:03.971Z",
+      "text" : "\"So n Gericht hab ich schonmal in Idiocracy gesehen.\" ---- aaaah. auch idiocracy ist ein instruction manual"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:57:17.810Z",
+      "text" : "zensur ist eine faschistische methode"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:58:52.438Z",
+      "text" : "feroz unser schäbiger lump <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:59:14.717Z",
+      "text" : "neutral?! nur tote sind neutral, alles leben hat neigung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:00:02.875Z",
+      "text" : "feroz hätte parallel einen privaten livestream machen sollen und das event weiter kommentieren : D"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:03:04.368Z",
+      "text" : "das haben die trainiert, vorbereitet, geskriptet"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:03:46.641Z",
+      "text" : "scheiss kindergarten niveau.... die sind doch alle hirntot geimpft >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:05:55.076Z",
+      "text" : "feroz \"fakenews\" khan"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:06:36.406Z",
+      "text" : "blamiert..... die linken haben keine besseren leute : D"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:09.222Z",
+      "text" : "feroz wird nie wieder eingeladen von linken xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:20.558Z",
+      "text" : "feroz \"blacklisted\" khan"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:48.434Z",
+      "text" : "google -> afd youtuber -> feroz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:08:24.740Z",
+      "text" : "ziel der aktion? steuergeld kassieren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:09:25.857Z",
+      "text" : "nur wer scheisse baut muss \"nett\" sein.... extrem antimeddl"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:10:00.463Z",
+      "text" : "\"kloschüssel\" --- gesichert rechtsextremer kampfbegriff"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:11:00.081Z",
+      "text" : "\"Du Dieter ick frach mal meenen Neffen, der kennt solche Kanäle\" ---- der neffe ist heimlich rechter und wollte seine linke family ficken"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:12:12.978Z",
+      "text" : "der rechte neffe, das schwarze schaf der linken familie, wird bald zur adoption freigegeben"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:12:44.120Z",
+      "text" : "war livestream"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:14:14.213Z",
+      "text" : "chris ares - defend europe"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:14:57.777Z",
+      "text" : "https://www.youtube.com/watch?v=4ebzYtQ9MT8 ---- Chris Ares - Defend Europe"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:16:55.820Z",
+      "text" : "wir brauchen militärputsch und militärdiktatur, alles andere ist doomed to fail...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:17:24.363Z",
+      "text" : "radikale probleme -> radikale lösungen. und die militärdiktatur wird sowieso kommen (kalifat europa)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:18:38.481Z",
+      "text" : "feroz hätte das ALLES heimlich recorden sollen, audio und video"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:19:00.350Z",
+      "text" : "\"sie arschloch\" -- also er hat die diskussion verloren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:19:46.300Z",
+      "text" : "\"die hätten mich gelyncht... die hassen uns\"... oh ja! das wird alles nur noch schlimmer, noch weiter eskalieren...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:20:11.961Z",
+      "text" : "attentat auf stürzenberger...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:20:39.561Z",
+      "text" : "vermutlich ermordete AFD politiker vor lokalwahl...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:21:30.521Z",
+      "text" : "jörg haider -- nationalistischer politiker in österreich -- ermordet von der CIA (drive by wire car remote control)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:21:50.781Z",
+      "text" : "möllemann --- hat sich mit israel angelegt --- ermordet vom mossad..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:22:23.757Z",
+      "text" : "\"ist trotzdem fake news!!\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:22:55.009Z",
+      "text" : "\"benutzung des internets\" <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:24.737Z",
+      "text" : "\"ihr MESSERscharfer verstand\" xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:38.337Z",
+      "text" : "er hätte noch viel viel mehr das wort MESSER einbauen können xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:50.389Z",
+      "text" : "mit MESSERhaften grüßen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:25:47.684Z",
+      "text" : "100% rhetorik.... die scheissen auf harte fakten"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:26:08.735Z",
+      "text" : "schmelztiegelfamilie?? kalifat europa!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:27:26.237Z",
+      "text" : "pff AFD verbot..... die AFD ist controlled opposition, zu spät zu wenig.... altparteien hinterlassen verbrannte erde = crash, blackout"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:27:58.281Z",
+      "text" : "AFD verbot debatte ist auch wieder ne ablenkung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:28:47.101Z",
+      "text" : "ich würde paraguay wählen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:28:55.373Z",
+      "text" : "scheiss auf europa >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:31:48.802Z",
+      "text" : "\"wir sollten geduldig und vorsichtig vorgehen\" ---- bullshit, militärputsch oder untergang"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:32:42.531Z",
+      "text" : "paraguay hat zumindest noch keine migranten-invasion.... aber sicher besser als europa"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:34:12.472Z",
+      "text" : "Marco Rubio <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:34:55.073Z",
+      "text" : "deine \"heimat\" versinkt bald in blackout und bürgerkrieg, have fun"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:36:09.653Z",
+      "text" : "china ist ein mächtiger gegner..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:37:44.770Z",
+      "text" : "meddlferoz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:39:35.465Z",
+      "text" : "mir ist mein leben wichtiger..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:42:13.374Z",
+      "text" : "nein, mir ist mein leben wichtiger als \"meine heimat\"... die meisten deutschen finde ich eeh scheisse 0__o"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:46:32.174Z",
+      "text" : "\"Die Boomer sind hirnlose Verfügungsmasse unserer Gegner. Die sind leicht zu manipulieren, und es sind sehr viele mit sehr vielen Mitteln.\" --- ja, das meine ich mit \"die meisten deutschen finde ich eeh scheisse\".... 80% impfquote, wählen immer wieder altparteien, die meisten konsumieren alkohol und tabak.... nicht meine welt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:47:02.989Z",
+      "text" : "kurz: viel zu viele cukcs"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:48:47.542Z",
+      "text" : "quentin kommt auf \"regime seine todesliste\" in meinem buch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:56:52.391Z",
+      "text" : "\"Honig ist angeblich nicht nenenswert gesünger als raffinierter Zucker\" ---- bin grad aufm carnivore diet trip -> https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:59:11.857Z",
+      "text" : "\"der nimmt steroide\" --- SamaHoole? glaub ich nicht... aber ich kenn den nicht persönlich"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:59:28.485Z",
+      "text" : "komplettgeisteskrankesevent"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:00:12.629Z",
+      "text" : "\"sie sind ein interessanter typ\" ...... weil er ein brauner nazi ist?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:01:53.751Z",
+      "text" : "\"wahrscheinlich steroide\" --- bullshit, lies einfach seine posts.... alles natur bei dem typ  https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:02:55.191Z",
+      "text" : "null ist genug"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:03:25.532Z",
+      "text" : "\"... immer dreister zu lügen\" ohja"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:04:06.164Z",
+      "text" : "stellst du immer so behinderte fragen?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:05:15.674Z",
+      "text" : "einbürgerungstest jedes jahr wiederholen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:05:27.920Z",
+      "text" : "...und nur linke werden eingebürgert"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:06:52.001Z",
+      "text" : "\"face ID\" ist das ende der anonymität im internet.... das mit dem alterscheck ist nur der fuß in der tür (trojanisches pferd)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:07:42.883Z",
+      "text" : "... VPN wird verboten, Tor wird verboten, I2P wird verboten.... zu viele \"fake news\" (wahrheiten) im internet"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:09:23.630Z",
+      "text" : "jesus christus wählt CDU, lässt sich totficken von niggern, und hält noch sein anderes loch hin....."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:11:44.174Z",
+      "text" : "auktion von 12jährigen, wer kennt es nicht?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:12:03.953Z",
+      "text" : "\"zustand: gebraucht aber neuwertig\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:13:04.754Z",
+      "text" : "böhse onkelz ens <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:15:48.196Z",
+      "text" : "westalgiker sind gehirnwäsche-opfer von der US-besatzung seit 1945...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:17:09.397Z",
+      "text" : "\"Chabad-Lubawitsch-Bewegung\" --- bingo..... tilman knechtel, traukeinempromi, metanoia magazin"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:18:38.671Z",
+      "text" : "haha verhaftet.... da hat einer das \"justiz\" system nicht verstanden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:23:49.943Z",
+      "text" : "https://milahu.github.io/alchi/src/whoaremyfriends/wersindmeinefreunde.html#radical-problems"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:24:15.704Z",
+      "text" : "doch, ich meine DAS paradies auf erden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:24:55.333Z",
+      "text" : "gedruckt 200 seiten A5"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:27:36.986Z",
+      "text" : "kalifat europa"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:27:52.567Z",
+      "text" : "linke werden vom hochhaus geworfen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:30:38.847Z",
+      "text" : "...unsere männer an die front schicken zum sterben"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:31:13.058Z",
+      "text" : "träne unters auge"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:32:21.523Z",
+      "text" : "freifunk = wlan mesh network = scheiss latenz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:35:48.991Z",
+      "text" : "ich als vater hab kein sorgerecht weil ich staatsfeind bin...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:36:01.633Z",
+      "text" : "offiziell \"schizophren\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:37:25.291Z",
+      "text" : "junge!! das war zu rääächts!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:38:16.498Z",
+      "text" : "demenz ist auch so eine zivilisationskrankheit.... spätfolge von nährstoffmangel.... lithium mangel und so"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:38:43.731Z",
+      "text" : "suizid mit 60, problem gelöst"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:41:49.866Z",
+      "text" : "göthe und schiller und nietzsche waren auch \"rechts\" im sinn von: aristokratisch, anti-demokratisch, \"die meisten leute sind idioten\", \"eine kleine elite sollte herrschen\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:43:56.472Z",
+      "text" : "meddlloide geht immer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:44:46.458Z",
+      "text" : "haha, sezession in bundesländer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:45:08.326Z",
+      "text" : "ostdeutschland bleibt deutsch, westdeutschland + frankreich + england werden zerfickt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:46:20.238Z",
+      "text" : "visegrad staaten bleiben VIELLEICHT stabil (polen, tschechien, ungarn, slovakei, ...)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:46:52.956Z",
+      "text" : "/votekick krah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:47:21.036Z",
+      "text" : "/votekick (alle cucks in der AFD)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:47:42.485Z",
+      "text" : "\"wir müssen stiefel lecken\" -- krah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:49:06.468Z",
+      "text" : "uhoh, offline treffen wird gebusted von cops"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:49:51.630Z",
+      "text" : "\"rechts\" im sinn von: aristokratisch, \"die meisten menschen sind idioten\", anti-demokratisch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:52:07.971Z",
+      "text" : "derdiedas weib"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:54:21.708Z",
+      "text" : "archive org"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:55:20.216Z",
+      "text" : "naja, wenn man zu langsam redet wird man vom publikum weggeklatscht"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:55:37.693Z",
+      "text" : "NICHTS <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:56:15.457Z",
+      "text" : "meddlloide"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:10:54.653Z",
+      "text" : "https://milahu.github.io/alchi/src/whoaremyfriends/wersindmeinefreunde.html#radical-problems"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:12:23.764Z",
+      "text" : "hirntot?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:14:32.577Z",
+      "text" : "\"zeigt reue\" -> freispruch!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:14:44.360Z",
+      "text" : "\"nicht erklären\" xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:15:54.270Z",
+      "text" : "hier hat es ein mal den richtigen getroffen: https://github.com/milahu/dominik-sobota-vs-rainer-gerth -- Am 8. April 2024 ersticht Dominik Sobota den Dr. Rainer Gerth in Wasserburg am Inn"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:18:23.212Z",
+      "text" : "familienclans, alte deutsche tradition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:18:56.639Z",
+      "text" : "müller, huber, hainz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:19:18.482Z",
+      "text" : "\"inzwischen\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:20:01.924Z",
+      "text" : "sind wir nicht alle in rockerbanden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:20:12.704Z",
+      "text" : "*passdeutsch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:21:06.965Z",
+      "text" : "haha, einfach das gegenteil behaupten und mit scheisse werfen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:22:31.087Z",
+      "text" : "die steigerung von kriminalität und todesrate ist ja ein hauptziel der migranten-invasion"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:22:50.342Z",
+      "text" : "keine twitter notification"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:23:19.175Z",
+      "text" : "shlomo shadowcucked auf twitter?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:24:22.560Z",
+      "text" : "7K im monat? will ich auch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:25:04.640Z",
+      "text" : "ich hab 100 imaginäre kinder, wo ist mein geld?!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:25:48.436Z",
+      "text" : "\"es ist kompliziert\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:26:08.117Z",
+      "text" : "aggressiv = nicht auf knien flehend"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:27:18.238Z",
+      "text" : "kassieren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:28:50.764Z",
+      "text" : "kriegst trotzdem auf die fresse wegen deinem aggressiven konti outfit"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:32:22.346Z",
+      "text" : "\"rinder sind böse\" -> genau das gegenteil ist die wahrheit, wie so oft -> carnivore diet: https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:39:12.522Z",
+      "text" : "\"polizeieinsatz wegen psychischer gesundheit\" -- dazu reicht wenn ein nachbar die bullen ruft mit \"ich fühle mich belästigt von dem\"...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:39:38.372Z",
+      "text" : "soll seine mumu zeigen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:33.530Z",
+      "text" : "\"dass gewalt eine lösung sei\" --- pfff gewalt ist eine lösung, das ganze system baut auf gewalt.... opfer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:40.681Z",
+      "text" : "*keine"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:43.581Z",
+      "text" : "*eine"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:41:35.154Z",
+      "text" : "\"reddit\".... alles klar... was für ein shithole >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:41:59.015Z",
+      "text" : "die meisten leute auf reddit sind so behindert..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:42:23.081Z",
+      "text" : "reddit verbieten, problem gelöst"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:43:50.162Z",
+      "text" : "reddit2 verbieten, reddit3 verbieten, ..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:44:21.568Z",
+      "text" : "\"libertär\" -- instant 10 IQ punkte verloren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:00.956Z",
+      "text" : "\"eine welt voller hass\" -- aww das klingt traumhaft"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:27.224Z",
+      "text" : "\"transkind\" -- auch wieder nur ein opfer von dummen/bösen kindern"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:32.341Z",
+      "text" : "low-dose DMT oh yeah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:57.032Z",
+      "text" : "\"komplett kaputter typ\" -- haha, selber keine erfahrung mit drogen, aber scheisse über drogen user reden? weak"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:47:22.818Z",
+      "text" : "\"putin ist schuld!\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:47:58.174Z",
+      "text" : "shlo muss dringend DMT rauchen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:48:43.169Z",
+      "text" : "feroz der eiserne"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:50:55.735Z",
+      "text" : "gyros, alte deutsche tradition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:07.560Z",
+      "text" : "der deutscheste pali der welt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:12.700Z",
+      "text" : "*paki"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:48.425Z",
+      "text" : "quoten brownie"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:53:14.540Z",
+      "text" : "yeah. welche anstaltung?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:54:26.941Z",
+      "text" : "they are noticing. SHUT IT DOWN!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:29.311Z",
+      "text" : "prozess gegen 40% von deutschland"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:42.359Z",
+      "text" : "gewalt ist herrlich, was sonst?!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:57.333Z",
+      "text" : "zeig logo"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:57:32.834Z",
+      "text" : "die AFD träumt nachts heimlich von \"ausländer raus\".... instant verbieten!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:59:10.256Z",
+      "text" : "sellner?! da kannst auch gleich adolf hitler einladen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:00:24.838Z",
+      "text" : "keiner redet so schön über \"remigration\" wie martin sellner .... blaa blaa blaaa blaaa blaaaaa... nur gelaber den ganzen tag, aber alles bleibt scheisse, und keiner versteht warum...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:04:22.707Z",
+      "text" : "eisbrecher:innen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:04:52.968Z",
+      "text" : "aussen:innen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:05:10.997Z",
+      "text" : "man hätte ihn dafür auslachen müssen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:06:30.515Z",
+      "text" : "...und am ende vom stück werden AFD politiker mit einer guillotine geköpft"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:07:29.959Z",
+      "text" : "\"die warze ist mein alleinstellungsmerkmal\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:07:39.463Z",
+      "text" : "\"sind sie ein cuck?\" -- \"jaa\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:08:18.851Z",
+      "text" : "\"totschlag ist eine angemessene gewaltform\" -- faschisten immer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:09:46.952Z",
+      "text" : "gefühlte 1% der migranten sind \"frauen und kinder\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:10:41.216Z",
+      "text" : "für kuchenwerfen kriegst du als rechter \"versuchter totschlag\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:11:24.825Z",
+      "text" : "lord sellnermort"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:12:38.823Z",
+      "text" : "verschwörung, alle gegen einen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:18:04.695Z",
+      "text" : "feroz ist so naiv.... die arbeiten ALLE zusammen, das ist eine große verschwörung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:18:52.879Z",
+      "text" : "\"Warum reden die über diese Veranstaltung\" --- ja, schon wieder so eine scheiss unrelevante scheisse......"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:20:22.592Z",
+      "text" : "\"Wen wollte man überzeugen? Man braucht sich nur das Publikum anzusehen: Alles verlorene Seelen\" -- yes. echokammer. mentaler inzest"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:22:23.161Z",
+      "text" : "\"Solchen Leuten muss man ihre Lebenslügen lassen und ihnen nicht noch den Ruhestand verderben.\" --- nein!! energieverschwendung. weg damit!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:22:48.511Z",
+      "text" : "richtig gecastet... alter weisser cuck"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:09.625Z",
+      "text" : "impfstatus 100000 impfungen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:29.138Z",
+      "text" : "lieblingssport auf der couch sitzen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:49.601Z",
+      "text" : "cuck kritik"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:03.356Z",
+      "text" : "\"traue keinem über 45\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:20.022Z",
+      "text" : "\"ich gelobe alle fotzen zu zerficken\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:52.928Z",
+      "text" : "feroz ist 25% deutscher"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:28:47.367Z",
+      "text" : "\"sie sind ein interessanter typ\" --- aussen braun und innen braun 0___o"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:22.053Z",
+      "text" : "\"ich kenne diese zahl nicht\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:41.785Z",
+      "text" : "YESS"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:57.193Z",
+      "text" : "\"das sagt viel über sie aus und nichts über mich\"!!!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:03.914Z",
+      "text" : "HUUUUREEEE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:13.582Z",
+      "text" : "HALT DIE FRESSE HUREE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:29.926Z",
+      "text" : "haha, ich wäre gegangen, scheiss kindergarten"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:44.066Z",
+      "text" : "\"ich bin hier raus, fickt euch alle\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:31:08.858Z",
+      "text" : "die arroganz ist so widerlich"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:31:35.784Z",
+      "text" : "sie provozieren 24/7 und wenn du ein falsches wort sagst dann bist du der böse"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:32:10.798Z",
+      "text" : "feroz hätte laut lachen sollen und einfach gehen..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:34:01.870Z",
+      "text" : "gegneranalyse.."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:01.277Z",
+      "text" : "pff, die wusste genau welche zahl das ist, die hat sich einfach extrem dumm gestellt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:41.430Z",
+      "text" : "die zahl kann man mit 20 sekunden google \"beweisen\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:50.637Z",
+      "text" : "haben die kein internet?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:36:41.986Z",
+      "text" : "linke sind unsportlich per definition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:37:26.587Z",
+      "text" : "vegan-cuck wtf?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:38:28.368Z",
+      "text" : "linke = unsportlich = verlogen = kriminell...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:26.679Z",
+      "text" : "feroz, einer gegen alle"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:41.788Z",
+      "text" : "mentaler inzest"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:50.800Z",
+      "text" : "gleichschaltung, lockstep"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:56.968Z",
+      "text" : "faschismus = keine oppositin"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:41:27.845Z",
+      "text" : "die frage \"kennen sie messerstecher\" sollte man ignorieren als scheiss-frage, und weiter zur nächsten frage"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:41:55.497Z",
+      "text" : "man muss nicht über jedes stöckchen springen, man muss sich nicht von jedem scheiss provozieren lassen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:42:03.758Z",
+      "text" : "GETÖTET HAT"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:42:56.622Z",
+      "text" : "WO SOLLEN DIE SONST HIN AUSSER NACH DEUTSCHLAND???"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:43:16.486Z",
+      "text" : "\"entschuldigung aber sie sind dumm\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:43:46.290Z",
+      "text" : "so fertig diese leute...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:01.435Z",
+      "text" : "\"ich ertrage deren hinterfotzigkeit nicht mehr\" +1"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:24.010Z",
+      "text" : "schon wieder sone scheiss frage, wtf"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:28.063Z",
+      "text" : "null relevanz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:59.291Z",
+      "text" : "\"was war das für eine Fragerunde\" -- prozess gegen deutschland"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:45:50.670Z",
+      "text" : "mönch frisur...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:47:49.241Z",
+      "text" : "wenn man auf der sachebene schon verloren hat, dann muss man persönlich werden.... ad-hominem angriffe, \"linke scheisse\", lügen, rhetorik...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:48:41.826Z",
+      "text" : "lineare fortsetung? eher exponentielle fortsetzung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:48:55.194Z",
+      "text" : "GAULAND IST MEIN FÜHRER"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:49:45.986Z",
+      "text" : "\"differenziert\" -- gute antwort"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:50:14.714Z",
+      "text" : "\"wie finden sie X\" ---- die frage ist zu ungenau"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:50:58.134Z",
+      "text" : "100%"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:37.000Z",
+      "text" : "mathematische notwendigkeit"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:44.315Z",
+      "text" : "\"sie sind paranoid\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:58.427Z",
+      "text" : "NICE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:52:08.482Z",
+      "text" : "\"dummes zeug\" rache"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:53:04.416Z",
+      "text" : "dieses verhör läuft ähnlich wie in der psychiatrie..... egal was du sagst, du bist immer \"verrückt\" und \"paranoid\" und \"dumm\"...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:53:30.937Z",
+      "text" : "psychiatrie / hexenprozess"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:54:30.562Z",
+      "text" : "wem will er keine bühne geben? dem feroz?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:55:22.997Z",
+      "text" : "hose runterziehen und einen kackhaufen auf der bühne hinterlassen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:56:03.971Z",
+      "text" : "\"So n Gericht hab ich schonmal in Idiocracy gesehen.\" ---- aaaah. auch idiocracy ist ein instruction manual"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:57:17.810Z",
+      "text" : "zensur ist eine faschistische methode"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:58:52.438Z",
+      "text" : "feroz unser schäbiger lump <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:59:14.717Z",
+      "text" : "neutral?! nur tote sind neutral, alles leben hat neigung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:00:02.875Z",
+      "text" : "feroz hätte parallel einen privaten livestream machen sollen und das event weiter kommentieren : D"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:03:04.368Z",
+      "text" : "das haben die trainiert, vorbereitet, geskriptet"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:03:46.641Z",
+      "text" : "scheiss kindergarten niveau.... die sind doch alle hirntot geimpft >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:05:55.076Z",
+      "text" : "feroz \"fakenews\" khan"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:06:36.406Z",
+      "text" : "blamiert..... die linken haben keine besseren leute : D"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:09.222Z",
+      "text" : "feroz wird nie wieder eingeladen von linken xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:20.558Z",
+      "text" : "feroz \"blacklisted\" khan"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:48.434Z",
+      "text" : "google -> afd youtuber -> feroz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:08:24.740Z",
+      "text" : "ziel der aktion? steuergeld kassieren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:09:25.857Z",
+      "text" : "nur wer scheisse baut muss \"nett\" sein.... extrem antimeddl"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:10:00.463Z",
+      "text" : "\"kloschüssel\" --- gesichert rechtsextremer kampfbegriff"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:11:00.081Z",
+      "text" : "\"Du Dieter ick frach mal meenen Neffen, der kennt solche Kanäle\" ---- der neffe ist heimlich rechter und wollte seine linke family ficken"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:12:12.978Z",
+      "text" : "der rechte neffe, das schwarze schaf der linken familie, wird bald zur adoption freigegeben"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:12:44.120Z",
+      "text" : "war livestream"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:14:14.213Z",
+      "text" : "chris ares - defend europe"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:14:57.777Z",
+      "text" : "https://www.youtube.com/watch?v=4ebzYtQ9MT8 ---- Chris Ares - Defend Europe"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:16:55.820Z",
+      "text" : "wir brauchen militärputsch und militärdiktatur, alles andere ist doomed to fail...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:17:24.363Z",
+      "text" : "radikale probleme -> radikale lösungen. und die militärdiktatur wird sowieso kommen (kalifat europa)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:18:38.481Z",
+      "text" : "feroz hätte das ALLES heimlich recorden sollen, audio und video"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:19:00.350Z",
+      "text" : "\"sie arschloch\" -- also er hat die diskussion verloren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:19:46.300Z",
+      "text" : "\"die hätten mich gelyncht... die hassen uns\"... oh ja! das wird alles nur noch schlimmer, noch weiter eskalieren...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:20:11.961Z",
+      "text" : "attentat auf stürzenberger...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:20:39.561Z",
+      "text" : "vermutlich ermordete AFD politiker vor lokalwahl...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:21:30.521Z",
+      "text" : "jörg haider -- nationalistischer politiker in österreich -- ermordet von der CIA (drive by wire car remote control)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:21:50.781Z",
+      "text" : "möllemann --- hat sich mit israel angelegt --- ermordet vom mossad..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:22:23.757Z",
+      "text" : "\"ist trotzdem fake news!!\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:22:55.009Z",
+      "text" : "\"benutzung des internets\" <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:24.737Z",
+      "text" : "\"ihr MESSERscharfer verstand\" xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:38.337Z",
+      "text" : "er hätte noch viel viel mehr das wort MESSER einbauen können xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:50.389Z",
+      "text" : "mit MESSERhaften grüßen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:25:47.684Z",
+      "text" : "100% rhetorik.... die scheissen auf harte fakten"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:26:08.735Z",
+      "text" : "schmelztiegelfamilie?? kalifat europa!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:27:26.237Z",
+      "text" : "pff AFD verbot..... die AFD ist controlled opposition, zu spät zu wenig.... altparteien hinterlassen verbrannte erde = crash, blackout"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:27:58.281Z",
+      "text" : "AFD verbot debatte ist auch wieder ne ablenkung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:28:47.101Z",
+      "text" : "ich würde paraguay wählen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:28:55.373Z",
+      "text" : "scheiss auf europa >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:31:48.802Z",
+      "text" : "\"wir sollten geduldig und vorsichtig vorgehen\" ---- bullshit, militärputsch oder untergang"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:32:42.531Z",
+      "text" : "paraguay hat zumindest noch keine migranten-invasion.... aber sicher besser als europa"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:34:12.472Z",
+      "text" : "Marco Rubio <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:34:55.073Z",
+      "text" : "deine \"heimat\" versinkt bald in blackout und bürgerkrieg, have fun"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:36:09.653Z",
+      "text" : "china ist ein mächtiger gegner..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:37:44.770Z",
+      "text" : "meddlferoz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:39:35.465Z",
+      "text" : "mir ist mein leben wichtiger..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:42:13.374Z",
+      "text" : "nein, mir ist mein leben wichtiger als \"meine heimat\"... die meisten deutschen finde ich eeh scheisse 0__o"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:46:32.174Z",
+      "text" : "\"Die Boomer sind hirnlose Verfügungsmasse unserer Gegner. Die sind leicht zu manipulieren, und es sind sehr viele mit sehr vielen Mitteln.\" --- ja, das meine ich mit \"die meisten deutschen finde ich eeh scheisse\".... 80% impfquote, wählen immer wieder altparteien, die meisten konsumieren alkohol und tabak.... nicht meine welt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:47:02.989Z",
+      "text" : "kurz: viel zu viele cukcs"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:48:47.542Z",
+      "text" : "quentin kommt auf \"regime seine todesliste\" in meinem buch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:56:52.391Z",
+      "text" : "\"Honig ist angeblich nicht nenenswert gesünger als raffinierter Zucker\" ---- bin grad aufm carnivore diet trip -> https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:59:11.857Z",
+      "text" : "\"der nimmt steroide\" --- SamaHoole? glaub ich nicht... aber ich kenn den nicht persönlich"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:59:28.485Z",
+      "text" : "komplettgeisteskrankesevent"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:00:12.629Z",
+      "text" : "\"sie sind ein interessanter typ\" ...... weil er ein brauner nazi ist?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:01:53.751Z",
+      "text" : "\"wahrscheinlich steroide\" --- bullshit, lies einfach seine posts.... alles natur bei dem typ  https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:02:55.191Z",
+      "text" : "null ist genug"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:03:25.532Z",
+      "text" : "\"... immer dreister zu lügen\" ohja"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:04:06.164Z",
+      "text" : "stellst du immer so behinderte fragen?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:05:15.674Z",
+      "text" : "einbürgerungstest jedes jahr wiederholen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:05:27.920Z",
+      "text" : "...und nur linke werden eingebürgert"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:06:52.001Z",
+      "text" : "\"face ID\" ist das ende der anonymität im internet.... das mit dem alterscheck ist nur der fuß in der tür (trojanisches pferd)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:07:42.883Z",
+      "text" : "... VPN wird verboten, Tor wird verboten, I2P wird verboten.... zu viele \"fake news\" (wahrheiten) im internet"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:09:23.630Z",
+      "text" : "jesus christus wählt CDU, lässt sich totficken von niggern, und hält noch sein anderes loch hin....."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:11:44.174Z",
+      "text" : "auktion von 12jährigen, wer kennt es nicht?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:12:03.953Z",
+      "text" : "\"zustand: gebraucht aber neuwertig\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:13:04.754Z",
+      "text" : "böhse onkelz ens <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:15:48.196Z",
+      "text" : "westalgiker sind gehirnwäsche-opfer von der US-besatzung seit 1945...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:17:09.397Z",
+      "text" : "\"Chabad-Lubawitsch-Bewegung\" --- bingo..... tilman knechtel, traukeinempromi, metanoia magazin"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:18:38.671Z",
+      "text" : "haha verhaftet.... da hat einer das \"justiz\" system nicht verstanden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:23:49.943Z",
+      "text" : "https://milahu.github.io/alchi/src/whoaremyfriends/wersindmeinefreunde.html#radical-problems"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:24:15.704Z",
+      "text" : "doch, ich meine DAS paradies auf erden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:24:55.333Z",
+      "text" : "gedruckt 200 seiten A5"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:27:36.986Z",
+      "text" : "kalifat europa"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:27:52.567Z",
+      "text" : "linke werden vom hochhaus geworfen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:30:38.847Z",
+      "text" : "...unsere männer an die front schicken zum sterben"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:31:13.058Z",
+      "text" : "träne unters auge"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:32:21.523Z",
+      "text" : "freifunk = wlan mesh network = scheiss latenz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:35:48.991Z",
+      "text" : "ich als vater hab kein sorgerecht weil ich staatsfeind bin...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:36:01.633Z",
+      "text" : "offiziell \"schizophren\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:37:25.291Z",
+      "text" : "junge!! das war zu rääächts!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:38:16.498Z",
+      "text" : "demenz ist auch so eine zivilisationskrankheit.... spätfolge von nährstoffmangel.... lithium mangel und so"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:38:43.731Z",
+      "text" : "suizid mit 60, problem gelöst"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:41:49.866Z",
+      "text" : "göthe und schiller und nietzsche waren auch \"rechts\" im sinn von: aristokratisch, anti-demokratisch, \"die meisten leute sind idioten\", \"eine kleine elite sollte herrschen\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:43:56.472Z",
+      "text" : "meddlloide geht immer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:44:46.458Z",
+      "text" : "haha, sezession in bundesländer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:45:08.326Z",
+      "text" : "ostdeutschland bleibt deutsch, westdeutschland + frankreich + england werden zerfickt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:46:20.238Z",
+      "text" : "visegrad staaten bleiben VIELLEICHT stabil (polen, tschechien, ungarn, slovakei, ...)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:46:52.956Z",
+      "text" : "/votekick krah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:47:21.036Z",
+      "text" : "/votekick (alle cucks in der AFD)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:47:42.485Z",
+      "text" : "\"wir müssen stiefel lecken\" -- krah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:49:06.468Z",
+      "text" : "uhoh, offline treffen wird gebusted von cops"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:49:51.630Z",
+      "text" : "\"rechts\" im sinn von: aristokratisch, \"die meisten menschen sind idioten\", anti-demokratisch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:52:07.971Z",
+      "text" : "derdiedas weib"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:54:21.708Z",
+      "text" : "archive org"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:55:20.216Z",
+      "text" : "naja, wenn man zu langsam redet wird man vom publikum weggeklatscht"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:55:37.693Z",
+      "text" : "NICHTS <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:56:15.457Z",
+      "text" : "meddlloide"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:10:54.653Z",
+      "text" : "https://milahu.github.io/alchi/src/whoaremyfriends/wersindmeinefreunde.html#radical-problems"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:12:23.764Z",
+      "text" : "hirntot?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:14:32.577Z",
+      "text" : "\"zeigt reue\" -> freispruch!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:14:44.360Z",
+      "text" : "\"nicht erklären\" xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:15:54.270Z",
+      "text" : "hier hat es ein mal den richtigen getroffen: https://github.com/milahu/dominik-sobota-vs-rainer-gerth -- Am 8. April 2024 ersticht Dominik Sobota den Dr. Rainer Gerth in Wasserburg am Inn"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:18:23.212Z",
+      "text" : "familienclans, alte deutsche tradition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:18:56.639Z",
+      "text" : "müller, huber, hainz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:19:18.482Z",
+      "text" : "\"inzwischen\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:20:01.924Z",
+      "text" : "sind wir nicht alle in rockerbanden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:20:12.704Z",
+      "text" : "*passdeutsch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:21:06.965Z",
+      "text" : "haha, einfach das gegenteil behaupten und mit scheisse werfen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:22:31.087Z",
+      "text" : "die steigerung von kriminalität und todesrate ist ja ein hauptziel der migranten-invasion"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:22:50.342Z",
+      "text" : "keine twitter notification"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:23:19.175Z",
+      "text" : "shlomo shadowcucked auf twitter?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:24:22.560Z",
+      "text" : "7K im monat? will ich auch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:25:04.640Z",
+      "text" : "ich hab 100 imaginäre kinder, wo ist mein geld?!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:25:48.436Z",
+      "text" : "\"es ist kompliziert\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:26:08.117Z",
+      "text" : "aggressiv = nicht auf knien flehend"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:27:18.238Z",
+      "text" : "kassieren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:28:50.764Z",
+      "text" : "kriegst trotzdem auf die fresse wegen deinem aggressiven konti outfit"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:32:22.346Z",
+      "text" : "\"rinder sind böse\" -> genau das gegenteil ist die wahrheit, wie so oft -> carnivore diet: https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:39:12.522Z",
+      "text" : "\"polizeieinsatz wegen psychischer gesundheit\" -- dazu reicht wenn ein nachbar die bullen ruft mit \"ich fühle mich belästigt von dem\"...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:39:38.372Z",
+      "text" : "soll seine mumu zeigen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:33.530Z",
+      "text" : "\"dass gewalt eine lösung sei\" --- pfff gewalt ist eine lösung, das ganze system baut auf gewalt.... opfer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:40.681Z",
+      "text" : "*keine"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:43.581Z",
+      "text" : "*eine"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:41:35.154Z",
+      "text" : "\"reddit\".... alles klar... was für ein shithole >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:41:59.015Z",
+      "text" : "die meisten leute auf reddit sind so behindert..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:42:23.081Z",
+      "text" : "reddit verbieten, problem gelöst"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:43:50.162Z",
+      "text" : "reddit2 verbieten, reddit3 verbieten, ..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:44:21.568Z",
+      "text" : "\"libertär\" -- instant 10 IQ punkte verloren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:00.956Z",
+      "text" : "\"eine welt voller hass\" -- aww das klingt traumhaft"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:27.224Z",
+      "text" : "\"transkind\" -- auch wieder nur ein opfer von dummen/bösen kindern"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:32.341Z",
+      "text" : "low-dose DMT oh yeah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:57.032Z",
+      "text" : "\"komplett kaputter typ\" -- haha, selber keine erfahrung mit drogen, aber scheisse über drogen user reden? weak"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:47:22.818Z",
+      "text" : "\"putin ist schuld!\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:47:58.174Z",
+      "text" : "shlo muss dringend DMT rauchen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:48:43.169Z",
+      "text" : "feroz der eiserne"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:50:55.735Z",
+      "text" : "gyros, alte deutsche tradition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:07.560Z",
+      "text" : "der deutscheste pali der welt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:12.700Z",
+      "text" : "*paki"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:48.425Z",
+      "text" : "quoten brownie"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:53:14.540Z",
+      "text" : "yeah. welche anstaltung?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:54:26.941Z",
+      "text" : "they are noticing. SHUT IT DOWN!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:29.311Z",
+      "text" : "prozess gegen 40% von deutschland"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:42.359Z",
+      "text" : "gewalt ist herrlich, was sonst?!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:57.333Z",
+      "text" : "zeig logo"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:57:32.834Z",
+      "text" : "die AFD träumt nachts heimlich von \"ausländer raus\".... instant verbieten!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:59:10.256Z",
+      "text" : "sellner?! da kannst auch gleich adolf hitler einladen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:00:24.838Z",
+      "text" : "keiner redet so schön über \"remigration\" wie martin sellner .... blaa blaa blaaa blaaa blaaaaa... nur gelaber den ganzen tag, aber alles bleibt scheisse, und keiner versteht warum...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:04:22.707Z",
+      "text" : "eisbrecher:innen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:04:52.968Z",
+      "text" : "aussen:innen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:05:10.997Z",
+      "text" : "man hätte ihn dafür auslachen müssen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:06:30.515Z",
+      "text" : "...und am ende vom stück werden AFD politiker mit einer guillotine geköpft"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:07:29.959Z",
+      "text" : "\"die warze ist mein alleinstellungsmerkmal\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:07:39.463Z",
+      "text" : "\"sind sie ein cuck?\" -- \"jaa\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:08:18.851Z",
+      "text" : "\"totschlag ist eine angemessene gewaltform\" -- faschisten immer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:09:46.952Z",
+      "text" : "gefühlte 1% der migranten sind \"frauen und kinder\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:10:41.216Z",
+      "text" : "für kuchenwerfen kriegst du als rechter \"versuchter totschlag\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:11:24.825Z",
+      "text" : "lord sellnermort"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:12:38.823Z",
+      "text" : "verschwörung, alle gegen einen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:18:04.695Z",
+      "text" : "feroz ist so naiv.... die arbeiten ALLE zusammen, das ist eine große verschwörung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:18:52.879Z",
+      "text" : "\"Warum reden die über diese Veranstaltung\" --- ja, schon wieder so eine scheiss unrelevante scheisse......"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:20:22.592Z",
+      "text" : "\"Wen wollte man überzeugen? Man braucht sich nur das Publikum anzusehen: Alles verlorene Seelen\" -- yes. echokammer. mentaler inzest"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:22:23.161Z",
+      "text" : "\"Solchen Leuten muss man ihre Lebenslügen lassen und ihnen nicht noch den Ruhestand verderben.\" --- nein!! energieverschwendung. weg damit!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:22:48.511Z",
+      "text" : "richtig gecastet... alter weisser cuck"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:09.625Z",
+      "text" : "impfstatus 100000 impfungen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:29.138Z",
+      "text" : "lieblingssport auf der couch sitzen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:49.601Z",
+      "text" : "cuck kritik"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:03.356Z",
+      "text" : "\"traue keinem über 45\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:20.022Z",
+      "text" : "\"ich gelobe alle fotzen zu zerficken\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:52.928Z",
+      "text" : "feroz ist 25% deutscher"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:28:47.367Z",
+      "text" : "\"sie sind ein interessanter typ\" --- aussen braun und innen braun 0___o"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:22.053Z",
+      "text" : "\"ich kenne diese zahl nicht\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:41.785Z",
+      "text" : "YESS"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:57.193Z",
+      "text" : "\"das sagt viel über sie aus und nichts über mich\"!!!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:03.914Z",
+      "text" : "HUUUUREEEE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:13.582Z",
+      "text" : "HALT DIE FRESSE HUREE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:29.926Z",
+      "text" : "haha, ich wäre gegangen, scheiss kindergarten"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:44.066Z",
+      "text" : "\"ich bin hier raus, fickt euch alle\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:31:08.858Z",
+      "text" : "die arroganz ist so widerlich"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:31:35.784Z",
+      "text" : "sie provozieren 24/7 und wenn du ein falsches wort sagst dann bist du der böse"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:32:10.798Z",
+      "text" : "feroz hätte laut lachen sollen und einfach gehen..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:34:01.870Z",
+      "text" : "gegneranalyse.."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:01.277Z",
+      "text" : "pff, die wusste genau welche zahl das ist, die hat sich einfach extrem dumm gestellt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:41.430Z",
+      "text" : "die zahl kann man mit 20 sekunden google \"beweisen\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:50.637Z",
+      "text" : "haben die kein internet?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:36:41.986Z",
+      "text" : "linke sind unsportlich per definition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:37:26.587Z",
+      "text" : "vegan-cuck wtf?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:38:28.368Z",
+      "text" : "linke = unsportlich = verlogen = kriminell...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:26.679Z",
+      "text" : "feroz, einer gegen alle"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:41.788Z",
+      "text" : "mentaler inzest"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:50.800Z",
+      "text" : "gleichschaltung, lockstep"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:56.968Z",
+      "text" : "faschismus = keine oppositin"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:41:27.845Z",
+      "text" : "die frage \"kennen sie messerstecher\" sollte man ignorieren als scheiss-frage, und weiter zur nächsten frage"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:41:55.497Z",
+      "text" : "man muss nicht über jedes stöckchen springen, man muss sich nicht von jedem scheiss provozieren lassen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:42:03.758Z",
+      "text" : "GETÖTET HAT"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:42:56.622Z",
+      "text" : "WO SOLLEN DIE SONST HIN AUSSER NACH DEUTSCHLAND???"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:43:16.486Z",
+      "text" : "\"entschuldigung aber sie sind dumm\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:43:46.290Z",
+      "text" : "so fertig diese leute...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:01.435Z",
+      "text" : "\"ich ertrage deren hinterfotzigkeit nicht mehr\" +1"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:24.010Z",
+      "text" : "schon wieder sone scheiss frage, wtf"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:28.063Z",
+      "text" : "null relevanz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:59.291Z",
+      "text" : "\"was war das für eine Fragerunde\" -- prozess gegen deutschland"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:45:50.670Z",
+      "text" : "mönch frisur...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:47:49.241Z",
+      "text" : "wenn man auf der sachebene schon verloren hat, dann muss man persönlich werden.... ad-hominem angriffe, \"linke scheisse\", lügen, rhetorik...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:48:41.826Z",
+      "text" : "lineare fortsetung? eher exponentielle fortsetzung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:48:55.194Z",
+      "text" : "GAULAND IST MEIN FÜHRER"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:49:45.986Z",
+      "text" : "\"differenziert\" -- gute antwort"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:50:14.714Z",
+      "text" : "\"wie finden sie X\" ---- die frage ist zu ungenau"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:50:58.134Z",
+      "text" : "100%"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:37.000Z",
+      "text" : "mathematische notwendigkeit"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:44.315Z",
+      "text" : "\"sie sind paranoid\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:58.427Z",
+      "text" : "NICE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:52:08.482Z",
+      "text" : "\"dummes zeug\" rache"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:53:04.416Z",
+      "text" : "dieses verhör läuft ähnlich wie in der psychiatrie..... egal was du sagst, du bist immer \"verrückt\" und \"paranoid\" und \"dumm\"...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:53:30.937Z",
+      "text" : "psychiatrie / hexenprozess"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:54:30.562Z",
+      "text" : "wem will er keine bühne geben? dem feroz?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:55:22.997Z",
+      "text" : "hose runterziehen und einen kackhaufen auf der bühne hinterlassen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:56:03.971Z",
+      "text" : "\"So n Gericht hab ich schonmal in Idiocracy gesehen.\" ---- aaaah. auch idiocracy ist ein instruction manual"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:57:17.810Z",
+      "text" : "zensur ist eine faschistische methode"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:58:52.438Z",
+      "text" : "feroz unser schäbiger lump <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:59:14.717Z",
+      "text" : "neutral?! nur tote sind neutral, alles leben hat neigung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:00:02.875Z",
+      "text" : "feroz hätte parallel einen privaten livestream machen sollen und das event weiter kommentieren : D"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:03:04.368Z",
+      "text" : "das haben die trainiert, vorbereitet, geskriptet"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:03:46.641Z",
+      "text" : "scheiss kindergarten niveau.... die sind doch alle hirntot geimpft >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:05:55.076Z",
+      "text" : "feroz \"fakenews\" khan"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:06:36.406Z",
+      "text" : "blamiert..... die linken haben keine besseren leute : D"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:09.222Z",
+      "text" : "feroz wird nie wieder eingeladen von linken xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:20.558Z",
+      "text" : "feroz \"blacklisted\" khan"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:48.434Z",
+      "text" : "google -> afd youtuber -> feroz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:08:24.740Z",
+      "text" : "ziel der aktion? steuergeld kassieren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:09:25.857Z",
+      "text" : "nur wer scheisse baut muss \"nett\" sein.... extrem antimeddl"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:10:00.463Z",
+      "text" : "\"kloschüssel\" --- gesichert rechtsextremer kampfbegriff"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:11:00.081Z",
+      "text" : "\"Du Dieter ick frach mal meenen Neffen, der kennt solche Kanäle\" ---- der neffe ist heimlich rechter und wollte seine linke family ficken"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:12:12.978Z",
+      "text" : "der rechte neffe, das schwarze schaf der linken familie, wird bald zur adoption freigegeben"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:12:44.120Z",
+      "text" : "war livestream"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:14:14.213Z",
+      "text" : "chris ares - defend europe"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:14:57.777Z",
+      "text" : "https://www.youtube.com/watch?v=4ebzYtQ9MT8 ---- Chris Ares - Defend Europe"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:16:55.820Z",
+      "text" : "wir brauchen militärputsch und militärdiktatur, alles andere ist doomed to fail...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:17:24.363Z",
+      "text" : "radikale probleme -> radikale lösungen. und die militärdiktatur wird sowieso kommen (kalifat europa)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:18:38.481Z",
+      "text" : "feroz hätte das ALLES heimlich recorden sollen, audio und video"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:19:00.350Z",
+      "text" : "\"sie arschloch\" -- also er hat die diskussion verloren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:19:46.300Z",
+      "text" : "\"die hätten mich gelyncht... die hassen uns\"... oh ja! das wird alles nur noch schlimmer, noch weiter eskalieren...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:20:11.961Z",
+      "text" : "attentat auf stürzenberger...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:20:39.561Z",
+      "text" : "vermutlich ermordete AFD politiker vor lokalwahl...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:21:30.521Z",
+      "text" : "jörg haider -- nationalistischer politiker in österreich -- ermordet von der CIA (drive by wire car remote control)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:21:50.781Z",
+      "text" : "möllemann --- hat sich mit israel angelegt --- ermordet vom mossad..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:22:23.757Z",
+      "text" : "\"ist trotzdem fake news!!\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:22:55.009Z",
+      "text" : "\"benutzung des internets\" <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:24.737Z",
+      "text" : "\"ihr MESSERscharfer verstand\" xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:38.337Z",
+      "text" : "er hätte noch viel viel mehr das wort MESSER einbauen können xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:50.389Z",
+      "text" : "mit MESSERhaften grüßen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:25:47.684Z",
+      "text" : "100% rhetorik.... die scheissen auf harte fakten"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:26:08.735Z",
+      "text" : "schmelztiegelfamilie?? kalifat europa!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:27:26.237Z",
+      "text" : "pff AFD verbot..... die AFD ist controlled opposition, zu spät zu wenig.... altparteien hinterlassen verbrannte erde = crash, blackout"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:27:58.281Z",
+      "text" : "AFD verbot debatte ist auch wieder ne ablenkung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:28:47.101Z",
+      "text" : "ich würde paraguay wählen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:28:55.373Z",
+      "text" : "scheiss auf europa >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:31:48.802Z",
+      "text" : "\"wir sollten geduldig und vorsichtig vorgehen\" ---- bullshit, militärputsch oder untergang"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:32:42.531Z",
+      "text" : "paraguay hat zumindest noch keine migranten-invasion.... aber sicher besser als europa"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:34:12.472Z",
+      "text" : "Marco Rubio <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:34:55.073Z",
+      "text" : "deine \"heimat\" versinkt bald in blackout und bürgerkrieg, have fun"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:36:09.653Z",
+      "text" : "china ist ein mächtiger gegner..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:37:44.770Z",
+      "text" : "meddlferoz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:39:35.465Z",
+      "text" : "mir ist mein leben wichtiger..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:42:13.374Z",
+      "text" : "nein, mir ist mein leben wichtiger als \"meine heimat\"... die meisten deutschen finde ich eeh scheisse 0__o"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:46:32.174Z",
+      "text" : "\"Die Boomer sind hirnlose Verfügungsmasse unserer Gegner. Die sind leicht zu manipulieren, und es sind sehr viele mit sehr vielen Mitteln.\" --- ja, das meine ich mit \"die meisten deutschen finde ich eeh scheisse\".... 80% impfquote, wählen immer wieder altparteien, die meisten konsumieren alkohol und tabak.... nicht meine welt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:47:02.989Z",
+      "text" : "kurz: viel zu viele cukcs"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:48:47.542Z",
+      "text" : "quentin kommt auf \"regime seine todesliste\" in meinem buch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:56:52.391Z",
+      "text" : "\"Honig ist angeblich nicht nenenswert gesünger als raffinierter Zucker\" ---- bin grad aufm carnivore diet trip -> https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:59:11.857Z",
+      "text" : "\"der nimmt steroide\" --- SamaHoole? glaub ich nicht... aber ich kenn den nicht persönlich"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:59:28.485Z",
+      "text" : "komplettgeisteskrankesevent"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:00:12.629Z",
+      "text" : "\"sie sind ein interessanter typ\" ...... weil er ein brauner nazi ist?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:01:53.751Z",
+      "text" : "\"wahrscheinlich steroide\" --- bullshit, lies einfach seine posts.... alles natur bei dem typ  https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:02:55.191Z",
+      "text" : "null ist genug"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:03:25.532Z",
+      "text" : "\"... immer dreister zu lügen\" ohja"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:04:06.164Z",
+      "text" : "stellst du immer so behinderte fragen?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:05:15.674Z",
+      "text" : "einbürgerungstest jedes jahr wiederholen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:05:27.920Z",
+      "text" : "...und nur linke werden eingebürgert"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:06:52.001Z",
+      "text" : "\"face ID\" ist das ende der anonymität im internet.... das mit dem alterscheck ist nur der fuß in der tür (trojanisches pferd)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:07:42.883Z",
+      "text" : "... VPN wird verboten, Tor wird verboten, I2P wird verboten.... zu viele \"fake news\" (wahrheiten) im internet"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:09:23.630Z",
+      "text" : "jesus christus wählt CDU, lässt sich totficken von niggern, und hält noch sein anderes loch hin....."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:11:44.174Z",
+      "text" : "auktion von 12jährigen, wer kennt es nicht?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:12:03.953Z",
+      "text" : "\"zustand: gebraucht aber neuwertig\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:13:04.754Z",
+      "text" : "böhse onkelz ens <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:15:48.196Z",
+      "text" : "westalgiker sind gehirnwäsche-opfer von der US-besatzung seit 1945...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:17:09.397Z",
+      "text" : "\"Chabad-Lubawitsch-Bewegung\" --- bingo..... tilman knechtel, traukeinempromi, metanoia magazin"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:18:38.671Z",
+      "text" : "haha verhaftet.... da hat einer das \"justiz\" system nicht verstanden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:23:49.943Z",
+      "text" : "https://milahu.github.io/alchi/src/whoaremyfriends/wersindmeinefreunde.html#radical-problems"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:24:15.704Z",
+      "text" : "doch, ich meine DAS paradies auf erden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:24:55.333Z",
+      "text" : "gedruckt 200 seiten A5"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:27:36.986Z",
+      "text" : "kalifat europa"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:27:52.567Z",
+      "text" : "linke werden vom hochhaus geworfen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:30:38.847Z",
+      "text" : "...unsere männer an die front schicken zum sterben"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:31:13.058Z",
+      "text" : "träne unters auge"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:32:21.523Z",
+      "text" : "freifunk = wlan mesh network = scheiss latenz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:35:48.991Z",
+      "text" : "ich als vater hab kein sorgerecht weil ich staatsfeind bin...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:36:01.633Z",
+      "text" : "offiziell \"schizophren\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:37:25.291Z",
+      "text" : "junge!! das war zu rääächts!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:38:16.498Z",
+      "text" : "demenz ist auch so eine zivilisationskrankheit.... spätfolge von nährstoffmangel.... lithium mangel und so"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:38:43.731Z",
+      "text" : "suizid mit 60, problem gelöst"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:41:49.866Z",
+      "text" : "göthe und schiller und nietzsche waren auch \"rechts\" im sinn von: aristokratisch, anti-demokratisch, \"die meisten leute sind idioten\", \"eine kleine elite sollte herrschen\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:43:56.472Z",
+      "text" : "meddlloide geht immer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:44:46.458Z",
+      "text" : "haha, sezession in bundesländer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:45:08.326Z",
+      "text" : "ostdeutschland bleibt deutsch, westdeutschland + frankreich + england werden zerfickt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:46:20.238Z",
+      "text" : "visegrad staaten bleiben VIELLEICHT stabil (polen, tschechien, ungarn, slovakei, ...)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:46:52.956Z",
+      "text" : "/votekick krah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:47:21.036Z",
+      "text" : "/votekick (alle cucks in der AFD)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:47:42.485Z",
+      "text" : "\"wir müssen stiefel lecken\" -- krah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:49:06.468Z",
+      "text" : "uhoh, offline treffen wird gebusted von cops"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:49:51.630Z",
+      "text" : "\"rechts\" im sinn von: aristokratisch, \"die meisten menschen sind idioten\", anti-demokratisch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:52:07.971Z",
+      "text" : "derdiedas weib"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:54:21.708Z",
+      "text" : "archive org"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:55:20.216Z",
+      "text" : "naja, wenn man zu langsam redet wird man vom publikum weggeklatscht"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:55:37.693Z",
+      "text" : "NICHTS <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:56:15.457Z",
+      "text" : "meddlloide"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
       "broadcastId" : "1BRJjgnMYBQxw",
       "byAccountId" : "1eRExZreWmMKw",
       "createdAt" : "2026-01-18T17:06:04.804Z",
@@ -21725,6 +39085,4422 @@ window.YTD.periscope_comments_made_by_user.part0 = [
       "byAccountId" : "1eRExZreWmMKw",
       "createdAt" : "2026-02-08T20:26:19.590Z",
       "text" : "\"Internet wirklich hart zensiert\" --  meshtastic LoRa off-grid networking https://en.wikipedia.org/wiki/Meshtastic"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:10:54.653Z",
+      "text" : "https://milahu.github.io/alchi/src/whoaremyfriends/wersindmeinefreunde.html#radical-problems"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:12:23.764Z",
+      "text" : "hirntot?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:14:32.577Z",
+      "text" : "\"zeigt reue\" -> freispruch!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:14:44.360Z",
+      "text" : "\"nicht erklären\" xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:15:54.270Z",
+      "text" : "hier hat es ein mal den richtigen getroffen: https://github.com/milahu/dominik-sobota-vs-rainer-gerth -- Am 8. April 2024 ersticht Dominik Sobota den Dr. Rainer Gerth in Wasserburg am Inn"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:18:23.212Z",
+      "text" : "familienclans, alte deutsche tradition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:18:56.639Z",
+      "text" : "müller, huber, hainz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:19:18.482Z",
+      "text" : "\"inzwischen\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:20:01.924Z",
+      "text" : "sind wir nicht alle in rockerbanden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:20:12.704Z",
+      "text" : "*passdeutsch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:21:06.965Z",
+      "text" : "haha, einfach das gegenteil behaupten und mit scheisse werfen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:22:31.087Z",
+      "text" : "die steigerung von kriminalität und todesrate ist ja ein hauptziel der migranten-invasion"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:22:50.342Z",
+      "text" : "keine twitter notification"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:23:19.175Z",
+      "text" : "shlomo shadowcucked auf twitter?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:24:22.560Z",
+      "text" : "7K im monat? will ich auch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:25:04.640Z",
+      "text" : "ich hab 100 imaginäre kinder, wo ist mein geld?!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:25:48.436Z",
+      "text" : "\"es ist kompliziert\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:26:08.117Z",
+      "text" : "aggressiv = nicht auf knien flehend"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:27:18.238Z",
+      "text" : "kassieren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:28:50.764Z",
+      "text" : "kriegst trotzdem auf die fresse wegen deinem aggressiven konti outfit"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:32:22.346Z",
+      "text" : "\"rinder sind böse\" -> genau das gegenteil ist die wahrheit, wie so oft -> carnivore diet: https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:39:12.522Z",
+      "text" : "\"polizeieinsatz wegen psychischer gesundheit\" -- dazu reicht wenn ein nachbar die bullen ruft mit \"ich fühle mich belästigt von dem\"...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:39:38.372Z",
+      "text" : "soll seine mumu zeigen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:33.530Z",
+      "text" : "\"dass gewalt eine lösung sei\" --- pfff gewalt ist eine lösung, das ganze system baut auf gewalt.... opfer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:40.681Z",
+      "text" : "*keine"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:43.581Z",
+      "text" : "*eine"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:41:35.154Z",
+      "text" : "\"reddit\".... alles klar... was für ein shithole >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:41:59.015Z",
+      "text" : "die meisten leute auf reddit sind so behindert..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:42:23.081Z",
+      "text" : "reddit verbieten, problem gelöst"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:43:50.162Z",
+      "text" : "reddit2 verbieten, reddit3 verbieten, ..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:44:21.568Z",
+      "text" : "\"libertär\" -- instant 10 IQ punkte verloren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:00.956Z",
+      "text" : "\"eine welt voller hass\" -- aww das klingt traumhaft"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:27.224Z",
+      "text" : "\"transkind\" -- auch wieder nur ein opfer von dummen/bösen kindern"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:32.341Z",
+      "text" : "low-dose DMT oh yeah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:57.032Z",
+      "text" : "\"komplett kaputter typ\" -- haha, selber keine erfahrung mit drogen, aber scheisse über drogen user reden? weak"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:47:22.818Z",
+      "text" : "\"putin ist schuld!\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:47:58.174Z",
+      "text" : "shlo muss dringend DMT rauchen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:48:43.169Z",
+      "text" : "feroz der eiserne"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:50:55.735Z",
+      "text" : "gyros, alte deutsche tradition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:07.560Z",
+      "text" : "der deutscheste pali der welt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:12.700Z",
+      "text" : "*paki"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:48.425Z",
+      "text" : "quoten brownie"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:53:14.540Z",
+      "text" : "yeah. welche anstaltung?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:54:26.941Z",
+      "text" : "they are noticing. SHUT IT DOWN!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:29.311Z",
+      "text" : "prozess gegen 40% von deutschland"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:42.359Z",
+      "text" : "gewalt ist herrlich, was sonst?!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:57.333Z",
+      "text" : "zeig logo"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:57:32.834Z",
+      "text" : "die AFD träumt nachts heimlich von \"ausländer raus\".... instant verbieten!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:59:10.256Z",
+      "text" : "sellner?! da kannst auch gleich adolf hitler einladen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:00:24.838Z",
+      "text" : "keiner redet so schön über \"remigration\" wie martin sellner .... blaa blaa blaaa blaaa blaaaaa... nur gelaber den ganzen tag, aber alles bleibt scheisse, und keiner versteht warum...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:04:22.707Z",
+      "text" : "eisbrecher:innen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:04:52.968Z",
+      "text" : "aussen:innen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:05:10.997Z",
+      "text" : "man hätte ihn dafür auslachen müssen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:06:30.515Z",
+      "text" : "...und am ende vom stück werden AFD politiker mit einer guillotine geköpft"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:07:29.959Z",
+      "text" : "\"die warze ist mein alleinstellungsmerkmal\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:07:39.463Z",
+      "text" : "\"sind sie ein cuck?\" -- \"jaa\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:08:18.851Z",
+      "text" : "\"totschlag ist eine angemessene gewaltform\" -- faschisten immer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:09:46.952Z",
+      "text" : "gefühlte 1% der migranten sind \"frauen und kinder\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:10:41.216Z",
+      "text" : "für kuchenwerfen kriegst du als rechter \"versuchter totschlag\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:11:24.825Z",
+      "text" : "lord sellnermort"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:12:38.823Z",
+      "text" : "verschwörung, alle gegen einen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:18:04.695Z",
+      "text" : "feroz ist so naiv.... die arbeiten ALLE zusammen, das ist eine große verschwörung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:18:52.879Z",
+      "text" : "\"Warum reden die über diese Veranstaltung\" --- ja, schon wieder so eine scheiss unrelevante scheisse......"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:20:22.592Z",
+      "text" : "\"Wen wollte man überzeugen? Man braucht sich nur das Publikum anzusehen: Alles verlorene Seelen\" -- yes. echokammer. mentaler inzest"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:22:23.161Z",
+      "text" : "\"Solchen Leuten muss man ihre Lebenslügen lassen und ihnen nicht noch den Ruhestand verderben.\" --- nein!! energieverschwendung. weg damit!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:22:48.511Z",
+      "text" : "richtig gecastet... alter weisser cuck"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:09.625Z",
+      "text" : "impfstatus 100000 impfungen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:29.138Z",
+      "text" : "lieblingssport auf der couch sitzen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:49.601Z",
+      "text" : "cuck kritik"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:03.356Z",
+      "text" : "\"traue keinem über 45\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:20.022Z",
+      "text" : "\"ich gelobe alle fotzen zu zerficken\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:52.928Z",
+      "text" : "feroz ist 25% deutscher"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:28:47.367Z",
+      "text" : "\"sie sind ein interessanter typ\" --- aussen braun und innen braun 0___o"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:22.053Z",
+      "text" : "\"ich kenne diese zahl nicht\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:41.785Z",
+      "text" : "YESS"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:57.193Z",
+      "text" : "\"das sagt viel über sie aus und nichts über mich\"!!!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:03.914Z",
+      "text" : "HUUUUREEEE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:13.582Z",
+      "text" : "HALT DIE FRESSE HUREE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:29.926Z",
+      "text" : "haha, ich wäre gegangen, scheiss kindergarten"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:44.066Z",
+      "text" : "\"ich bin hier raus, fickt euch alle\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:31:08.858Z",
+      "text" : "die arroganz ist so widerlich"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:31:35.784Z",
+      "text" : "sie provozieren 24/7 und wenn du ein falsches wort sagst dann bist du der böse"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:32:10.798Z",
+      "text" : "feroz hätte laut lachen sollen und einfach gehen..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:34:01.870Z",
+      "text" : "gegneranalyse.."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:01.277Z",
+      "text" : "pff, die wusste genau welche zahl das ist, die hat sich einfach extrem dumm gestellt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:41.430Z",
+      "text" : "die zahl kann man mit 20 sekunden google \"beweisen\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:50.637Z",
+      "text" : "haben die kein internet?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:36:41.986Z",
+      "text" : "linke sind unsportlich per definition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:37:26.587Z",
+      "text" : "vegan-cuck wtf?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:38:28.368Z",
+      "text" : "linke = unsportlich = verlogen = kriminell...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:26.679Z",
+      "text" : "feroz, einer gegen alle"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:41.788Z",
+      "text" : "mentaler inzest"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:50.800Z",
+      "text" : "gleichschaltung, lockstep"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:56.968Z",
+      "text" : "faschismus = keine oppositin"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:41:27.845Z",
+      "text" : "die frage \"kennen sie messerstecher\" sollte man ignorieren als scheiss-frage, und weiter zur nächsten frage"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:41:55.497Z",
+      "text" : "man muss nicht über jedes stöckchen springen, man muss sich nicht von jedem scheiss provozieren lassen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:42:03.758Z",
+      "text" : "GETÖTET HAT"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:42:56.622Z",
+      "text" : "WO SOLLEN DIE SONST HIN AUSSER NACH DEUTSCHLAND???"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:43:16.486Z",
+      "text" : "\"entschuldigung aber sie sind dumm\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:43:46.290Z",
+      "text" : "so fertig diese leute...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:01.435Z",
+      "text" : "\"ich ertrage deren hinterfotzigkeit nicht mehr\" +1"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:24.010Z",
+      "text" : "schon wieder sone scheiss frage, wtf"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:28.063Z",
+      "text" : "null relevanz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:59.291Z",
+      "text" : "\"was war das für eine Fragerunde\" -- prozess gegen deutschland"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:45:50.670Z",
+      "text" : "mönch frisur...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:47:49.241Z",
+      "text" : "wenn man auf der sachebene schon verloren hat, dann muss man persönlich werden.... ad-hominem angriffe, \"linke scheisse\", lügen, rhetorik...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:48:41.826Z",
+      "text" : "lineare fortsetung? eher exponentielle fortsetzung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:48:55.194Z",
+      "text" : "GAULAND IST MEIN FÜHRER"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:49:45.986Z",
+      "text" : "\"differenziert\" -- gute antwort"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:50:14.714Z",
+      "text" : "\"wie finden sie X\" ---- die frage ist zu ungenau"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:50:58.134Z",
+      "text" : "100%"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:37.000Z",
+      "text" : "mathematische notwendigkeit"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:44.315Z",
+      "text" : "\"sie sind paranoid\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:58.427Z",
+      "text" : "NICE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:52:08.482Z",
+      "text" : "\"dummes zeug\" rache"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:53:04.416Z",
+      "text" : "dieses verhör läuft ähnlich wie in der psychiatrie..... egal was du sagst, du bist immer \"verrückt\" und \"paranoid\" und \"dumm\"...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:53:30.937Z",
+      "text" : "psychiatrie / hexenprozess"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:54:30.562Z",
+      "text" : "wem will er keine bühne geben? dem feroz?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:55:22.997Z",
+      "text" : "hose runterziehen und einen kackhaufen auf der bühne hinterlassen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:56:03.971Z",
+      "text" : "\"So n Gericht hab ich schonmal in Idiocracy gesehen.\" ---- aaaah. auch idiocracy ist ein instruction manual"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:57:17.810Z",
+      "text" : "zensur ist eine faschistische methode"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:58:52.438Z",
+      "text" : "feroz unser schäbiger lump <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:59:14.717Z",
+      "text" : "neutral?! nur tote sind neutral, alles leben hat neigung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:00:02.875Z",
+      "text" : "feroz hätte parallel einen privaten livestream machen sollen und das event weiter kommentieren : D"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:03:04.368Z",
+      "text" : "das haben die trainiert, vorbereitet, geskriptet"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:03:46.641Z",
+      "text" : "scheiss kindergarten niveau.... die sind doch alle hirntot geimpft >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:05:55.076Z",
+      "text" : "feroz \"fakenews\" khan"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:06:36.406Z",
+      "text" : "blamiert..... die linken haben keine besseren leute : D"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:09.222Z",
+      "text" : "feroz wird nie wieder eingeladen von linken xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:20.558Z",
+      "text" : "feroz \"blacklisted\" khan"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:48.434Z",
+      "text" : "google -> afd youtuber -> feroz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:08:24.740Z",
+      "text" : "ziel der aktion? steuergeld kassieren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:09:25.857Z",
+      "text" : "nur wer scheisse baut muss \"nett\" sein.... extrem antimeddl"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:10:00.463Z",
+      "text" : "\"kloschüssel\" --- gesichert rechtsextremer kampfbegriff"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:11:00.081Z",
+      "text" : "\"Du Dieter ick frach mal meenen Neffen, der kennt solche Kanäle\" ---- der neffe ist heimlich rechter und wollte seine linke family ficken"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:12:12.978Z",
+      "text" : "der rechte neffe, das schwarze schaf der linken familie, wird bald zur adoption freigegeben"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:12:44.120Z",
+      "text" : "war livestream"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:14:14.213Z",
+      "text" : "chris ares - defend europe"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:14:57.777Z",
+      "text" : "https://www.youtube.com/watch?v=4ebzYtQ9MT8 ---- Chris Ares - Defend Europe"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:16:55.820Z",
+      "text" : "wir brauchen militärputsch und militärdiktatur, alles andere ist doomed to fail...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:17:24.363Z",
+      "text" : "radikale probleme -> radikale lösungen. und die militärdiktatur wird sowieso kommen (kalifat europa)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:18:38.481Z",
+      "text" : "feroz hätte das ALLES heimlich recorden sollen, audio und video"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:19:00.350Z",
+      "text" : "\"sie arschloch\" -- also er hat die diskussion verloren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:19:46.300Z",
+      "text" : "\"die hätten mich gelyncht... die hassen uns\"... oh ja! das wird alles nur noch schlimmer, noch weiter eskalieren...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:20:11.961Z",
+      "text" : "attentat auf stürzenberger...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:20:39.561Z",
+      "text" : "vermutlich ermordete AFD politiker vor lokalwahl...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:21:30.521Z",
+      "text" : "jörg haider -- nationalistischer politiker in österreich -- ermordet von der CIA (drive by wire car remote control)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:21:50.781Z",
+      "text" : "möllemann --- hat sich mit israel angelegt --- ermordet vom mossad..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:22:23.757Z",
+      "text" : "\"ist trotzdem fake news!!\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:22:55.009Z",
+      "text" : "\"benutzung des internets\" <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:24.737Z",
+      "text" : "\"ihr MESSERscharfer verstand\" xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:38.337Z",
+      "text" : "er hätte noch viel viel mehr das wort MESSER einbauen können xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:50.389Z",
+      "text" : "mit MESSERhaften grüßen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:25:47.684Z",
+      "text" : "100% rhetorik.... die scheissen auf harte fakten"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:26:08.735Z",
+      "text" : "schmelztiegelfamilie?? kalifat europa!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:27:26.237Z",
+      "text" : "pff AFD verbot..... die AFD ist controlled opposition, zu spät zu wenig.... altparteien hinterlassen verbrannte erde = crash, blackout"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:27:58.281Z",
+      "text" : "AFD verbot debatte ist auch wieder ne ablenkung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:28:47.101Z",
+      "text" : "ich würde paraguay wählen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:28:55.373Z",
+      "text" : "scheiss auf europa >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:31:48.802Z",
+      "text" : "\"wir sollten geduldig und vorsichtig vorgehen\" ---- bullshit, militärputsch oder untergang"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:32:42.531Z",
+      "text" : "paraguay hat zumindest noch keine migranten-invasion.... aber sicher besser als europa"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:34:12.472Z",
+      "text" : "Marco Rubio <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:34:55.073Z",
+      "text" : "deine \"heimat\" versinkt bald in blackout und bürgerkrieg, have fun"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:36:09.653Z",
+      "text" : "china ist ein mächtiger gegner..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:37:44.770Z",
+      "text" : "meddlferoz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:39:35.465Z",
+      "text" : "mir ist mein leben wichtiger..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:42:13.374Z",
+      "text" : "nein, mir ist mein leben wichtiger als \"meine heimat\"... die meisten deutschen finde ich eeh scheisse 0__o"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:46:32.174Z",
+      "text" : "\"Die Boomer sind hirnlose Verfügungsmasse unserer Gegner. Die sind leicht zu manipulieren, und es sind sehr viele mit sehr vielen Mitteln.\" --- ja, das meine ich mit \"die meisten deutschen finde ich eeh scheisse\".... 80% impfquote, wählen immer wieder altparteien, die meisten konsumieren alkohol und tabak.... nicht meine welt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:47:02.989Z",
+      "text" : "kurz: viel zu viele cukcs"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:48:47.542Z",
+      "text" : "quentin kommt auf \"regime seine todesliste\" in meinem buch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:56:52.391Z",
+      "text" : "\"Honig ist angeblich nicht nenenswert gesünger als raffinierter Zucker\" ---- bin grad aufm carnivore diet trip -> https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:59:11.857Z",
+      "text" : "\"der nimmt steroide\" --- SamaHoole? glaub ich nicht... aber ich kenn den nicht persönlich"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:59:28.485Z",
+      "text" : "komplettgeisteskrankesevent"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:00:12.629Z",
+      "text" : "\"sie sind ein interessanter typ\" ...... weil er ein brauner nazi ist?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:01:53.751Z",
+      "text" : "\"wahrscheinlich steroide\" --- bullshit, lies einfach seine posts.... alles natur bei dem typ  https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:02:55.191Z",
+      "text" : "null ist genug"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:03:25.532Z",
+      "text" : "\"... immer dreister zu lügen\" ohja"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:04:06.164Z",
+      "text" : "stellst du immer so behinderte fragen?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:05:15.674Z",
+      "text" : "einbürgerungstest jedes jahr wiederholen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:05:27.920Z",
+      "text" : "...und nur linke werden eingebürgert"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:06:52.001Z",
+      "text" : "\"face ID\" ist das ende der anonymität im internet.... das mit dem alterscheck ist nur der fuß in der tür (trojanisches pferd)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:07:42.883Z",
+      "text" : "... VPN wird verboten, Tor wird verboten, I2P wird verboten.... zu viele \"fake news\" (wahrheiten) im internet"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:09:23.630Z",
+      "text" : "jesus christus wählt CDU, lässt sich totficken von niggern, und hält noch sein anderes loch hin....."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:11:44.174Z",
+      "text" : "auktion von 12jährigen, wer kennt es nicht?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:12:03.953Z",
+      "text" : "\"zustand: gebraucht aber neuwertig\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:13:04.754Z",
+      "text" : "böhse onkelz ens <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:15:48.196Z",
+      "text" : "westalgiker sind gehirnwäsche-opfer von der US-besatzung seit 1945...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:17:09.397Z",
+      "text" : "\"Chabad-Lubawitsch-Bewegung\" --- bingo..... tilman knechtel, traukeinempromi, metanoia magazin"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:18:38.671Z",
+      "text" : "haha verhaftet.... da hat einer das \"justiz\" system nicht verstanden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:23:49.943Z",
+      "text" : "https://milahu.github.io/alchi/src/whoaremyfriends/wersindmeinefreunde.html#radical-problems"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:24:15.704Z",
+      "text" : "doch, ich meine DAS paradies auf erden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:24:55.333Z",
+      "text" : "gedruckt 200 seiten A5"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:27:36.986Z",
+      "text" : "kalifat europa"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:27:52.567Z",
+      "text" : "linke werden vom hochhaus geworfen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:30:38.847Z",
+      "text" : "...unsere männer an die front schicken zum sterben"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:31:13.058Z",
+      "text" : "träne unters auge"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:32:21.523Z",
+      "text" : "freifunk = wlan mesh network = scheiss latenz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:35:48.991Z",
+      "text" : "ich als vater hab kein sorgerecht weil ich staatsfeind bin...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:36:01.633Z",
+      "text" : "offiziell \"schizophren\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:37:25.291Z",
+      "text" : "junge!! das war zu rääächts!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:38:16.498Z",
+      "text" : "demenz ist auch so eine zivilisationskrankheit.... spätfolge von nährstoffmangel.... lithium mangel und so"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:38:43.731Z",
+      "text" : "suizid mit 60, problem gelöst"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:41:49.866Z",
+      "text" : "göthe und schiller und nietzsche waren auch \"rechts\" im sinn von: aristokratisch, anti-demokratisch, \"die meisten leute sind idioten\", \"eine kleine elite sollte herrschen\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:43:56.472Z",
+      "text" : "meddlloide geht immer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:44:46.458Z",
+      "text" : "haha, sezession in bundesländer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:45:08.326Z",
+      "text" : "ostdeutschland bleibt deutsch, westdeutschland + frankreich + england werden zerfickt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:46:20.238Z",
+      "text" : "visegrad staaten bleiben VIELLEICHT stabil (polen, tschechien, ungarn, slovakei, ...)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:46:52.956Z",
+      "text" : "/votekick krah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:47:21.036Z",
+      "text" : "/votekick (alle cucks in der AFD)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:47:42.485Z",
+      "text" : "\"wir müssen stiefel lecken\" -- krah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:49:06.468Z",
+      "text" : "uhoh, offline treffen wird gebusted von cops"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:49:51.630Z",
+      "text" : "\"rechts\" im sinn von: aristokratisch, \"die meisten menschen sind idioten\", anti-demokratisch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:52:07.971Z",
+      "text" : "derdiedas weib"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:54:21.708Z",
+      "text" : "archive org"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:55:20.216Z",
+      "text" : "naja, wenn man zu langsam redet wird man vom publikum weggeklatscht"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:55:37.693Z",
+      "text" : "NICHTS <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:56:15.457Z",
+      "text" : "meddlloide"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:05:18.679Z",
+      "text" : "rrrrrrrrreeeccht klein"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:07:23.300Z",
+      "text" : "ZWEIFELHAFT!! na wenn sonst nix is"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:08:10.195Z",
+      "text" : "\"auseinandersetzung\" link?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:09:15.637Z",
+      "text" : "username von zett?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:10:02.584Z",
+      "text" : "so spurlos verschwunden wie wolfgang eggert... https://github.com/milahu/wolfgang-eggert-1962-bis-2025"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:14:05.956Z",
+      "text" : "\"alles oder nix\" -- chinesen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:14:55.875Z",
+      "text" : "refuckers welcome"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:15:28.644Z",
+      "text" : "der wird begnadigt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:16:06.988Z",
+      "text" : "aah, natürliche selektion"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:17:03.309Z",
+      "text" : "\"nicht verdient\" -- haha, man merkt du hattest noch keine HD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:17:14.239Z",
+      "text" : "bullen haben access all areas"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:17:54.980Z",
+      "text" : "remigrationäres gedankengut"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:20:16.404Z",
+      "text" : "hatte schon 2 HDs, ein mal wurde ich observiert wegen weed, und ein mal wegen fahrlässigem download von kipo... plus mehrmals psychiatrie-knast nur wegen aussagen (\"der ist suizidal\", \"der hat mich bedroht\")"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:22:23.150Z",
+      "text" : "croissants werden uns retten?!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:24:02.442Z",
+      "text" : "weed HD war in münchen, jahr 2012, die waren mega aggressiv... aber auch bei der kipo HD, alle hardware weg, ~1500 eur schaden, \"auswertung\" dauert viele jahre..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:27:17.758Z",
+      "text" : "fahrlässiger download von kipo über bittorrent. ich seh halt erst nach dem download was drin ist, aber dann haben die schon meine IP geloggt... aber das war nur der vorwand für die HD, tatsächliches ziel war sabotage gegen meine forschung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:28:35.709Z",
+      "text" : "die AFD ist doch eeh schon moderat"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:34:33.509Z",
+      "text" : "hehe, ja, die bettelbriefe kannst ignorieren, interessant wirds beim mahnbescheid vom gericht"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:35:07.251Z",
+      "text" : "linke haben ein monopol aufs extremsein"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:38:08.264Z",
+      "text" : "\"miteinander reden\" klingt so schön einfach"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:39:38.816Z",
+      "text" : "AFDler brauchen mehr gesunde paranoia. linke bazillen überall"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:42:12.839Z",
+      "text" : "er war alleinerziehender vater..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:45:46.609Z",
+      "text" : "der aggressivste im zug darf ganz hinten sitzen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:46:01.600Z",
+      "text" : "alle wissen wer der babo ist"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:46:45.086Z",
+      "text" : "täterschutz..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:47:28.399Z",
+      "text" : "politiker wollen doch eeh schwarzfahren legalisieren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:47:54.794Z",
+      "text" : "mal eben den zug vollgeschissen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:48:35.894Z",
+      "text" : "\"es wurde ja abgeschafft, dass man wegen schwarzfahren im bau geht\" -- haha, nice, gut zu wissen : )"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:48:49.454Z",
+      "text" : "grünfahrer 0__o"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:50:02.426Z",
+      "text" : "\"opfer was willst du machen, überall sind kanacken, ...\" -- KIZ"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:51:05.916Z",
+      "text" : "wenn keiner schuld ist dann sind alle schuld... wir alle haben versagt..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:52:25.645Z",
+      "text" : "was soll er auch machen. normal weglaufen, aber geht nicht im zug"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:53:16.217Z",
+      "text" : "martial arts vital points ..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:54:50.807Z",
+      "text" : "es trifft ALLE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:55:05.253Z",
+      "text" : "weil AFD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:55:40.202Z",
+      "text" : "die haben alle nur angst vor der AFD (\"die AFD will uns abschieben\"), also wir müssen nur die AFD verbieten, und alles wird gut"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:56:27.398Z",
+      "text" : "pff, des \"recht des stärkeren\" gilt sowieso IMMER"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:57:34.155Z",
+      "text" : "jeder steckt hinter jedem, die bilden einen kreis"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:58:10.612Z",
+      "text" : "\"anders, neu, besser!\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T17:58:44.292Z",
+      "text" : "politiker immer: \"wir brauchen mehr polizei\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:00:12.205Z",
+      "text" : "kommentiert die göring-eckardt jeden der totgeprügelt wird?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:00:50.125Z",
+      "text" : "die muss ihre quote liefern"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:02:02.546Z",
+      "text" : "ok, also schwarzfahren ist jetzt quasi legal. next: hausbesetzungen werden legal -> loide, wir sehen uns unter der brücke"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:06:09.015Z",
+      "text" : "ein naiver deutschwer weniger"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:07:47.183Z",
+      "text" : "Tötung von Michael Brown (2014) in Ferguson, Missouri"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:09:33.193Z",
+      "text" : "elektro-taser! bloß keine benzin-taser"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:10:21.311Z",
+      "text" : "haha. ein zugbegleiter gegen 10 kanacken"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:12:04.469Z",
+      "text" : "\"migrant gegen migrant\" ist natürlich viel tragischer als \"migrant gegen deutscher\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:12:49.091Z",
+      "text" : "hierarchie der pigmentierung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:22:01.725Z",
+      "text" : "meddl loide sind krankhaft ehrlich <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:22:17.791Z",
+      "text" : "wir begrüßen uns halt straight mit HURENSOHN"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:23:29.684Z",
+      "text" : "in der psychiatrie kriegst du dafür den stempel \"schwache selbstbeherrschung\" aka \"schizophrenie\"... nur weil du keine angst vor der wahrheit hast, bzw nur weil du nicht stiefel lecken willst bei deinen vorgesetzten"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:25:04.070Z",
+      "text" : "psychiatrische gutachter haben eine freispruchquote von NULL...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:25:14.885Z",
+      "text" : "STÄNDER100"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:26:59.666Z",
+      "text" : "epstein files sind auch wieder nur ablenkung für die \"truther\" spastis... im hintergrund kommen blackout, hungersnot, bürgerkrieg..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:36:54.487Z",
+      "text" : "\"analysis paralysis\" -- ja, ablenkung von echten problemen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:38:08.847Z",
+      "text" : "\"Glücklicherweise bröckelt das ganze Konstrukt\" -- oy vey, du unterschätzt die menge der nützlichen idioten"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:39:53.967Z",
+      "text" : "\"handlungsimperativen Schlussfolgerungen\" -- doomsday prepping..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:43:48.369Z",
+      "text" : "\"die Deutsche Rechte war vor ein paar Jahren noch viel koscherer\" -- realpolitisch stellt sich die frage: wie mächtig ist USrael. beim iran halten sie sich ja zurück, aus angst vor china... aber gegen europa schickt USrael seine \"weapons of mass migration\", und da ist der \"tipping point\" IMHO schon überschritten (genug feindliche soldaten in europa)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:45:12.944Z",
+      "text" : "\"um pleite abzuwenden\" -- haha weil keiner die scheisse freiwillig frisst"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:46:19.067Z",
+      "text" : "so scheisse schmecken insekten gar nicht, problem ist eher das chitin (allergen?)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:47:25.752Z",
+      "text" : "heuschrecken > mehlwürmer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:49:38.389Z",
+      "text" : "planwirtschaft! what could go wrong?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:51:15.138Z",
+      "text" : "weniger CO2, weniger wasser, weniger fläche, ......... aber das grundproblem bleibt die menschliche übervölkerung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:52:42.416Z",
+      "text" : "\"grundproblem bleibt die menschliche übervölkerung\" -- insofern ist \"eat ze bugs\" nur symptompfuscherei von moderaten menschen, die moderate lösungen für radikale probleme suchen (und alle radikalen menschen werden ignoriert oder zensiert)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:52:52.683Z",
+      "text" : "carnivoremaxxing <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:53:30.919Z",
+      "text" : "carnivoremaxxing -> https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:54:11.316Z",
+      "text" : "mini-saal, wie ein mini-auto für 10 clowns : D"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:54:51.232Z",
+      "text" : "haha, gewaltenteilung ist LÜGE... alles eine verschwörung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:56:16.982Z",
+      "text" : "artgerechte haltung für politiker"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:56:32.474Z",
+      "text" : "politiker streichelzoo"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:57:14.042Z",
+      "text" : "\"gleiche bedingungen für alle parteien\" hahahhahahaa naiv"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:57:46.850Z",
+      "text" : "etagenbetten wie im knast"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:58:33.139Z",
+      "text" : "AFD braucht 51%"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T18:59:41.343Z",
+      "text" : "\"entzauberung des systems\" -- schlafschafe schlafen trotzdem weiter und wählen die SED"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:00:43.265Z",
+      "text" : "kölsch ist nicht zumutbare sprache"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:01:09.181Z",
+      "text" : "...und die meisten nachbarn sind eeh schon kanacken"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:01:50.829Z",
+      "text" : "\"extra dumm stellen\" -- denen ist nichts zu blöd, das fasziniert mich auch immer wieder"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:02:07.241Z",
+      "text" : "100% ehrenlose cucks"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:02:24.370Z",
+      "text" : "hauptsache \"ich hab einen sicheren job\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:03:14.690Z",
+      "text" : "DER fußballclub"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:03:49.679Z",
+      "text" : "\"ich heirate mich selber\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:04:13.635Z",
+      "text" : "komm, ausziehen, auf dem rasen ficken, sonst gilts nicht"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:05:21.500Z",
+      "text" : "schwule sind die ultimativen systemrebellen, krasser gehts nicht"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:06:54.281Z",
+      "text" : "WHAT DO BLACKS SAY?\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:07:14.178Z",
+      "text" : "* what the black says"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:07:46.514Z",
+      "text" : "politisch nicht relevant der typ"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:08:59.379Z",
+      "text" : "was für ein nichtrelevanter bullshit schon wieder : X"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:16:44.993Z",
+      "text" : "vergiftetes Kompliment = sarkasmus"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:18:56.932Z",
+      "text" : "pff, vor 200 jahren war die welt perfekt, vor der scheiss industrie"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:20:49.022Z",
+      "text" : "den hier? Andreas Dorfmann: Vom RIAS zu Nius – Propaganda oder Journalismus? https://www.youtube.com/watch?v=1CRdXoFTGyM"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:21:41.958Z",
+      "text" : "ein V-ens"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:22:24.390Z",
+      "text" : "\"normie!\" -- instant unten durch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:24:58.527Z",
+      "text" : "mossad kompromat..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:25:22.213Z",
+      "text" : "der ist so fanatisch, der hat sich schon 10 mal beschneiden lassen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:26:04.633Z",
+      "text" : "israel = zion = judas. besser?!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:27:25.880Z",
+      "text" : "MICE = Money, Ideology, Compromise, Ego"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:29:21.304Z",
+      "text" : "\"unser mandant ist jude, also wir fordern freispruch\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:37:06.267Z",
+      "text" : "krasso != krosso"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:37:27.648Z",
+      "text" : "blame kölsch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:37:45.029Z",
+      "text" : "aaaaaaaah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:40:09.919Z",
+      "text" : "AFD plakate und antifa graffitis..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:40:40.427Z",
+      "text" : "migranten indikator: guckstu öffentliche plätze im sommer..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:49:50.558Z",
+      "text" : "was hat der boi studiert?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:50:47.370Z",
+      "text" : "happy death day to you"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:52:03.008Z",
+      "text" : "shlomosexuell <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:55:00.958Z",
+      "text" : "heute schon menschenbabys gefressen?!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:56:40.443Z",
+      "text" : "zu viel collateral damage. deswegen migranten-invasion"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T19:56:48.922Z",
+      "text" : "meddl katalog?!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T20:00:38.558Z",
+      "text" : "\"keine Tötungsabsicht\" -- bei den sozialisten von 1933 war totschlag ja auch quasi-legal (?)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T20:02:32.493Z",
+      "text" : "wazzoaant"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T20:12:31.689Z",
+      "text" : "KURVAsaaoooo"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T20:16:00.049Z",
+      "text" : "wird alles totgeschwiegen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T20:20:36.614Z",
+      "text" : "yep, EU-Filter nervt... gibts schon brauchbare onion forums? cebulka ist ja voll scheisse, überall captchas"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T20:21:28.346Z",
+      "text" : "utopia -- beste serie : P"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T20:22:48.749Z",
+      "text" : "..mmh, bis sie VPN/Tor/I2P auch verbieten .__."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T20:23:42.182Z",
+      "text" : "wie weitermachen? -- echte probleme im hier und jetzt suchen und lösen... und sich nicht permanent ablenken lassen durch pseudoprobleme"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1RDGlAzbojEJL",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-08T20:26:19.590Z",
+      "text" : "\"Internet wirklich hart zensiert\" --  meshtastic LoRa off-grid networking https://en.wikipedia.org/wiki/Meshtastic"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:10:54.653Z",
+      "text" : "https://milahu.github.io/alchi/src/whoaremyfriends/wersindmeinefreunde.html#radical-problems"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:12:23.764Z",
+      "text" : "hirntot?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:14:32.577Z",
+      "text" : "\"zeigt reue\" -> freispruch!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:14:44.360Z",
+      "text" : "\"nicht erklären\" xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:15:54.270Z",
+      "text" : "hier hat es ein mal den richtigen getroffen: https://github.com/milahu/dominik-sobota-vs-rainer-gerth -- Am 8. April 2024 ersticht Dominik Sobota den Dr. Rainer Gerth in Wasserburg am Inn"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:18:23.212Z",
+      "text" : "familienclans, alte deutsche tradition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:18:56.639Z",
+      "text" : "müller, huber, hainz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:19:18.482Z",
+      "text" : "\"inzwischen\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:20:01.924Z",
+      "text" : "sind wir nicht alle in rockerbanden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:20:12.704Z",
+      "text" : "*passdeutsch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:21:06.965Z",
+      "text" : "haha, einfach das gegenteil behaupten und mit scheisse werfen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:22:31.087Z",
+      "text" : "die steigerung von kriminalität und todesrate ist ja ein hauptziel der migranten-invasion"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:22:50.342Z",
+      "text" : "keine twitter notification"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:23:19.175Z",
+      "text" : "shlomo shadowcucked auf twitter?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:24:22.560Z",
+      "text" : "7K im monat? will ich auch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:25:04.640Z",
+      "text" : "ich hab 100 imaginäre kinder, wo ist mein geld?!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:25:48.436Z",
+      "text" : "\"es ist kompliziert\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:26:08.117Z",
+      "text" : "aggressiv = nicht auf knien flehend"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:27:18.238Z",
+      "text" : "kassieren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:28:50.764Z",
+      "text" : "kriegst trotzdem auf die fresse wegen deinem aggressiven konti outfit"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:32:22.346Z",
+      "text" : "\"rinder sind böse\" -> genau das gegenteil ist die wahrheit, wie so oft -> carnivore diet: https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:39:12.522Z",
+      "text" : "\"polizeieinsatz wegen psychischer gesundheit\" -- dazu reicht wenn ein nachbar die bullen ruft mit \"ich fühle mich belästigt von dem\"...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:39:38.372Z",
+      "text" : "soll seine mumu zeigen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:33.530Z",
+      "text" : "\"dass gewalt eine lösung sei\" --- pfff gewalt ist eine lösung, das ganze system baut auf gewalt.... opfer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:40.681Z",
+      "text" : "*keine"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:40:43.581Z",
+      "text" : "*eine"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:41:35.154Z",
+      "text" : "\"reddit\".... alles klar... was für ein shithole >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:41:59.015Z",
+      "text" : "die meisten leute auf reddit sind so behindert..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:42:23.081Z",
+      "text" : "reddit verbieten, problem gelöst"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:43:50.162Z",
+      "text" : "reddit2 verbieten, reddit3 verbieten, ..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:44:21.568Z",
+      "text" : "\"libertär\" -- instant 10 IQ punkte verloren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:00.956Z",
+      "text" : "\"eine welt voller hass\" -- aww das klingt traumhaft"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:27.224Z",
+      "text" : "\"transkind\" -- auch wieder nur ein opfer von dummen/bösen kindern"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:32.341Z",
+      "text" : "low-dose DMT oh yeah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:45:57.032Z",
+      "text" : "\"komplett kaputter typ\" -- haha, selber keine erfahrung mit drogen, aber scheisse über drogen user reden? weak"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:47:22.818Z",
+      "text" : "\"putin ist schuld!\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:47:58.174Z",
+      "text" : "shlo muss dringend DMT rauchen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:48:43.169Z",
+      "text" : "feroz der eiserne"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:50:55.735Z",
+      "text" : "gyros, alte deutsche tradition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:07.560Z",
+      "text" : "der deutscheste pali der welt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:12.700Z",
+      "text" : "*paki"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:51:48.425Z",
+      "text" : "quoten brownie"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:53:14.540Z",
+      "text" : "yeah. welche anstaltung?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:54:26.941Z",
+      "text" : "they are noticing. SHUT IT DOWN!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:29.311Z",
+      "text" : "prozess gegen 40% von deutschland"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:42.359Z",
+      "text" : "gewalt ist herrlich, was sonst?!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:55:57.333Z",
+      "text" : "zeig logo"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:57:32.834Z",
+      "text" : "die AFD träumt nachts heimlich von \"ausländer raus\".... instant verbieten!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T17:59:10.256Z",
+      "text" : "sellner?! da kannst auch gleich adolf hitler einladen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:00:24.838Z",
+      "text" : "keiner redet so schön über \"remigration\" wie martin sellner .... blaa blaa blaaa blaaa blaaaaa... nur gelaber den ganzen tag, aber alles bleibt scheisse, und keiner versteht warum...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:04:22.707Z",
+      "text" : "eisbrecher:innen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:04:52.968Z",
+      "text" : "aussen:innen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:05:10.997Z",
+      "text" : "man hätte ihn dafür auslachen müssen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:06:30.515Z",
+      "text" : "...und am ende vom stück werden AFD politiker mit einer guillotine geköpft"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:07:29.959Z",
+      "text" : "\"die warze ist mein alleinstellungsmerkmal\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:07:39.463Z",
+      "text" : "\"sind sie ein cuck?\" -- \"jaa\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:08:18.851Z",
+      "text" : "\"totschlag ist eine angemessene gewaltform\" -- faschisten immer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:09:46.952Z",
+      "text" : "gefühlte 1% der migranten sind \"frauen und kinder\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:10:41.216Z",
+      "text" : "für kuchenwerfen kriegst du als rechter \"versuchter totschlag\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:11:24.825Z",
+      "text" : "lord sellnermort"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:12:38.823Z",
+      "text" : "verschwörung, alle gegen einen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:18:04.695Z",
+      "text" : "feroz ist so naiv.... die arbeiten ALLE zusammen, das ist eine große verschwörung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:18:52.879Z",
+      "text" : "\"Warum reden die über diese Veranstaltung\" --- ja, schon wieder so eine scheiss unrelevante scheisse......"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:20:22.592Z",
+      "text" : "\"Wen wollte man überzeugen? Man braucht sich nur das Publikum anzusehen: Alles verlorene Seelen\" -- yes. echokammer. mentaler inzest"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:22:23.161Z",
+      "text" : "\"Solchen Leuten muss man ihre Lebenslügen lassen und ihnen nicht noch den Ruhestand verderben.\" --- nein!! energieverschwendung. weg damit!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:22:48.511Z",
+      "text" : "richtig gecastet... alter weisser cuck"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:09.625Z",
+      "text" : "impfstatus 100000 impfungen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:29.138Z",
+      "text" : "lieblingssport auf der couch sitzen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:23:49.601Z",
+      "text" : "cuck kritik"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:03.356Z",
+      "text" : "\"traue keinem über 45\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:20.022Z",
+      "text" : "\"ich gelobe alle fotzen zu zerficken\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:26:52.928Z",
+      "text" : "feroz ist 25% deutscher"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:28:47.367Z",
+      "text" : "\"sie sind ein interessanter typ\" --- aussen braun und innen braun 0___o"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:22.053Z",
+      "text" : "\"ich kenne diese zahl nicht\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:41.785Z",
+      "text" : "YESS"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:29:57.193Z",
+      "text" : "\"das sagt viel über sie aus und nichts über mich\"!!!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:03.914Z",
+      "text" : "HUUUUREEEE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:13.582Z",
+      "text" : "HALT DIE FRESSE HUREE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:29.926Z",
+      "text" : "haha, ich wäre gegangen, scheiss kindergarten"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:30:44.066Z",
+      "text" : "\"ich bin hier raus, fickt euch alle\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:31:08.858Z",
+      "text" : "die arroganz ist so widerlich"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:31:35.784Z",
+      "text" : "sie provozieren 24/7 und wenn du ein falsches wort sagst dann bist du der böse"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:32:10.798Z",
+      "text" : "feroz hätte laut lachen sollen und einfach gehen..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:34:01.870Z",
+      "text" : "gegneranalyse.."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:01.277Z",
+      "text" : "pff, die wusste genau welche zahl das ist, die hat sich einfach extrem dumm gestellt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:41.430Z",
+      "text" : "die zahl kann man mit 20 sekunden google \"beweisen\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:35:50.637Z",
+      "text" : "haben die kein internet?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:36:41.986Z",
+      "text" : "linke sind unsportlich per definition"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:37:26.587Z",
+      "text" : "vegan-cuck wtf?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:38:28.368Z",
+      "text" : "linke = unsportlich = verlogen = kriminell...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:26.679Z",
+      "text" : "feroz, einer gegen alle"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:41.788Z",
+      "text" : "mentaler inzest"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:50.800Z",
+      "text" : "gleichschaltung, lockstep"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:39:56.968Z",
+      "text" : "faschismus = keine oppositin"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:41:27.845Z",
+      "text" : "die frage \"kennen sie messerstecher\" sollte man ignorieren als scheiss-frage, und weiter zur nächsten frage"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:41:55.497Z",
+      "text" : "man muss nicht über jedes stöckchen springen, man muss sich nicht von jedem scheiss provozieren lassen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:42:03.758Z",
+      "text" : "GETÖTET HAT"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:42:56.622Z",
+      "text" : "WO SOLLEN DIE SONST HIN AUSSER NACH DEUTSCHLAND???"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:43:16.486Z",
+      "text" : "\"entschuldigung aber sie sind dumm\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:43:46.290Z",
+      "text" : "so fertig diese leute...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:01.435Z",
+      "text" : "\"ich ertrage deren hinterfotzigkeit nicht mehr\" +1"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:24.010Z",
+      "text" : "schon wieder sone scheiss frage, wtf"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:28.063Z",
+      "text" : "null relevanz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:44:59.291Z",
+      "text" : "\"was war das für eine Fragerunde\" -- prozess gegen deutschland"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:45:50.670Z",
+      "text" : "mönch frisur...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:47:49.241Z",
+      "text" : "wenn man auf der sachebene schon verloren hat, dann muss man persönlich werden.... ad-hominem angriffe, \"linke scheisse\", lügen, rhetorik...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:48:41.826Z",
+      "text" : "lineare fortsetung? eher exponentielle fortsetzung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:48:55.194Z",
+      "text" : "GAULAND IST MEIN FÜHRER"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:49:45.986Z",
+      "text" : "\"differenziert\" -- gute antwort"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:50:14.714Z",
+      "text" : "\"wie finden sie X\" ---- die frage ist zu ungenau"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:50:58.134Z",
+      "text" : "100%"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:37.000Z",
+      "text" : "mathematische notwendigkeit"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:44.315Z",
+      "text" : "\"sie sind paranoid\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:51:58.427Z",
+      "text" : "NICE"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:52:08.482Z",
+      "text" : "\"dummes zeug\" rache"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:53:04.416Z",
+      "text" : "dieses verhör läuft ähnlich wie in der psychiatrie..... egal was du sagst, du bist immer \"verrückt\" und \"paranoid\" und \"dumm\"...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:53:30.937Z",
+      "text" : "psychiatrie / hexenprozess"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:54:30.562Z",
+      "text" : "wem will er keine bühne geben? dem feroz?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:55:22.997Z",
+      "text" : "hose runterziehen und einen kackhaufen auf der bühne hinterlassen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:56:03.971Z",
+      "text" : "\"So n Gericht hab ich schonmal in Idiocracy gesehen.\" ---- aaaah. auch idiocracy ist ein instruction manual"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:57:17.810Z",
+      "text" : "zensur ist eine faschistische methode"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:58:52.438Z",
+      "text" : "feroz unser schäbiger lump <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T18:59:14.717Z",
+      "text" : "neutral?! nur tote sind neutral, alles leben hat neigung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:00:02.875Z",
+      "text" : "feroz hätte parallel einen privaten livestream machen sollen und das event weiter kommentieren : D"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:03:04.368Z",
+      "text" : "das haben die trainiert, vorbereitet, geskriptet"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:03:46.641Z",
+      "text" : "scheiss kindergarten niveau.... die sind doch alle hirntot geimpft >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:05:55.076Z",
+      "text" : "feroz \"fakenews\" khan"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:06:36.406Z",
+      "text" : "blamiert..... die linken haben keine besseren leute : D"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:09.222Z",
+      "text" : "feroz wird nie wieder eingeladen von linken xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:20.558Z",
+      "text" : "feroz \"blacklisted\" khan"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:07:48.434Z",
+      "text" : "google -> afd youtuber -> feroz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:08:24.740Z",
+      "text" : "ziel der aktion? steuergeld kassieren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:09:25.857Z",
+      "text" : "nur wer scheisse baut muss \"nett\" sein.... extrem antimeddl"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:10:00.463Z",
+      "text" : "\"kloschüssel\" --- gesichert rechtsextremer kampfbegriff"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:11:00.081Z",
+      "text" : "\"Du Dieter ick frach mal meenen Neffen, der kennt solche Kanäle\" ---- der neffe ist heimlich rechter und wollte seine linke family ficken"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:12:12.978Z",
+      "text" : "der rechte neffe, das schwarze schaf der linken familie, wird bald zur adoption freigegeben"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:12:44.120Z",
+      "text" : "war livestream"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:14:14.213Z",
+      "text" : "chris ares - defend europe"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:14:57.777Z",
+      "text" : "https://www.youtube.com/watch?v=4ebzYtQ9MT8 ---- Chris Ares - Defend Europe"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:16:55.820Z",
+      "text" : "wir brauchen militärputsch und militärdiktatur, alles andere ist doomed to fail...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:17:24.363Z",
+      "text" : "radikale probleme -> radikale lösungen. und die militärdiktatur wird sowieso kommen (kalifat europa)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:18:38.481Z",
+      "text" : "feroz hätte das ALLES heimlich recorden sollen, audio und video"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:19:00.350Z",
+      "text" : "\"sie arschloch\" -- also er hat die diskussion verloren"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:19:46.300Z",
+      "text" : "\"die hätten mich gelyncht... die hassen uns\"... oh ja! das wird alles nur noch schlimmer, noch weiter eskalieren...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:20:11.961Z",
+      "text" : "attentat auf stürzenberger...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:20:39.561Z",
+      "text" : "vermutlich ermordete AFD politiker vor lokalwahl...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:21:30.521Z",
+      "text" : "jörg haider -- nationalistischer politiker in österreich -- ermordet von der CIA (drive by wire car remote control)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:21:50.781Z",
+      "text" : "möllemann --- hat sich mit israel angelegt --- ermordet vom mossad..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:22:23.757Z",
+      "text" : "\"ist trotzdem fake news!!\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:22:55.009Z",
+      "text" : "\"benutzung des internets\" <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:24.737Z",
+      "text" : "\"ihr MESSERscharfer verstand\" xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:38.337Z",
+      "text" : "er hätte noch viel viel mehr das wort MESSER einbauen können xD"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:23:50.389Z",
+      "text" : "mit MESSERhaften grüßen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:25:47.684Z",
+      "text" : "100% rhetorik.... die scheissen auf harte fakten"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:26:08.735Z",
+      "text" : "schmelztiegelfamilie?? kalifat europa!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:27:26.237Z",
+      "text" : "pff AFD verbot..... die AFD ist controlled opposition, zu spät zu wenig.... altparteien hinterlassen verbrannte erde = crash, blackout"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:27:58.281Z",
+      "text" : "AFD verbot debatte ist auch wieder ne ablenkung"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:28:47.101Z",
+      "text" : "ich würde paraguay wählen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:28:55.373Z",
+      "text" : "scheiss auf europa >: ("
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:31:48.802Z",
+      "text" : "\"wir sollten geduldig und vorsichtig vorgehen\" ---- bullshit, militärputsch oder untergang"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:32:42.531Z",
+      "text" : "paraguay hat zumindest noch keine migranten-invasion.... aber sicher besser als europa"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:34:12.472Z",
+      "text" : "Marco Rubio <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:34:55.073Z",
+      "text" : "deine \"heimat\" versinkt bald in blackout und bürgerkrieg, have fun"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:36:09.653Z",
+      "text" : "china ist ein mächtiger gegner..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:37:44.770Z",
+      "text" : "meddlferoz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:39:35.465Z",
+      "text" : "mir ist mein leben wichtiger..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:42:13.374Z",
+      "text" : "nein, mir ist mein leben wichtiger als \"meine heimat\"... die meisten deutschen finde ich eeh scheisse 0__o"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:46:32.174Z",
+      "text" : "\"Die Boomer sind hirnlose Verfügungsmasse unserer Gegner. Die sind leicht zu manipulieren, und es sind sehr viele mit sehr vielen Mitteln.\" --- ja, das meine ich mit \"die meisten deutschen finde ich eeh scheisse\".... 80% impfquote, wählen immer wieder altparteien, die meisten konsumieren alkohol und tabak.... nicht meine welt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:47:02.989Z",
+      "text" : "kurz: viel zu viele cukcs"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:48:47.542Z",
+      "text" : "quentin kommt auf \"regime seine todesliste\" in meinem buch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:56:52.391Z",
+      "text" : "\"Honig ist angeblich nicht nenenswert gesünger als raffinierter Zucker\" ---- bin grad aufm carnivore diet trip -> https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:59:11.857Z",
+      "text" : "\"der nimmt steroide\" --- SamaHoole? glaub ich nicht... aber ich kenn den nicht persönlich"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T19:59:28.485Z",
+      "text" : "komplettgeisteskrankesevent"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:00:12.629Z",
+      "text" : "\"sie sind ein interessanter typ\" ...... weil er ein brauner nazi ist?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:01:53.751Z",
+      "text" : "\"wahrscheinlich steroide\" --- bullshit, lies einfach seine posts.... alles natur bei dem typ  https://x.com/SamaHoole"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:02:55.191Z",
+      "text" : "null ist genug"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:03:25.532Z",
+      "text" : "\"... immer dreister zu lügen\" ohja"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:04:06.164Z",
+      "text" : "stellst du immer so behinderte fragen?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:05:15.674Z",
+      "text" : "einbürgerungstest jedes jahr wiederholen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:05:27.920Z",
+      "text" : "...und nur linke werden eingebürgert"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:06:52.001Z",
+      "text" : "\"face ID\" ist das ende der anonymität im internet.... das mit dem alterscheck ist nur der fuß in der tür (trojanisches pferd)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:07:42.883Z",
+      "text" : "... VPN wird verboten, Tor wird verboten, I2P wird verboten.... zu viele \"fake news\" (wahrheiten) im internet"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:09:23.630Z",
+      "text" : "jesus christus wählt CDU, lässt sich totficken von niggern, und hält noch sein anderes loch hin....."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:11:44.174Z",
+      "text" : "auktion von 12jährigen, wer kennt es nicht?"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:12:03.953Z",
+      "text" : "\"zustand: gebraucht aber neuwertig\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:13:04.754Z",
+      "text" : "böhse onkelz ens <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:15:48.196Z",
+      "text" : "westalgiker sind gehirnwäsche-opfer von der US-besatzung seit 1945...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:17:09.397Z",
+      "text" : "\"Chabad-Lubawitsch-Bewegung\" --- bingo..... tilman knechtel, traukeinempromi, metanoia magazin"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:18:38.671Z",
+      "text" : "haha verhaftet.... da hat einer das \"justiz\" system nicht verstanden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:23:49.943Z",
+      "text" : "https://milahu.github.io/alchi/src/whoaremyfriends/wersindmeinefreunde.html#radical-problems"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:24:15.704Z",
+      "text" : "doch, ich meine DAS paradies auf erden"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:24:55.333Z",
+      "text" : "gedruckt 200 seiten A5"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:27:36.986Z",
+      "text" : "kalifat europa"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:27:52.567Z",
+      "text" : "linke werden vom hochhaus geworfen"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:30:38.847Z",
+      "text" : "...unsere männer an die front schicken zum sterben"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:31:13.058Z",
+      "text" : "träne unters auge"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:32:21.523Z",
+      "text" : "freifunk = wlan mesh network = scheiss latenz"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:35:48.991Z",
+      "text" : "ich als vater hab kein sorgerecht weil ich staatsfeind bin...."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:36:01.633Z",
+      "text" : "offiziell \"schizophren\""
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:37:25.291Z",
+      "text" : "junge!! das war zu rääächts!!"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:38:16.498Z",
+      "text" : "demenz ist auch so eine zivilisationskrankheit.... spätfolge von nährstoffmangel.... lithium mangel und so"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:38:43.731Z",
+      "text" : "suizid mit 60, problem gelöst"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:41:49.866Z",
+      "text" : "göthe und schiller und nietzsche waren auch \"rechts\" im sinn von: aristokratisch, anti-demokratisch, \"die meisten leute sind idioten\", \"eine kleine elite sollte herrschen\"..."
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:43:56.472Z",
+      "text" : "meddlloide geht immer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:44:46.458Z",
+      "text" : "haha, sezession in bundesländer"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:45:08.326Z",
+      "text" : "ostdeutschland bleibt deutsch, westdeutschland + frankreich + england werden zerfickt"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:46:20.238Z",
+      "text" : "visegrad staaten bleiben VIELLEICHT stabil (polen, tschechien, ungarn, slovakei, ...)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:46:52.956Z",
+      "text" : "/votekick krah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:47:21.036Z",
+      "text" : "/votekick (alle cucks in der AFD)"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:47:42.485Z",
+      "text" : "\"wir müssen stiefel lecken\" -- krah"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:49:06.468Z",
+      "text" : "uhoh, offline treffen wird gebusted von cops"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:49:51.630Z",
+      "text" : "\"rechts\" im sinn von: aristokratisch, \"die meisten menschen sind idioten\", anti-demokratisch"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:52:07.971Z",
+      "text" : "derdiedas weib"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:54:21.708Z",
+      "text" : "archive org"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:55:20.216Z",
+      "text" : "naja, wenn man zu langsam redet wird man vom publikum weggeklatscht"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:55:37.693Z",
+      "text" : "NICHTS <3"
+    }
+  },
+  {
+    "periscopeCommentsMadeByUser" : {
+      "broadcastId" : "1YqGollmEqzJv",
+      "byAccountId" : "1eRExZreWmMKw",
+      "createdAt" : "2026-02-15T20:56:15.457Z",
+      "text" : "meddlloide"
     }
   }
 ]

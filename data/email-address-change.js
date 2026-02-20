@@ -25,5 +25,14 @@ window.YTD.email_address_change.part0 = [
         "changedTo" : "milahu@protonmail.com"
       }
     }
+  },
+  {
+    "emailAddressChange" : {
+      "accountId" : "1964312974236991488",
+      "emailChange" : {
+        "changedAt" : "2026-02-13T13:40:39.000Z",
+        "changedTo" : "milahu@protonmail.com"
+      }
+    }
   }
 ]

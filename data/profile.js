@@ -2,7 +2,7 @@ window.YTD.profile.part0 = [
   {
     "profile" : {
       "description" : {
-        "bio" : "#ShadowBanned as always. #HateTwitter. #HateMaintainers. #blackout in 3... 2... 1...",
+        "bio" : "#ShadowBanned as always. #HateTwitter. #HateMaintainers.\nbuying attention for my book (Pallas. Who are my friends).\n#blackout in 3... 2... 1...",
         "website" : "https://t.co/RL76DqYwVT",
         "location" : "Munich, Germany"
       },

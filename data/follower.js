@@ -1,8 +1,14 @@
 window.YTD.follower.part0 = [
   {
     "follower" : {
-      "accountId" : "1686785068151541760",
-      "userLink" : "https://twitter.com/intent/user?user_id=1686785068151541760"
+      "accountId" : "1882158363930411008",
+      "userLink" : "https://twitter.com/intent/user?user_id=1882158363930411008"
+    }
+  },
+  {
+    "follower" : {
+      "accountId" : "1279942454960160769",
+      "userLink" : "https://twitter.com/intent/user?user_id=1279942454960160769"
     }
   },
   {
@@ -79,12 +85,6 @@ window.YTD.follower.part0 = [
   },
   {
     "follower" : {
-      "accountId" : "2018727508829417472",
-      "userLink" : "https://twitter.com/intent/user?user_id=2018727508829417472"
-    }
-  },
-  {
-    "follower" : {
       "accountId" : "1557539005000200193",
       "userLink" : "https://twitter.com/intent/user?user_id=1557539005000200193"
     }
@@ -121,20 +121,8 @@ window.YTD.follower.part0 = [
   },
   {
     "follower" : {
-      "accountId" : "364471703",
-      "userLink" : "https://twitter.com/intent/user?user_id=364471703"
-    }
-  },
-  {
-    "follower" : {
       "accountId" : "1899976129923956736",
       "userLink" : "https://twitter.com/intent/user?user_id=1899976129923956736"
-    }
-  },
-  {
-    "follower" : {
-      "accountId" : "776805301",
-      "userLink" : "https://twitter.com/intent/user?user_id=776805301"
     }
   },
   {
@@ -181,6 +169,12 @@ window.YTD.follower.part0 = [
   },
   {
     "follower" : {
+      "accountId" : "2013695582280257536",
+      "userLink" : "https://twitter.com/intent/user?user_id=2013695582280257536"
+    }
+  },
+  {
+    "follower" : {
       "accountId" : "2815014648",
       "userLink" : "https://twitter.com/intent/user?user_id=2815014648"
     }
@@ -201,12 +195,6 @@ window.YTD.follower.part0 = [
     "follower" : {
       "accountId" : "2591186089",
       "userLink" : "https://twitter.com/intent/user?user_id=2591186089"
-    }
-  },
-  {
-    "follower" : {
-      "accountId" : "325079590",
-      "userLink" : "https://twitter.com/intent/user?user_id=325079590"
     }
   },
   {

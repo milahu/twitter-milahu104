@@ -24,6 +24,19 @@ window.YTD.direct_messages.part0 = [
       "messages" : [
         {
           "messageCreate" : {
+            "recipientId" : "2846154391",
+            "reactions" : [ ],
+            "urls" : [ ],
+            "text" : "hey, thanks for the reply.\n\n\"It takes time and effort\" -- yep, i have already spent about 5 years and 20.000 euros on this project, and i still have zero feedback. so i am always looking for \"multiplicators\" to promote my project. me paying money for such a promotion is my way to prove that i am serious about this.\n\nif my hypothesis is true, then i have found a solution to build \"paradise on earth\" (stable groups, tribalism, self-organization, village culture, decentralization)... but maybe my hypothesis is false, then my project is a waste of time.\n\ncompared to europe, mexico sounds like a place that will be livable in the near future (western europe will collapse in the next months) (if i had more money, i would emigrate to south america, i guess only 10.000 euros wont be enough)",
+            "mediaUrls" : [ ],
+            "senderId" : "1964312974236991488",
+            "id" : "2022395501518229939",
+            "createdAt" : "2026-02-13T19:40:36.589Z",
+            "editHistory" : [ ]
+          }
+        },
+        {
+          "messageCreate" : {
             "recipientId" : "1964312974236991488",
             "reactions" : [ ],
             "urls" : [ ],
@@ -31,7 +44,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "2846154391",
             "id" : "2020990639995806191",
-            "createdAt" : "2026-02-09T22:38:11.458Z"
+            "createdAt" : "2026-02-09T22:38:11.458Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -43,7 +57,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "2846154391",
             "id" : "2020990449125622068",
-            "createdAt" : "2026-02-09T22:37:25.955Z"
+            "createdAt" : "2026-02-09T22:37:25.955Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -258,7 +273,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "1964312974236991488",
             "id" : "2019333031526310254",
-            "createdAt" : "2026-02-05T08:51:26.806Z"
+            "createdAt" : "2026-02-05T08:51:26.806Z",
+            "editHistory" : [ ]
           }
         },
         {

@@ -4,6 +4,546 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
+            "2024501936435655121"
+          ],
+          "editableUntil" : "2026-02-19T16:10:49.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Manuel Schwalm",
+            "screen_name" : "coolservativ",
+            "indices" : [
+              "0",
+              "13"
+            ],
+            "id_str" : "791612573531668481",
+            "id" : "791612573531668481"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "127"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "2024407536380604913",
+      "id_str" : "2024501936435655121",
+      "in_reply_to_user_id" : "791612573531668481",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "2024501936435655121",
+      "in_reply_to_status_id" : "2024407536380604913",
+      "created_at" : "Thu Feb 19 15:10:49 +0000 2026",
+      "favorited" : false,
+      "full_text" : "@coolservativ \"Einfluss- und Desinformationskampagnen\"\n\ngilt das auch für schulzwang und GEZ?\noder fällt das unter doppelmoral?",
+      "lang" : "de",
+      "in_reply_to_screen_name" : "coolservativ",
+      "in_reply_to_user_id_str" : "791612573531668481",
+      "deleted_at" : "Thu Feb 19 15:10:58 +0000 2026"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "2022382788524282152"
+          ],
+          "editableUntil" : "2026-02-13T19:50:05.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Dr. Roger McFillin",
+            "screen_name" : "DrMcFillin",
+            "indices" : [
+              "0",
+              "11"
+            ],
+            "id_str" : "949101606930386944",
+            "id" : "949101606930386944"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "208"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "2022011525251444958",
+      "id_str" : "2022382788524282152",
+      "in_reply_to_user_id" : "949101606930386944",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "2022382788524282152",
+      "in_reply_to_status_id" : "2022011525251444958",
+      "created_at" : "Fri Feb 13 18:50:05 +0000 2026",
+      "favorited" : false,
+      "full_text" : "@DrMcFillin i spent about 2 years in psychiatry in total. most people in psychiatry are human trash. a small number of people in psychiatry are political prisoners (\"communists\", potential resistance leaders)",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "DrMcFillin",
+      "in_reply_to_user_id_str" : "949101606930386944",
+      "deleted_at" : "Fri Feb 13 18:50:14 +0000 2026"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "2022381146756300858"
+          ],
+          "editableUntil" : "2026-02-13T19:43:34.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Sama Hoole",
+            "screen_name" : "SamaHoole",
+            "indices" : [
+              "0",
+              "10"
+            ],
+            "id_str" : "2253756806",
+            "id" : "2253756806"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "49"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "2022366687258120678",
+      "id_str" : "2022381146756300858",
+      "in_reply_to_user_id" : "2253756806",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "2022381146756300858",
+      "in_reply_to_status_id" : "2022366687258120678",
+      "created_at" : "Fri Feb 13 18:43:34 +0000 2026",
+      "favorited" : false,
+      "full_text" : "@SamaHoole doybean oil is machine oil (biodiesel)",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "SamaHoole",
+      "in_reply_to_user_id_str" : "2253756806",
+      "deleted_at" : "Fri Feb 13 18:43:53 +0000 2026"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "2021663409495060819"
+          ],
+          "editableUntil" : "2026-02-11T20:11:32.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Liberty Hannes 🇻🇪",
+            "screen_name" : "LibertyHannes",
+            "indices" : [
+              "0",
+              "14"
+            ],
+            "id_str" : "1503448759031812102",
+            "id" : "1503448759031812102"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "57"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "2021492687086501969",
+      "id_str" : "2021663409495060819",
+      "in_reply_to_user_id" : "1503448759031812102",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "2021663409495060819",
+      "in_reply_to_status_id" : "2021492687086501969",
+      "created_at" : "Wed Feb 11 19:11:32 +0000 2026",
+      "favorited" : false,
+      "full_text" : "@LibertyHannes wer absurdes glaubt der wird grausames tun",
+      "lang" : "de",
+      "in_reply_to_screen_name" : "LibertyHannes",
+      "in_reply_to_user_id_str" : "1503448759031812102",
+      "deleted_at" : "Wed Feb 11 19:11:44 +0000 2026"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "2021632960106225977"
+          ],
+          "editableUntil" : "2026-02-11T18:10:32.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Jeff Lawn",
+            "screen_name" : "taco_truck_tues",
+            "indices" : [
+              "0",
+              "16"
+            ],
+            "id_str" : "1538600842735063040",
+            "id" : "1538600842735063040"
+          },
+          {
+            "name" : "Dr. Tau Braun",
+            "screen_name" : "drtaubraun",
+            "indices" : [
+              "17",
+              "28"
+            ],
+            "id_str" : "1525086211249000449",
+            "id" : "1525086211249000449"
+          },
+          {
+            "name" : "Geert Vanden Bossche",
+            "screen_name" : "GVDBossche",
+            "indices" : [
+              "29",
+              "40"
+            ],
+            "id_str" : "1367092300627771402",
+            "id" : "1367092300627771402"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/ok6kk1RE5J",
+            "expanded_url" : "https://x.com/milahu104/status/2015348168754372672",
+            "display_url" : "x.com/milahu104/stat…",
+            "indices" : [
+              "41",
+              "64"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "64"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "2021309295812296838",
+      "id_str" : "2021632960106225977",
+      "in_reply_to_user_id" : "1538600842735063040",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "2021632960106225977",
+      "in_reply_to_status_id" : "2021309295812296838",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Feb 11 17:10:32 +0000 2026",
+      "favorited" : false,
+      "full_text" : "@taco_truck_tues @drtaubraun @GVDBossche https://t.co/ok6kk1RE5J",
+      "lang" : "qme",
+      "in_reply_to_screen_name" : "taco_truck_tues",
+      "in_reply_to_user_id_str" : "1538600842735063040",
+      "deleted_at" : "Wed Feb 11 17:13:13 +0000 2026"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "2021632886206869545"
+          ],
+          "editableUntil" : "2026-02-11T18:10:14.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Dr. Tau Braun",
+            "screen_name" : "drtaubraun",
+            "indices" : [
+              "0",
+              "11"
+            ],
+            "id_str" : "1525086211249000449",
+            "id" : "1525086211249000449"
+          },
+          {
+            "name" : "Jeff Lawn",
+            "screen_name" : "taco_truck_tues",
+            "indices" : [
+              "12",
+              "28"
+            ],
+            "id_str" : "1538600842735063040",
+            "id" : "1538600842735063040"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/ok6kk1RE5J",
+            "expanded_url" : "https://x.com/milahu104/status/2015348168754372672",
+            "display_url" : "x.com/milahu104/stat…",
+            "indices" : [
+              "29",
+              "52"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "52"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "2021316372945305782",
+      "id_str" : "2021632886206869545",
+      "in_reply_to_user_id" : "1525086211249000449",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "2021632886206869545",
+      "in_reply_to_status_id" : "2021316372945305782",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Feb 11 17:10:14 +0000 2026",
+      "favorited" : false,
+      "full_text" : "@drtaubraun @taco_truck_tues https://t.co/ok6kk1RE5J",
+      "lang" : "qme",
+      "in_reply_to_screen_name" : "drtaubraun",
+      "in_reply_to_user_id_str" : "1525086211249000449",
+      "deleted_at" : "Wed Feb 11 17:10:28 +0000 2026"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "2021599182604116350"
+          ],
+          "editableUntil" : "2026-02-11T15:56:19.286Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "overpopulation",
+            "indices" : [
+              "32",
+              "47"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Milan Hauth",
+            "screen_name" : "milahu104",
+            "indices" : [
+              "3",
+              "13"
+            ],
+            "id_str" : "1964312974236991488",
+            "id" : "1964312974236991488"
+          },
+          {
+            "name" : "Sama Hoole",
+            "screen_name" : "SamaHoole",
+            "indices" : [
+              "15",
+              "25"
+            ],
+            "id_str" : "2253756806",
+            "id" : "2253756806"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "2021599182604116350",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "2021599182604116350",
+      "created_at" : "Wed Feb 11 14:56:19 +0000 2026",
+      "favorited" : false,
+      "full_text" : "RT @milahu104: @SamaHoole human #overpopulation is the problem.\nwith a carnivore diet (1kg meat per day per person)\nand extensive (pasture-…",
+      "deleted_at" : "Wed Feb 11 14:56:45 +0000 2026"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "2021599170247766284"
+          ],
+          "editableUntil" : "2026-02-11T15:56:16.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "overpopulation",
+            "indices" : [
+              "17",
+              "32"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Sama Hoole",
+            "screen_name" : "SamaHoole",
+            "indices" : [
+              "0",
+              "10"
+            ],
+            "id_str" : "2253756806",
+            "id" : "2253756806"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "281"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "2021538847083884818",
+      "id_str" : "2021599170247766284",
+      "in_reply_to_user_id" : "2253756806",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "2021599170247766284",
+      "in_reply_to_status_id" : "2021538847083884818",
+      "created_at" : "Wed Feb 11 14:56:16 +0000 2026",
+      "favorited" : false,
+      "full_text" : "@SamaHoole human #overpopulation is the problem.\nwith a carnivore diet (1kg meat per day per person)\nand extensive (pasture-based) beef production\nthe global carrying capacity is 1E9 people\nwhich is 10% of the current population.\ngeorgia guidestones: limit population to 5E8 people",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "SamaHoole",
+      "in_reply_to_user_id_str" : "2253756806",
+      "deleted_at" : "Wed Feb 11 14:56:55 +0000 2026"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "2021278512552751273"
+          ],
+          "editableUntil" : "2026-02-10T18:42:05.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "GFrei.News",
+            "screen_name" : "GFreiNews",
+            "indices" : [
+              "0",
+              "10"
+            ],
+            "id_str" : "1812359479872065536",
+            "id" : "1812359479872065536"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "30"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "2021185421179269361",
+      "id_str" : "2021278512552751273",
+      "in_reply_to_user_id" : "1812359479872065536",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "2021278512552751273",
+      "in_reply_to_status_id" : "2021185421179269361",
+      "created_at" : "Tue Feb 10 17:42:05 +0000 2026",
+      "favorited" : false,
+      "full_text" : "@GFreiNews 100% dummselektiert",
+      "lang" : "de",
+      "in_reply_to_screen_name" : "GFreiNews",
+      "in_reply_to_user_id_str" : "1812359479872065536",
+      "deleted_at" : "Tue Feb 10 17:42:27 +0000 2026"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
             "2021138214681985184"
           ],
           "editableUntil" : "2026-02-10T09:24:35.000Z",
@@ -322,1405 +862,6 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "2019808376759406999"
-          ],
-          "editableUntil" : "2026-02-06T17:20:17.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Emanuel Boeminghaus",
-            "screen_name" : "E_Boeminghaus",
-            "indices" : [
-              "0",
-              "14"
-            ],
-            "id_str" : "3824124982",
-            "id" : "3824124982"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "142"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "2019717482928292200",
-      "id_str" : "2019808376759406999",
-      "in_reply_to_user_id" : "3824124982",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2019808376759406999",
-      "in_reply_to_status_id" : "2019717482928292200",
-      "created_at" : "Fri Feb 06 16:20:17 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@E_Boeminghaus die leute brauchen nur noch 2 wochen geduld, dann kommt der blackout, und dann haben die leute endlich wieder echte probleme...",
-      "lang" : "de",
-      "in_reply_to_screen_name" : "E_Boeminghaus",
-      "in_reply_to_user_id_str" : "3824124982",
-      "deleted_at" : "Fri Feb 06 16:20:37 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2019711862670295123"
-          ],
-          "editableUntil" : "2026-02-06T10:56:47.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "whoaremyfriends",
-            "indices" : [
-              "122",
-              "138"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Brian Roemmele",
-            "screen_name" : "BrianRoemmele",
-            "indices" : [
-              "0",
-              "14"
-            ],
-            "id_str" : "101584084",
-            "id" : "101584084"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "138"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "2019606698546372840",
-      "id_str" : "2019711862670295123",
-      "in_reply_to_user_id" : "101584084",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2019711862670295123",
-      "in_reply_to_status_id" : "2019606698546372840",
-      "created_at" : "Fri Feb 06 09:56:47 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@BrianRoemmele \"why they failed\"\n\nbecause pacifism is the problem. we need symbiosis of different personality types -&gt; #whoaremyfriends",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "BrianRoemmele",
-      "in_reply_to_user_id_str" : "101584084",
-      "deleted_at" : "Fri Feb 06 09:57:01 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2019710360606167355"
-          ],
-          "editableUntil" : "2026-02-06T10:50:49.029Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Paul Brandenburg",
-            "screen_name" : "docbrandenburg",
-            "indices" : [
-              "3",
-              "18"
-            ],
-            "id_str" : "1361649646129537026",
-            "id" : "1361649646129537026"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "143"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "2019710360606167355",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2019710360606167355",
-      "created_at" : "Fri Feb 06 09:50:49 +0000 2026",
-      "favorited" : false,
-      "full_text" : "RT @docbrandenburg: Nius, Kontrafunk  &amp; Co: Epstein-Horror entlarvt die Mossad-Medien\n\nDas Schweigen der selbsternannten \"Gegenmedien\" vom…",
-      "lang" : "de",
-      "deleted_at" : "Fri Feb 06 09:51:21 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2019437225356955851"
-          ],
-          "editableUntil" : "2026-02-05T16:45:28.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Julian Reichelt",
-            "screen_name" : "jreichelt",
-            "indices" : [
-              "0",
-              "10"
-            ],
-            "id_str" : "19069018",
-            "id" : "19069018"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "46"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "2019423337349542268",
-      "id_str" : "2019437225356955851",
-      "in_reply_to_user_id" : "19069018",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2019437225356955851",
-      "in_reply_to_status_id" : "2019423337349542268",
-      "created_at" : "Thu Feb 05 15:45:28 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@jreichelt C wie in Cocksucker, oder kurz Cuck",
-      "lang" : "de",
-      "in_reply_to_screen_name" : "jreichelt",
-      "in_reply_to_user_id_str" : "19069018",
-      "deleted_at" : "Thu Feb 05 15:45:46 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2019103207327428823"
-          ],
-          "editableUntil" : "2026-02-04T18:38:12.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "David",
-            "screen_name" : "davidtwetermann",
-            "indices" : [
-              "0",
-              "16"
-            ],
-            "id_str" : "3067471126",
-            "id" : "3067471126"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "56"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "2018765819950539038",
-      "id_str" : "2019103207327428823",
-      "in_reply_to_user_id" : "3067471126",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2019103207327428823",
-      "in_reply_to_status_id" : "2018765819950539038",
-      "created_at" : "Wed Feb 04 17:38:12 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@davidtwetermann alle frauen entmündigen, problem gelöst",
-      "lang" : "de",
-      "in_reply_to_screen_name" : "davidtwetermann",
-      "in_reply_to_user_id_str" : "3067471126",
-      "deleted_at" : "Wed Feb 04 17:38:29 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2018777257838358611"
-          ],
-          "editableUntil" : "2026-02-03T21:02:59.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Bundeskanzler Friedrich Merz",
-            "screen_name" : "bundeskanzler",
-            "indices" : [
-              "0",
-              "14"
-            ],
-            "id_str" : "1915405915085561861",
-            "id" : "1915405915085561861"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "252"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "2018418214581973162",
-      "id_str" : "2018777257838358611",
-      "in_reply_to_user_id" : "1915405915085561861",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2018777257838358611",
-      "in_reply_to_status_id" : "2018418214581973162",
-      "created_at" : "Tue Feb 03 20:02:59 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@bundeskanzler \"investiert\" wird schon noch in deutschland, aber statt produktive investitionen kommen nur noch destruktive investitionen. die ganze welt schickt ihren menschlichen abfall nach deutschland, und die bahnhofsklatscher klatschen immer noch",
-      "lang" : "de",
-      "in_reply_to_screen_name" : "bundeskanzler",
-      "in_reply_to_user_id_str" : "1915405915085561861",
-      "deleted_at" : "Tue Feb 03 20:03:19 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2018769969002033541"
-          ],
-          "editableUntil" : "2026-02-03T20:34:02.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "𝐏𝐚𝐭𝐭𝐢𝟒𝟖𝟑𝟐",
-            "screen_name" : "Patti48321",
-            "indices" : [
-              "0",
-              "11"
-            ],
-            "id_str" : "1191785785906860039",
-            "id" : "1191785785906860039"
-          },
-          {
-            "name" : "kernel",
-            "screen_name" : "kernelshark",
-            "indices" : [
-              "12",
-              "24"
-            ],
-            "id_str" : "1854478037913571328",
-            "id" : "1854478037913571328"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/zoTEHcu3ZT",
-            "expanded_url" : "https://en.wikipedia.org/wiki/Hardware_backdoor",
-            "display_url" : "en.wikipedia.org/wiki/Hardware_…",
-            "indices" : [
-              "75",
-              "98"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "98"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1994180010463080912",
-      "id_str" : "2018769969002033541",
-      "in_reply_to_user_id" : "1191785785906860039",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2018769969002033541",
-      "in_reply_to_status_id" : "1994180010463080912",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Feb 03 19:34:02 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@Patti48321 @kernelshark 100% bei closed-source hardware (intel, AMD, ...)\nhttps://t.co/zoTEHcu3ZT",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "Patti48321",
-      "in_reply_to_user_id_str" : "1191785785906860039",
-      "deleted_at" : "Tue Feb 03 19:34:30 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2018769861929767185"
-          ],
-          "editableUntil" : "2026-02-03T20:33:36.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "𝐏𝐚𝐭𝐭𝐢𝟒𝟖𝟑𝟐",
-            "screen_name" : "Patti48321",
-            "indices" : [
-              "0",
-              "11"
-            ],
-            "id_str" : "1191785785906860039",
-            "id" : "1191785785906860039"
-          },
-          {
-            "name" : "kernel",
-            "screen_name" : "kernelshark",
-            "indices" : [
-              "12",
-              "24"
-            ],
-            "id_str" : "1854478037913571328",
-            "id" : "1854478037913571328"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/zoTEHcu3ZT",
-            "expanded_url" : "https://en.wikipedia.org/wiki/Hardware_backdoor",
-            "display_url" : "en.wikipedia.org/wiki/Hardware_…",
-            "indices" : [
-              "25",
-              "48"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "48"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1994180010463080912",
-      "id_str" : "2018769861929767185",
-      "in_reply_to_user_id" : "1191785785906860039",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2018769861929767185",
-      "in_reply_to_status_id" : "1994180010463080912",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Feb 03 19:33:36 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@Patti48321 @kernelshark https://t.co/zoTEHcu3ZT",
-      "lang" : "qme",
-      "in_reply_to_screen_name" : "Patti48321",
-      "in_reply_to_user_id_str" : "1191785785906860039",
-      "deleted_at" : "Tue Feb 03 19:33:48 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2018761181758927110"
-          ],
-          "editableUntil" : "2026-02-03T19:59:07.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Gray Rhino",
-            "screen_name" : "gray_rhinos",
-            "indices" : [
-              "0",
-              "12"
-            ],
-            "id_str" : "1242644697748631552",
-            "id" : "1242644697748631552"
-          },
-          {
-            "name" : "Pavel Durov",
-            "screen_name" : "durov",
-            "indices" : [
-              "13",
-              "19"
-            ],
-            "id_str" : "16477634",
-            "id" : "16477634"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/eih04DrAKJ",
-            "expanded_url" : "https://github.com/redecentralize/alternative-internet",
-            "display_url" : "github.com/redecentralize…",
-            "indices" : [
-              "20",
-              "43"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "43"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "2018258443870810620",
-      "id_str" : "2018761181758927110",
-      "in_reply_to_user_id" : "1242644697748631552",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2018761181758927110",
-      "in_reply_to_status_id" : "2018258443870810620",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Feb 03 18:59:07 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@gray_rhinos @durov https://t.co/eih04DrAKJ",
-      "lang" : "qme",
-      "in_reply_to_screen_name" : "gray_rhinos",
-      "in_reply_to_user_id_str" : "1242644697748631552",
-      "deleted_at" : "Tue Feb 03 18:59:18 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2018743066602225769"
-          ],
-          "editableUntil" : "2026-02-03T18:47:08.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Wenger",
-            "screen_name" : "Wenger086393568",
-            "indices" : [
-              "0",
-              "16"
-            ],
-            "id_str" : "1755899894068350976",
-            "id" : "1755899894068350976"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "171"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1879222518785126480",
-      "id_str" : "2018743066602225769",
-      "in_reply_to_user_id" : "1755899894068350976",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2018743066602225769",
-      "in_reply_to_status_id" : "1879222518785126480",
-      "created_at" : "Tue Feb 03 17:47:08 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@Wenger086393568 99% querfinanzierung für schwarze löcher\nsinnvolle sachen wie naturmedizin wird davon nicht bezahlt\nund sobald man selber was braucht steigen die beiträge",
-      "lang" : "de",
-      "in_reply_to_screen_name" : "Wenger086393568",
-      "in_reply_to_user_id_str" : "1755899894068350976",
-      "deleted_at" : "Tue Feb 03 17:47:15 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2018742875798839315"
-          ],
-          "editableUntil" : "2026-02-03T18:46:22.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Wenger",
-            "screen_name" : "Wenger086393568",
-            "indices" : [
-              "0",
-              "16"
-            ],
-            "id_str" : "1755899894068350976",
-            "id" : "1755899894068350976"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "112"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1879222518785126480",
-      "id_str" : "2018742875798839315",
-      "in_reply_to_user_id" : "1755899894068350976",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2018742875798839315",
-      "in_reply_to_status_id" : "1879222518785126480",
-      "created_at" : "Tue Feb 03 17:46:22 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@Wenger086393568 99% querfinanzierung für schwarze löcher\nund sobald man selber was braucht steigen die beiträge",
-      "lang" : "de",
-      "in_reply_to_screen_name" : "Wenger086393568",
-      "in_reply_to_user_id_str" : "1755899894068350976",
-      "deleted_at" : "Tue Feb 03 17:46:53 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2018742798644912221"
-          ],
-          "editableUntil" : "2026-02-03T18:46:04.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Wenger",
-            "screen_name" : "Wenger086393568",
-            "indices" : [
-              "0",
-              "16"
-            ],
-            "id_str" : "1755899894068350976",
-            "id" : "1755899894068350976"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "57"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1879222518785126480",
-      "id_str" : "2018742798644912221",
-      "in_reply_to_user_id" : "1755899894068350976",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2018742798644912221",
-      "in_reply_to_status_id" : "1879222518785126480",
-      "created_at" : "Tue Feb 03 17:46:04 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@Wenger086393568 99% querfinanzierung für schwarze löcher",
-      "lang" : "de",
-      "in_reply_to_screen_name" : "Wenger086393568",
-      "in_reply_to_user_id_str" : "1755899894068350976",
-      "deleted_at" : "Tue Feb 03 17:46:11 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2018737467973931176"
-          ],
-          "editableUntil" : "2026-02-03T18:24:53.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Liberta Cherguia 🇪🇺",
-            "screen_name" : "MbarkCherguia",
-            "indices" : [
-              "0",
-              "14"
-            ],
-            "id_str" : "1058473484",
-            "id" : "1058473484"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "34"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "2018640608856805444",
-      "id_str" : "2018737467973931176",
-      "in_reply_to_user_id" : "1058473484",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2018737467973931176",
-      "in_reply_to_status_id" : "2018640608856805444",
-      "created_at" : "Tue Feb 03 17:24:53 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@MbarkCherguia wtf is her problem?",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "MbarkCherguia",
-      "in_reply_to_user_id_str" : "1058473484",
-      "deleted_at" : "Tue Feb 03 17:25:02 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2018732927702442441"
-          ],
-          "editableUntil" : "2026-02-03T18:06:50.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "NachDenkSeiten",
-            "screen_name" : "NachDenkSeiten",
-            "indices" : [
-              "0",
-              "15"
-            ],
-            "id_str" : "39463907",
-            "id" : "39463907"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "128"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "2014267938673418255",
-      "id_str" : "2018732927702442441",
-      "in_reply_to_user_id" : "39463907",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2018732927702442441",
-      "in_reply_to_status_id" : "2014267938673418255",
-      "created_at" : "Tue Feb 03 17:06:50 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@NachDenkSeiten es ist auch eine völlig abwegige erwartung dass die deutsche regierung das wohl von ganz deutschland im sinn hat",
-      "lang" : "de",
-      "in_reply_to_screen_name" : "NachDenkSeiten",
-      "in_reply_to_user_id_str" : "39463907",
-      "deleted_at" : "Tue Feb 03 17:07:06 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2018730688959386025"
-          ],
-          "editableUntil" : "2026-02-03T17:57:57.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "DollaHane プレイステーション",
-            "screen_name" : "dolla_hane",
-            "indices" : [
-              "0",
-              "11"
-            ],
-            "id_str" : "1614348000515465217",
-            "id" : "1614348000515465217"
-          },
-          {
-            "name" : "kitze 🛠️ tinkerer.club",
-            "screen_name" : "thekitze",
-            "indices" : [
-              "12",
-              "21"
-            ],
-            "id_str" : "50339173",
-            "id" : "50339173"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "30"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "2018419516359761925",
-      "id_str" : "2018730688959386025",
-      "in_reply_to_user_id" : "1614348000515465217",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2018730688959386025",
-      "in_reply_to_status_id" : "2018419516359761925",
-      "created_at" : "Tue Feb 03 16:57:57 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@dolla_hane @thekitze rm -rf /",
-      "lang" : "ht",
-      "in_reply_to_screen_name" : "dolla_hane",
-      "in_reply_to_user_id_str" : "1614348000515465217",
-      "deleted_at" : "Tue Feb 03 16:58:08 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2018670877097730199"
-          ],
-          "editableUntil" : "2026-02-03T14:00:16.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Lutz Olaf",
-            "screen_name" : "LutzOlaf",
-            "indices" : [
-              "0",
-              "9"
-            ],
-            "id_str" : "1372289053429747713",
-            "id" : "1372289053429747713"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "123"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "2018345845356134423",
-      "id_str" : "2018670877097730199",
-      "in_reply_to_user_id" : "1372289053429747713",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2018670877097730199",
-      "in_reply_to_status_id" : "2018345845356134423",
-      "created_at" : "Tue Feb 03 13:00:16 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@LutzOlaf sie sagen \"undemokratisch\" aber sie meinen radikal.\nwir haben radikale probleme aber immer nur moderatre lösungen",
-      "lang" : "de",
-      "in_reply_to_screen_name" : "LutzOlaf",
-      "in_reply_to_user_id_str" : "1372289053429747713",
-      "deleted_at" : "Tue Feb 03 13:00:33 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2018657856120348899"
-          ],
-          "editableUntil" : "2026-02-03T13:08:32.405Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "user_mentions" : [
-          {
-            "name" : "matrixbot",
-            "screen_name" : "thematrixb0t",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "3260285413",
-            "id" : "3260285413"
-          }
-        ],
-        "urls" : [ ],
-        "symbols" : [ ],
-        "media" : [
-          {
-            "expanded_url" : "https://x.com/thematrixb0t/status/2018502950369595580/video/1",
-            "source_status_id" : "2018502950369595580",
-            "indices" : [
-              "66",
-              "89"
-            ],
-            "url" : "https://t.co/UzMovFbZcL",
-            "media_url" : "http://pbs.twimg.com/amplify_video_thumb/2018502826587193344/img/rj1VqJE1OxCuoV43.jpg",
-            "id_str" : "2018502826587193344",
-            "source_user_id" : "3260285413",
-            "id" : "2018502826587193344",
-            "media_url_https" : "https://pbs.twimg.com/amplify_video_thumb/2018502826587193344/img/rj1VqJE1OxCuoV43.jpg",
-            "source_user_id_str" : "3260285413",
-            "sizes" : {
-              "medium" : {
-                "w" : "576",
-                "h" : "576",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "large" : {
-                "w" : "576",
-                "h" : "576",
-                "resize" : "fit"
-              },
-              "small" : {
-                "w" : "576",
-                "h" : "576",
-                "resize" : "fit"
-              }
-            },
-            "type" : "photo",
-            "source_status_id_str" : "2018502950369595580",
-            "display_url" : "pic.x.com/UzMovFbZcL"
-          }
-        ],
-        "hashtags" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "89"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "2018657856120348899",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2018657856120348899",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Feb 03 12:08:32 +0000 2026",
-      "favorited" : false,
-      "full_text" : "RT @thematrixb0t: \"Cancer is so easily cured it's not even funny\" https://t.co/UzMovFbZcL",
-      "lang" : "en",
-      "deleted_at" : "Tue Feb 03 12:17:43 +0000 2026",
-      "extended_entities" : {
-        "media" : [
-          {
-            "expanded_url" : "https://x.com/thematrixb0t/status/2018502950369595580/video/1",
-            "source_status_id" : "2018502950369595580",
-            "indices" : [
-              "66",
-              "89"
-            ],
-            "url" : "https://t.co/UzMovFbZcL",
-            "media_url" : "http://pbs.twimg.com/amplify_video_thumb/2018502826587193344/img/rj1VqJE1OxCuoV43.jpg",
-            "id_str" : "2018502826587193344",
-            "video_info" : {
-              "aspect_ratio" : [
-                "1",
-                "1"
-              ],
-              "duration_millis" : "583005",
-              "variants" : [
-                {
-                  "content_type" : "application/x-mpegURL",
-                  "url" : "https://video.twimg.com/amplify_video/2018502826587193344/pl/XkK4m13PJRfONerY.m3u8?v=4e3"
-                },
-                {
-                  "bitrate" : "432000",
-                  "content_type" : "video/mp4",
-                  "url" : "https://video.twimg.com/amplify_video/2018502826587193344/vid/avc1/320x320/_0fFkBxjjgTQY_tG.mp4"
-                },
-                {
-                  "bitrate" : "832000",
-                  "content_type" : "video/mp4",
-                  "url" : "https://video.twimg.com/amplify_video/2018502826587193344/vid/avc1/576x576/SN-up-vx7hyFAzvj.mp4"
-                }
-              ]
-            },
-            "source_user_id" : "3260285413",
-            "additional_media_info" : {
-              "monetizable" : false
-            },
-            "id" : "2018502826587193344",
-            "media_url_https" : "https://pbs.twimg.com/amplify_video_thumb/2018502826587193344/img/rj1VqJE1OxCuoV43.jpg",
-            "source_user_id_str" : "3260285413",
-            "sizes" : {
-              "medium" : {
-                "w" : "576",
-                "h" : "576",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "large" : {
-                "w" : "576",
-                "h" : "576",
-                "resize" : "fit"
-              },
-              "small" : {
-                "w" : "576",
-                "h" : "576",
-                "resize" : "fit"
-              }
-            },
-            "type" : "video",
-            "source_status_id_str" : "2018502950369595580",
-            "display_url" : "pic.x.com/UzMovFbZcL"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2018355755473150115"
-          ],
-          "editableUntil" : "2026-02-02T17:08:05.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Sama Hoole",
-            "screen_name" : "SamaHoole",
-            "indices" : [
-              "0",
-              "10"
-            ],
-            "id_str" : "2253756806",
-            "id" : "2253756806"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "64"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "2017661734694080584",
-      "id_str" : "2018355755473150115",
-      "in_reply_to_user_id" : "2253756806",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2018355755473150115",
-      "in_reply_to_status_id" : "2017661734694080584",
-      "created_at" : "Mon Feb 02 16:08:05 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@SamaHoole their actual goal is global mass murder by starvation",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "SamaHoole",
-      "in_reply_to_user_id_str" : "2253756806",
-      "deleted_at" : "Mon Feb 02 16:08:24 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2018228011502375028"
-          ],
-          "editableUntil" : "2026-02-02T08:40:29.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "بوالتيم",
-            "screen_name" : "TaimAlshayeji",
-            "indices" : [
-              "0",
-              "14"
-            ],
-            "id_str" : "387117271",
-            "id" : "387117271"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/3U5tGOYSP7",
-            "expanded_url" : "https://milahu.github.io/alchi/src/whoaremyfriends/whoaremyfriends.html",
-            "display_url" : "milahu.github.io/alchi/src/whoa…",
-            "indices" : [
-              "73",
-              "96"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "96"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "726639679936860160",
-      "id_str" : "2018228011502375028",
-      "in_reply_to_user_id" : "387117271",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2018228011502375028",
-      "in_reply_to_status_id" : "726639679936860160",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Feb 02 07:40:29 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@TaimAlshayeji \"You want to know who your friends are?\"\nread my book : )\nhttps://t.co/3U5tGOYSP7",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "TaimAlshayeji",
-      "in_reply_to_user_id_str" : "387117271",
-      "deleted_at" : "Mon Feb 02 07:40:41 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2017523538647777297"
-          ],
-          "editableUntil" : "2026-01-31T10:01:10.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Lord Bebo",
-            "screen_name" : "MyLordBebo",
-            "indices" : [
-              "0",
-              "11"
-            ],
-            "id_str" : "1121807798826930177",
-            "id" : "1121807798826930177"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "129"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "2017433979515756661",
-      "id_str" : "2017523538647777297",
-      "in_reply_to_user_id" : "1121807798826930177",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2017523538647777297",
-      "in_reply_to_status_id" : "2017433979515756661",
-      "created_at" : "Sat Jan 31 09:01:10 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@MyLordBebo what is wrong with cannibalism?\nis this just another taboo?\nor are there actual reasons why eating human meat is bad?",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "MyLordBebo",
-      "in_reply_to_user_id_str" : "1121807798826930177",
-      "deleted_at" : "Sat Jan 31 09:01:24 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2017523140352442371"
-          ],
-          "editableUntil" : "2026-01-31T09:59:35.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Lord Bebo",
-            "screen_name" : "MyLordBebo",
-            "indices" : [
-              "0",
-              "11"
-            ],
-            "id_str" : "1121807798826930177",
-            "id" : "1121807798826930177"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "43"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "2017433979515756661",
-      "id_str" : "2017523140352442371",
-      "in_reply_to_user_id" : "1121807798826930177",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2017523140352442371",
-      "in_reply_to_status_id" : "2017433979515756661",
-      "created_at" : "Sat Jan 31 08:59:35 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@MyLordBebo what is wrong with cannibalism?",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "MyLordBebo",
-      "in_reply_to_user_id_str" : "1121807798826930177",
-      "deleted_at" : "Sat Jan 31 08:59:59 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2017522548506767617"
-          ],
-          "editableUntil" : "2026-01-31T09:57:13.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "whoaremyfriends",
-            "indices" : [
-              "130",
-              "146"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Michael Strong",
-            "screen_name" : "flowidealism",
-            "indices" : [
-              "0",
-              "13"
-            ],
-            "id_str" : "29804238",
-            "id" : "29804238"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "146"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "2017273676459053217",
-      "id_str" : "2017522548506767617",
-      "in_reply_to_user_id" : "29804238",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2017522548506767617",
-      "in_reply_to_status_id" : "2017273676459053217",
-      "created_at" : "Sat Jan 31 08:57:13 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@flowidealism \"We've broken something fundamental.\"\n\nwe love our enemies (educators, teachers, doctors)\nwe hate our friends\n-&gt; #whoaremyfriends",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "flowidealism",
-      "in_reply_to_user_id_str" : "29804238",
-      "deleted_at" : "Sat Jan 31 08:57:34 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2017507450727862480"
-          ],
-          "editableUntil" : "2026-01-31T08:57:14.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Sense Receptor",
-            "screen_name" : "SenseReceptor",
-            "indices" : [
-              "0",
-              "14"
-            ],
-            "id_str" : "1356015027862401024",
-            "id" : "1356015027862401024"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "93"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "2017361812711477718",
-      "id_str" : "2017507450727862480",
-      "in_reply_to_user_id" : "1356015027862401024",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2017507450727862480",
-      "in_reply_to_status_id" : "2017361812711477718",
-      "created_at" : "Sat Jan 31 07:57:14 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@SenseReceptor \"their intention is to kill a lot of us\"\n\nbetter solutions for overpopulation?",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "SenseReceptor",
-      "in_reply_to_user_id_str" : "1356015027862401024",
-      "deleted_at" : "Sat Jan 31 07:57:29 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
             "2020817837703528652"
           ],
           "editableUntil" : "2026-02-09T12:11:32.000Z",
@@ -1766,555 +907,6 @@ window.YTD.deleted_tweets.part0 = [
       "in_reply_to_screen_name" : "martinlichtmesz",
       "in_reply_to_user_id_str" : "1891821430091698176",
       "deleted_at" : "Mon Feb 09 11:11:47 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2017271644562022436"
-          ],
-          "editableUntil" : "2026-01-30T17:20:13.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Fabian Keubel",
-            "screen_name" : "FKeubel",
-            "indices" : [
-              "0",
-              "8"
-            ],
-            "id_str" : "1771973013384179712",
-            "id" : "1771973013384179712"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "33"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "2016972006802280952",
-      "id_str" : "2017271644562022436",
-      "in_reply_to_user_id" : "1771973013384179712",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2017271644562022436",
-      "in_reply_to_status_id" : "2016972006802280952",
-      "created_at" : "Fri Jan 30 16:20:13 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@FKeubel alle über 45 entmündigen",
-      "lang" : "de",
-      "in_reply_to_screen_name" : "FKeubel",
-      "in_reply_to_user_id_str" : "1771973013384179712",
-      "deleted_at" : "Fri Jan 30 16:20:29 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2017258362266693790"
-          ],
-          "editableUntil" : "2026-01-30T16:27:27.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Emanuel Boeminghaus",
-            "screen_name" : "E_Boeminghaus",
-            "indices" : [
-              "0",
-              "14"
-            ],
-            "id_str" : "3824124982",
-            "id" : "3824124982"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "198"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "2017238636689817605",
-      "id_str" : "2017258362266693790",
-      "in_reply_to_user_id" : "3824124982",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2017258362266693790",
-      "in_reply_to_status_id" : "2017238636689817605",
-      "created_at" : "Fri Jan 30 15:27:27 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@E_Boeminghaus auch ein problem sind tageszeitenklima-menschen in einem jahreszeitenklima. die wollen jeden tag das gleiche machen.\njahreszeitenklima-menschen machen einfach drei monate winterschlaf",
-      "lang" : "de",
-      "in_reply_to_screen_name" : "E_Boeminghaus",
-      "in_reply_to_user_id_str" : "3824124982",
-      "deleted_at" : "Fri Jan 30 15:27:51 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2017237030233686447"
-          ],
-          "editableUntil" : "2026-01-30T15:02:41.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "FreiheitsMaximalist",
-            "screen_name" : "maximal_frei",
-            "indices" : [
-              "0",
-              "13"
-            ],
-            "id_str" : "1442698504770555906",
-            "id" : "1442698504770555906"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "269"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "2017232218448375836",
-      "id_str" : "2017237030233686447",
-      "in_reply_to_user_id" : "1442698504770555906",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2017237030233686447",
-      "in_reply_to_status_id" : "2017232218448375836",
-      "created_at" : "Fri Jan 30 14:02:41 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@maximal_frei nein, kein geld, keine zeit... ich will hier in deutschland noch ein paar 1000 bücher drucken, und dann einen \"hard cut\" machen, alles liquidieren und weg, das größte problem ist der faktor zeit, mein erbe wird blockiert, und mit pech ist in 2 wochen SHTF",
-      "lang" : "de",
-      "in_reply_to_screen_name" : "maximal_frei",
-      "in_reply_to_user_id_str" : "1442698504770555906",
-      "deleted_at" : "Fri Jan 30 14:02:57 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2017228687129575504"
-          ],
-          "editableUntil" : "2026-01-30T14:29:31.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "FreiheitsMaximalist",
-            "screen_name" : "maximal_frei",
-            "indices" : [
-              "0",
-              "13"
-            ],
-            "id_str" : "1442698504770555906",
-            "id" : "1442698504770555906"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "268"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "2017185436452446324",
-      "id_str" : "2017228687129575504",
-      "in_reply_to_user_id" : "1442698504770555906",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2017228687129575504",
-      "in_reply_to_status_id" : "2017185436452446324",
-      "created_at" : "Fri Jan 30 13:29:31 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@maximal_frei TLDR: gold ist ein mittel, kein ziel.\nziel ist quasi immer ein \"homestead\"\nnur mit verschiedenen abstraktionsstufen:\nland kaufen und selber bewirtschaften?\nland kaufen und verpachten?\nwie viele menschen teilen sich ein stück land?\nwie groß ist das \"wir\"?",
-      "lang" : "de",
-      "in_reply_to_screen_name" : "maximal_frei",
-      "in_reply_to_user_id_str" : "1442698504770555906",
-      "deleted_at" : "Fri Jan 30 13:29:53 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2017227989931503785"
-          ],
-          "editableUntil" : "2026-01-30T14:26:45.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "FreiheitsMaximalist",
-            "screen_name" : "maximal_frei",
-            "indices" : [
-              "0",
-              "13"
-            ],
-            "id_str" : "1442698504770555906",
-            "id" : "1442698504770555906"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "50"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "2017185436452446324",
-      "id_str" : "2017227989931503785",
-      "in_reply_to_user_id" : "1442698504770555906",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2017227989931503785",
-      "in_reply_to_status_id" : "2017185436452446324",
-      "created_at" : "Fri Jan 30 13:26:45 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@maximal_frei TLDR: gold ist ein mittel, kein ziel",
-      "lang" : "de",
-      "in_reply_to_screen_name" : "maximal_frei",
-      "in_reply_to_user_id_str" : "1442698504770555906",
-      "deleted_at" : "Fri Jan 30 13:27:04 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2017217863703007643"
-          ],
-          "editableUntil" : "2026-01-30T13:46:31.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Marie",
-            "screen_name" : "kripp_m",
-            "indices" : [
-              "0",
-              "8"
-            ],
-            "id_str" : "1544305114336428032",
-            "id" : "1544305114336428032"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "103"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "2016941624706638011",
-      "id_str" : "2017217863703007643",
-      "in_reply_to_user_id" : "1544305114336428032",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2017217863703007643",
-      "in_reply_to_status_id" : "2016941624706638011",
-      "created_at" : "Fri Jan 30 12:46:31 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@kripp_m \"Im schlimmsten Fall könnte es sogar zu Stromabschaltungen kommen\"\ngenau das ist doch das ziel",
-      "lang" : "de",
-      "in_reply_to_screen_name" : "kripp_m",
-      "in_reply_to_user_id_str" : "1544305114336428032",
-      "deleted_at" : "Fri Jan 30 12:46:41 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2016845069106487321"
-          ],
-          "editableUntil" : "2026-01-29T13:05:10.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Raphael Mayrhofer",
-            "screen_name" : "mayrhofer_x",
-            "indices" : [
-              "0",
-              "12"
-            ],
-            "id_str" : "1793530740447059968",
-            "id" : "1793530740447059968"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/xaUeaPW5MW",
-            "expanded_url" : "https://milahu.github.io/alchi/src/whoaremyfriends/wersindmeinefreunde.html#stupid-are-always-the-others",
-            "display_url" : "milahu.github.io/alchi/src/whoa…",
-            "indices" : [
-              "80",
-              "103"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "103"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "2016499003924398247",
-      "id_str" : "2016845069106487321",
-      "in_reply_to_user_id" : "1793530740447059968",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2016845069106487321",
-      "in_reply_to_status_id" : "2016499003924398247",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Jan 29 12:05:10 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@mayrhofer_x \"Spiritualität\"\nspirituelle intelligenz ist ein persönlichkeitstyp\nhttps://t.co/xaUeaPW5MW",
-      "lang" : "de",
-      "in_reply_to_screen_name" : "mayrhofer_x",
-      "in_reply_to_user_id_str" : "1793530740447059968",
-      "deleted_at" : "Thu Jan 29 12:05:37 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2016842070950834424"
-          ],
-          "editableUntil" : "2026-01-29T12:53:15.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "accelerationism",
-            "indices" : [
-              "47",
-              "63"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Martin A. Armstrong",
-            "screen_name" : "ArmstrongEcon",
-            "indices" : [
-              "0",
-              "14"
-            ],
-            "id_str" : "331287203",
-            "id" : "331287203"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "63"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "2016696568506716335",
-      "id_str" : "2016842070950834424",
-      "in_reply_to_user_id" : "331287203",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2016842070950834424",
-      "in_reply_to_status_id" : "2016696568506716335",
-      "created_at" : "Thu Jan 29 11:53:15 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@ArmstrongEcon it will accelerate the collapse\n#accelerationism",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "ArmstrongEcon",
-      "in_reply_to_user_id_str" : "331287203",
-      "deleted_at" : "Thu Jan 29 11:53:22 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2016794497816904124"
-          ],
-          "editableUntil" : "2026-01-29T09:44:13.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "HealthRanger",
-            "screen_name" : "HealthRanger",
-            "indices" : [
-              "0",
-              "13"
-            ],
-            "id_str" : "15843059",
-            "id" : "15843059"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "137"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "2016657111485210958",
-      "id_str" : "2016794497816904124",
-      "in_reply_to_user_id" : "15843059",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2016794497816904124",
-      "in_reply_to_status_id" : "2016657111485210958",
-      "created_at" : "Thu Jan 29 08:44:13 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@HealthRanger you are such an idealist. the system always has been broken, and always will be broken. its all just feudalism in sheepskin",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "HealthRanger",
-      "in_reply_to_user_id_str" : "15843059",
-      "deleted_at" : "Thu Jan 29 08:44:23 +0000 2026"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2016625090159374609"
-          ],
-          "editableUntil" : "2026-01-28T22:31:03.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Stefan Energie Chiemgau/Outdoor Chiemgau",
-            "screen_name" : "OutdoorChiemga",
-            "indices" : [
-              "0",
-              "15"
-            ],
-            "id_str" : "1564705962207895552",
-            "id" : "1564705962207895552"
-          },
-          {
-            "name" : "Ben Jamin",
-            "screen_name" : "75Jamin",
-            "indices" : [
-              "16",
-              "24"
-            ],
-            "id_str" : "1383018511405056000",
-            "id" : "1383018511405056000"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "300"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "2016608255762452895",
-      "id_str" : "2016625090159374609",
-      "in_reply_to_user_id" : "1564705962207895552",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2016625090159374609",
-      "in_reply_to_status_id" : "2016608255762452895",
-      "created_at" : "Wed Jan 28 21:31:03 +0000 2026",
-      "favorited" : false,
-      "full_text" : "@OutdoorChiemga @75Jamin \"echte machbarkeiten\" gibt es nicht.\nweil wir stehen vor radikalen problemen, aber moderate menschen suchen immer nur moderate lösungen, und radikale menschen werden ignoriert, zensiert, sabotiert... bis es dann zu spät ist, und alle fragen blöd \"wie konnte das passieren\"...",
-      "lang" : "de",
-      "in_reply_to_screen_name" : "OutdoorChiemga",
-      "in_reply_to_user_id_str" : "1564705962207895552",
-      "deleted_at" : "Wed Jan 28 21:31:13 +0000 2026"
     }
   },
   {
@@ -3117,6 +1709,685 @@ window.YTD.deleted_tweets.part0 = [
       "in_reply_to_screen_name" : "LibertyHannes",
       "in_reply_to_user_id_str" : "1503448759031812102",
       "deleted_at" : "Sat Feb 07 19:35:27 +0000 2026"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "2019808376759406999"
+          ],
+          "editableUntil" : "2026-02-06T17:20:17.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Emanuel Boeminghaus",
+            "screen_name" : "E_Boeminghaus",
+            "indices" : [
+              "0",
+              "14"
+            ],
+            "id_str" : "3824124982",
+            "id" : "3824124982"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "142"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "2019717482928292200",
+      "id_str" : "2019808376759406999",
+      "in_reply_to_user_id" : "3824124982",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "2019808376759406999",
+      "in_reply_to_status_id" : "2019717482928292200",
+      "created_at" : "Fri Feb 06 16:20:17 +0000 2026",
+      "favorited" : false,
+      "full_text" : "@E_Boeminghaus die leute brauchen nur noch 2 wochen geduld, dann kommt der blackout, und dann haben die leute endlich wieder echte probleme...",
+      "lang" : "de",
+      "in_reply_to_screen_name" : "E_Boeminghaus",
+      "in_reply_to_user_id_str" : "3824124982",
+      "deleted_at" : "Fri Feb 06 16:20:37 +0000 2026"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "2019711862670295123"
+          ],
+          "editableUntil" : "2026-02-06T10:56:47.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "whoaremyfriends",
+            "indices" : [
+              "122",
+              "138"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Brian Roemmele",
+            "screen_name" : "BrianRoemmele",
+            "indices" : [
+              "0",
+              "14"
+            ],
+            "id_str" : "101584084",
+            "id" : "101584084"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "138"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "2019606698546372840",
+      "id_str" : "2019711862670295123",
+      "in_reply_to_user_id" : "101584084",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "2019711862670295123",
+      "in_reply_to_status_id" : "2019606698546372840",
+      "created_at" : "Fri Feb 06 09:56:47 +0000 2026",
+      "favorited" : false,
+      "full_text" : "@BrianRoemmele \"why they failed\"\n\nbecause pacifism is the problem. we need symbiosis of different personality types -&gt; #whoaremyfriends",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "BrianRoemmele",
+      "in_reply_to_user_id_str" : "101584084",
+      "deleted_at" : "Fri Feb 06 09:57:01 +0000 2026"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "2019710360606167355"
+          ],
+          "editableUntil" : "2026-02-06T10:50:49.029Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Paul Brandenburg",
+            "screen_name" : "docbrandenburg",
+            "indices" : [
+              "3",
+              "18"
+            ],
+            "id_str" : "1361649646129537026",
+            "id" : "1361649646129537026"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "143"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "2019710360606167355",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "2019710360606167355",
+      "created_at" : "Fri Feb 06 09:50:49 +0000 2026",
+      "favorited" : false,
+      "full_text" : "RT @docbrandenburg: Nius, Kontrafunk  &amp; Co: Epstein-Horror entlarvt die Mossad-Medien\n\nDas Schweigen der selbsternannten \"Gegenmedien\" vom…",
+      "lang" : "de",
+      "deleted_at" : "Fri Feb 06 09:51:21 +0000 2026"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "2019437225356955851"
+          ],
+          "editableUntil" : "2026-02-05T16:45:28.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Julian Reichelt",
+            "screen_name" : "jreichelt",
+            "indices" : [
+              "0",
+              "10"
+            ],
+            "id_str" : "19069018",
+            "id" : "19069018"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "46"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "2019423337349542268",
+      "id_str" : "2019437225356955851",
+      "in_reply_to_user_id" : "19069018",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "2019437225356955851",
+      "in_reply_to_status_id" : "2019423337349542268",
+      "created_at" : "Thu Feb 05 15:45:28 +0000 2026",
+      "favorited" : false,
+      "full_text" : "@jreichelt C wie in Cocksucker, oder kurz Cuck",
+      "lang" : "de",
+      "in_reply_to_screen_name" : "jreichelt",
+      "in_reply_to_user_id_str" : "19069018",
+      "deleted_at" : "Thu Feb 05 15:45:46 +0000 2026"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "2023841233802813526"
+          ],
+          "editableUntil" : "2026-02-17T20:25:25.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Sama Hoole",
+            "screen_name" : "SamaHoole",
+            "indices" : [
+              "0",
+              "10"
+            ],
+            "id_str" : "2253756806",
+            "id" : "2253756806"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "100"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "2023619494933852279",
+      "id_str" : "2023841233802813526",
+      "in_reply_to_user_id" : "2253756806",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "2023841233802813526",
+      "in_reply_to_status_id" : "2023619494933852279",
+      "created_at" : "Tue Feb 17 19:25:25 +0000 2026",
+      "favorited" : false,
+      "full_text" : "@SamaHoole the hardest part is accepting that \"all wells are poisoned\".\ntheir poisons are everywhere",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "SamaHoole",
+      "in_reply_to_user_id_str" : "2253756806",
+      "deleted_at" : "Tue Feb 17 19:25:50 +0000 2026"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "2023827356625063961"
+          ],
+          "editableUntil" : "2026-02-17T19:30:17.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Alex",
+            "screen_name" : "libertas_HH",
+            "indices" : [
+              "0",
+              "12"
+            ],
+            "id_str" : "1747579481768841216",
+            "id" : "1747579481768841216"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "63"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "2023813356600086847",
+      "id_str" : "2023827356625063961",
+      "in_reply_to_user_id" : "1747579481768841216",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "2023827356625063961",
+      "in_reply_to_status_id" : "2023813356600086847",
+      "created_at" : "Tue Feb 17 18:30:17 +0000 2026",
+      "favorited" : false,
+      "full_text" : "@libertas_HH demokratie ist einfach die dümmste staatsform ever",
+      "lang" : "de",
+      "in_reply_to_screen_name" : "libertas_HH",
+      "in_reply_to_user_id_str" : "1747579481768841216",
+      "deleted_at" : "Tue Feb 17 18:30:39 +0000 2026"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "2023826633929716198"
+          ],
+          "editableUntil" : "2026-02-17T19:27:25.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Riewekooche",
+            "screen_name" : "HeidemannG23566",
+            "indices" : [
+              "0",
+              "16"
+            ],
+            "id_str" : "1756035556021014528",
+            "id" : "1756035556021014528"
+          },
+          {
+            "name" : "„Plagiatsjäger“",
+            "screen_name" : "SprachPhilo",
+            "indices" : [
+              "17",
+              "29"
+            ],
+            "id_str" : "1521510797628915712",
+            "id" : "1521510797628915712"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "141"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "2023805901963227143",
+      "id_str" : "2023826633929716198",
+      "in_reply_to_user_id" : "1756035556021014528",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "2023826633929716198",
+      "in_reply_to_status_id" : "2023805901963227143",
+      "created_at" : "Tue Feb 17 18:27:25 +0000 2026",
+      "favorited" : false,
+      "full_text" : "@HeidemannG23566 @SprachPhilo militär und paramilitärs (hells angels, bandidos, ...).\naber ja, extrem unwahrscheinlich, zu viele schwächlinge",
+      "lang" : "de",
+      "in_reply_to_screen_name" : "HeidemannG23566",
+      "in_reply_to_user_id_str" : "1756035556021014528",
+      "deleted_at" : "Tue Feb 17 18:27:44 +0000 2026"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "2023657314931060920"
+          ],
+          "editableUntil" : "2026-02-17T08:14:36.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Raphael Volz",
+            "screen_name" : "ProfVolz",
+            "indices" : [
+              "0",
+              "9"
+            ],
+            "id_str" : "1875208957004025856",
+            "id" : "1875208957004025856"
+          },
+          {
+            "name" : "„Plagiatsjäger“",
+            "screen_name" : "SprachPhilo",
+            "indices" : [
+              "10",
+              "22"
+            ],
+            "id_str" : "1521510797628915712",
+            "id" : "1521510797628915712"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "243"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "2023372787595853956",
+      "id_str" : "2023657314931060920",
+      "in_reply_to_user_id" : "1875208957004025856",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "2023657314931060920",
+      "in_reply_to_status_id" : "2023372787595853956",
+      "created_at" : "Tue Feb 17 07:14:36 +0000 2026",
+      "favorited" : false,
+      "full_text" : "@ProfVolz @SprachPhilo &gt; ebenso fehlt natürlich jede wirtschaftliche Grundlage für eine schnelle Besserung\n\nja, die altparteien hinterlassen verbrannte erde: gesprengte atomkraftwerke, gesprengte kohlekraftwerke, gesprengte kohlebrücke, ...",
+      "lang" : "de",
+      "in_reply_to_screen_name" : "ProfVolz",
+      "in_reply_to_user_id_str" : "1875208957004025856",
+      "deleted_at" : "Tue Feb 17 07:14:55 +0000 2026"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "2023492452498411675"
+          ],
+          "editableUntil" : "2026-02-16T21:19:30.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Lexa 🇩🇪",
+            "screen_name" : "rebew_lexa",
+            "indices" : [
+              "0",
+              "11"
+            ],
+            "id_str" : "1301527213704179720",
+            "id" : "1301527213704179720"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "106"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "2023316898201420170",
+      "id_str" : "2023492452498411675",
+      "in_reply_to_user_id" : "1301527213704179720",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "2023492452498411675",
+      "in_reply_to_status_id" : "2023316898201420170",
+      "created_at" : "Mon Feb 16 20:19:30 +0000 2026",
+      "favorited" : false,
+      "full_text" : "@rebew_lexa &gt; Beschwichtigung\n\nalso ich rechne mit dem worst case: blackout, bürgerkrieg, massensterben",
+      "lang" : "de",
+      "in_reply_to_screen_name" : "rebew_lexa",
+      "in_reply_to_user_id_str" : "1301527213704179720",
+      "deleted_at" : "Mon Feb 16 20:19:53 +0000 2026"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "2023492373939134849"
+          ],
+          "editableUntil" : "2026-02-16T21:19:11.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Lexa 🇩🇪",
+            "screen_name" : "rebew_lexa",
+            "indices" : [
+              "0",
+              "11"
+            ],
+            "id_str" : "1301527213704179720",
+            "id" : "1301527213704179720"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "91"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "2023316898201420170",
+      "id_str" : "2023492373939134849",
+      "in_reply_to_user_id" : "1301527213704179720",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "2023492373939134849",
+      "in_reply_to_status_id" : "2023316898201420170",
+      "created_at" : "Mon Feb 16 20:19:11 +0000 2026",
+      "favorited" : false,
+      "full_text" : "@rebew_lexa &gt; Beschwichtigung\n\nalso ich rechne mit dem worst case: blackout, bürgerkrieg",
+      "lang" : "de",
+      "in_reply_to_screen_name" : "rebew_lexa",
+      "in_reply_to_user_id_str" : "1301527213704179720",
+      "deleted_at" : "Mon Feb 16 20:19:24 +0000 2026"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "2023489207264834011"
+          ],
+          "editableUntil" : "2026-02-16T21:06:36.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Zertifikatsmaurer Aron Pielka",
+            "screen_name" : "shlomo96",
+            "indices" : [
+              "0",
+              "9"
+            ],
+            "id_str" : "1592241843453952003",
+            "id" : "1592241843453952003"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/bxb0u55vr0",
+            "expanded_url" : "https://www.youtube.com/watch?v=9TeSNCCSBKI",
+            "display_url" : "youtube.com/watch?v=9TeSNC…",
+            "indices" : [
+              "89",
+              "112"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "112"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "2023433969312936150",
+      "id_str" : "2023489207264834011",
+      "in_reply_to_user_id" : "1592241843453952003",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "2023489207264834011",
+      "in_reply_to_status_id" : "2023433969312936150",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Feb 16 20:06:36 +0000 2026",
+      "favorited" : false,
+      "full_text" : "@shlomo96 ein guter track von frauenarzt:\n\nwas willst du tun wenn der staat dich fickt?\n\nhttps://t.co/bxb0u55vr0",
+      "lang" : "de",
+      "in_reply_to_screen_name" : "shlomo96",
+      "in_reply_to_user_id_str" : "1592241843453952003",
+      "deleted_at" : "Mon Feb 16 20:07:23 +0000 2026"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "2023041493045559415"
+          ],
+          "editableUntil" : "2026-02-15T15:27:32.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Zertifikatsmaurer Aron Pielka",
+            "screen_name" : "shlomo96",
+            "indices" : [
+              "0",
+              "9"
+            ],
+            "id_str" : "1592241843453952003",
+            "id" : "1592241843453952003"
+          },
+          {
+            "name" : "Feroz Khan",
+            "screen_name" : "achseostwest",
+            "indices" : [
+              "10",
+              "23"
+            ],
+            "id_str" : "1600411627156807680",
+            "id" : "1600411627156807680"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/GoQoKntsje",
+            "expanded_url" : "https://milahu.github.io/alchi/src/whoaremyfriends/wersindmeinefreunde.html#radical-problems",
+            "display_url" : "milahu.github.io/alchi/src/whoa…",
+            "indices" : [
+              "264",
+              "287"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "287"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "2023031412182430019",
+      "id_str" : "2023041493045559415",
+      "in_reply_to_user_id" : "1592241843453952003",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "2023041493045559415",
+      "in_reply_to_status_id" : "2023031412182430019",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Feb 15 14:27:32 +0000 2026",
+      "favorited" : false,
+      "full_text" : "@shlomo96 @achseostwest lies!\n\nhier noch ein kapitel aus meinem buch:\n\nRadikale Probleme\n\nDas Paradies auf Erden scheitert, weil moderate Menschen suchen moderate Lösungen für radikale Probleme (Übervölkerung, Degeneration, Naturzerstörung, Rohstoffmangel).\n\n...\n\nhttps://t.co/GoQoKntsje",
+      "lang" : "de",
+      "in_reply_to_screen_name" : "shlomo96",
+      "in_reply_to_user_id_str" : "1592241843453952003",
+      "deleted_at" : "Sun Feb 15 14:27:51 +0000 2026"
     }
   }
 ]
