@@ -12,7 +12,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "1964312974236991488",
             "id" : "2015508318568001704",
-            "createdAt" : "2026-01-25T19:33:24.183Z"
+            "createdAt" : "2026-01-25T19:33:24.183Z",
+            "editHistory" : [ ]
           }
         }
       ]
@@ -254,7 +255,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "1964312974236991488",
             "id" : "2017229114084634986",
-            "createdAt" : "2026-01-30T13:31:13.897Z"
+            "createdAt" : "2026-01-30T13:31:13.897Z",
+            "editHistory" : [ ]
           }
         }
       ]
@@ -264,6 +266,18 @@ window.YTD.direct_messages.part0 = [
     "dmConversation" : {
       "conversationId" : "1854478037913571328-1964312974236991488",
       "messages" : [
+        {
+          "messageCreate" : {
+            "recipientId" : "1854478037913571328",
+            "reactions" : [ ],
+            "urls" : [ ],
+            "text" : "ping",
+            "mediaUrls" : [ ],
+            "senderId" : "1964312974236991488",
+            "id" : "2027078712223543754",
+            "createdAt" : "2026-02-26T17:50:01.004Z"
+          }
+        },
         {
           "messageCreate" : {
             "recipientId" : "1854478037913571328",
@@ -286,7 +300,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "1964312974236991488",
             "id" : "2019328694733377833",
-            "createdAt" : "2026-02-05T08:34:12.934Z"
+            "createdAt" : "2026-02-05T08:34:12.934Z",
+            "editHistory" : [ ]
           }
         }
       ]
